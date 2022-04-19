@@ -35,6 +35,34 @@ proxies:
   - {name: 0419-15, server: 217.30.10.68, port: 9061, type: ss, cipher: aes-256-cfb, password: 4R3hUfZ2FHhDmNcP}
   - {name: 0419-16, server: 217.30.10.65, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
   - {name: 0419-17, server: 217.30.10.65, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX}
+  - {name: 0416-1, server: 152.89.210.84, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y}
+  - {name: 0416-2, server: fkgfw-prod.i.sxl.cn, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f}
+  - {name: 0416-3, server: 213.183.59.229, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: 0416-4, server: 152.89.210.84, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa}
+  - {name: 0416-5, server: 103.172.116.6, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: 0416-6, server: 5.183.179.137, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
+  - {name: 0416-7, server: 103.172.116.6, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
+  - {name: 0416-8, server: 185.167.116.252, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: 0416-9, server: 185.167.116.252, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt}
+  - {name: 0416-10, server: 185.167.116.250, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN}
+  - {name: 0416-11, server: 185.167.116.250, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y}
+  - {name: 0416-12, server: 185.167.116.250, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: 0416-13, server: 185.167.116.250, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
+  - {name: 0416-14, server: 213.183.53.200, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
+  - {name: 0416-15, server: 185.167.116.253, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn}
+  - {name: 0417-1, server: 213.183.51.172, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8}
+  - {name: 0417-2, server: 213.183.53.200, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn}
+  - {name: 0417-3, server: 213.183.53.177, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
+  - {name: 0417-4, server: 213.183.53.177, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
+  - {name: 0417-5, server: 213.183.53.200, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH}
+  - {name: 0417-6, server: 213.183.53.177, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb}
+  - {name: 0417-7, server: 213.183.53.177, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: 0417-8, server: 213.183.53.177, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA}
+  - {name: 0417-9, server: 213.183.53.177, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH}
+  - {name: 0417-10, server: 185.126.116.125, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: 0417-11, server: 185.167.117.171, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb}
+  - {name: 0417-12, server: 185.126.116.125, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: 0417-13, server: 185.126.116.125, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -73,6 +101,34 @@ proxy-groups:
       - 0418-11
       - 0418-12
       - 0418-13
+      - 0416-1
+      - 0416-2
+      - 0416-3
+      - 0416-4
+      - 0416-5
+      - 0416-6
+      - 0416-7
+      - 0416-8
+      - 0416-9
+      - 0416-10
+      - 0416-11
+      - 0416-12
+      - 0416-13
+      - 0416-14
+      - 0416-15
+      - 0417-1
+      - 0417-2
+      - 0417-3
+      - 0417-4
+      - 0417-5
+      - 0417-6
+      - 0417-7
+      - 0417-8
+      - 0417-9
+      - 0417-10
+      - 0417-11
+      - 0417-12
+      - 0417-13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -109,6 +165,34 @@ proxy-groups:
       - 0418-11
       - 0418-12
       - 0418-13
+      - 0416-1
+      - 0416-2
+      - 0416-3
+      - 0416-4
+      - 0416-5
+      - 0416-6
+      - 0416-7
+      - 0416-8
+      - 0416-9
+      - 0416-10
+      - 0416-11
+      - 0416-12
+      - 0416-13
+      - 0416-14
+      - 0416-15
+      - 0417-1
+      - 0417-2
+      - 0417-3
+      - 0417-4
+      - 0417-5
+      - 0417-6
+      - 0417-7
+      - 0417-8
+      - 0417-9
+      - 0417-10
+      - 0417-11
+      - 0417-12
+      - 0417-13
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -144,6 +228,34 @@ proxy-groups:
       - 0418-11
       - 0418-12
       - 0418-13
+      - 0416-1
+      - 0416-2
+      - 0416-3
+      - 0416-4
+      - 0416-5
+      - 0416-6
+      - 0416-7
+      - 0416-8
+      - 0416-9
+      - 0416-10
+      - 0416-11
+      - 0416-12
+      - 0416-13
+      - 0416-14
+      - 0416-15
+      - 0417-1
+      - 0417-2
+      - 0417-3
+      - 0417-4
+      - 0417-5
+      - 0417-6
+      - 0417-7
+      - 0417-8
+      - 0417-9
+      - 0417-10
+      - 0417-11
+      - 0417-12
+      - 0417-13
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -179,6 +291,34 @@ proxy-groups:
       - 0418-11
       - 0418-12
       - 0418-13
+      - 0416-1
+      - 0416-2
+      - 0416-3
+      - 0416-4
+      - 0416-5
+      - 0416-6
+      - 0416-7
+      - 0416-8
+      - 0416-9
+      - 0416-10
+      - 0416-11
+      - 0416-12
+      - 0416-13
+      - 0416-14
+      - 0416-15
+      - 0417-1
+      - 0417-2
+      - 0417-3
+      - 0417-4
+      - 0417-5
+      - 0417-6
+      - 0417-7
+      - 0417-8
+      - 0417-9
+      - 0417-10
+      - 0417-11
+      - 0417-12
+      - 0417-13
   - name: 🎯 全球直连
     type: select
     proxies:
