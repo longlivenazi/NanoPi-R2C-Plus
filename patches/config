@@ -168,6 +168,20 @@ proxies:
   - {name: 🇺🇸 美国3--混合加密, server: hkaz1.xmrth-node.xyz, port: 10033, type: vmess, uuid: ececdd8d-d257-3e9b-a770-9abaf61e4920, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /index, headers: {Host: hkaz1.xmrth-node.xyz}}}
   - {name: 🇸🇬 新加坡专线--混合加密, server: cn1.relay.iepl.pw, port: 50500, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
   - {name: 🇯🇵 日本3--混合加密, server: cn1.relay.iepl.pw, port: 50300, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹1, server: 185.126.116.117, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹2, server: 169.197.142.99, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹3, server: 213.183.63.218, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹4, server: 185.167.117.171, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹5, server: 185.167.117.171, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹6, server: 217.30.10.65, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹7, server: 169.197.142.99, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹8, server: 5.183.179.146, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹9, server: 172.105.244.165, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹10, server: 185.167.117.171, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹11, server: 158.247.199.253, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹12, server: 217.30.10.66, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹13, server: 120.232.82.202, port: 38615, type: ss, cipher: aes-128-gcm, password: 71e5c050-aea8-42ab-b6d4-8255172dd3be}
+  - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹14, server: 217.30.10.65, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -339,6 +353,20 @@ proxy-groups:
       - 🇺🇸 美国3--混合加密
       - 🇸🇬 新加坡专线--混合加密
       - 🇯🇵 日本3--混合加密
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹1
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹2
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹3
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹4
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹5
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹6
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹7
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹8
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹9
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹10
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹11
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹12
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹13
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹14
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -508,6 +536,20 @@ proxy-groups:
       - 🇺🇸 美国3--混合加密
       - 🇸🇬 新加坡专线--混合加密
       - 🇯🇵 日本3--混合加密
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹1
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹2
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹3
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹4
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹5
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹6
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹7
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹8
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹9
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹10
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹11
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹12
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹13
+      - 0️⃣5️⃣0️⃣2️⃣🈯💹14
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
