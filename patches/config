@@ -151,6 +151,23 @@ proxies:
   - {name: 🔒高加密0️⃣4️⃣3️⃣0️⃣-11, server: 104.25.104.240, port: 443, type: vmess, uuid: c675b1c1-b668-46fc-97eb-6bdcc57fd3a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /Support-Putin-Kill-all-Ukrainians_vws, ws-headers: {Host: in.884899.cf}}
   - {name: 🔒高加密0️⃣4️⃣3️⃣0️⃣-12, server: icook.tw, port: 443, type: vmess, uuid: c675b1c1-b668-46fc-97eb-6bdcc57fd3a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /Support-Putin-Kill-all-Ukrainians_vws, ws-headers: {Host: in.884899.cf}}
   - {name: 🔒高加密0️⃣4️⃣3️⃣0️⃣-13, server: 104.25.175.69, port: 443, type: vmess, uuid: c675b1c1-b668-46fc-97eb-6bdcc57fd3a3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /Support-Putin-Kill-all-Ukrainians_vws, ws-headers: {Host: in.884899.cf}}
+  - {name: 🇭🇰 香港3--混合加密, server: 426hk1.fans8.xyz, port: 443, type: vmess, uuid: 93bdaed5-13c5-3927-93d7-a6877c5ac8d2, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 426hk1.fans8.xyz}}}
+  - {name: 🇸🇬 新加坡1--混合加密, server: iplc01.2333dns.com, port: 3051, type: vmess, uuid: 8cc8320f-f880-31c8-bb6a-1ecfc503a2ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇯🇵 日本低延时-混合加密, server: api-02.malibaba.xyz, port: 15563, type: trojan, password: 49368720-0518-3857-8aa1-5fc6b7b72021, sni: api-02.malibaba.xyz, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡--混合加密, server: 157.230.41.220, port: 29596, type: ss, cipher: aes-256-cfb, password: e6c1cf51375c407d92d110881a825acb}
+  - {name: 🇨🇳 台湾--混合加密, server: 331tw.fans8.xyz, port: 443, type: vmess, uuid: 93bdaed5-13c5-3927-93d7-a6877c5ac8d2, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 331tw.fans8.xyz}}}
+  - {name: 🇨🇳 台湾3--混合加密, server: iplc01.2333dns.com, port: 3071, type: vmess, uuid: 8cc8320f-f880-31c8-bb6a-1ecfc503a2ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 台湾2--混合加密, server: cm-jm.okvpn.xyz, port: 20000, type: trojan, password: 4ea642c6-ca67-4025-aed6-f743f13d0e20, sni: cm-jm.okvpn.xyz, skip-cert-verify: false}
+  - {name: 🇭🇰 香港--混合加密, server: iplc01.2333dns.com, port: 3141, type: vmess, uuid: 8cc8320f-f880-31c8-bb6a-1ecfc503a2ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 香港ssr--混合加密, server: dog.newhost.cc, port: 10256, type: ssr, cipher: aes-256-cfb, password: TuXJdt, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 6014:4GW72K, obfs-param: telegram.channel.p2psharing}
+  - {name: 🇨🇳 台湾1--混合加密, server: cn1.relay.iepl.pw, port: 50200, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
+  - {name: 🇭🇰 香港1--混合加密, server: cn.speedabc.xyz, port: 42011, type: trojan, password: cfbabf31-2cf6-40ca-9688-abbb682370aa, sni: cn.speedabc.xyz, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡2--混合加密, server: cn.speedabc.xyz, port: 42004, type: trojan, password: cfbabf31-2cf6-40ca-9688-abbb682370aa, sni: cn.speedabc.xyz, skip-cert-verify: false}
+  - {name: 🇰🇷 韩国--混合加密, server: iplc01.2333dns.com, port: 3091, type: vmess, uuid: 8cc8320f-f880-31c8-bb6a-1ecfc503a2ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡3--混合加密, server: sg3.31vpn.com, port: 80, type: vmess, uuid: ff382d09-becd-41cb-8e4f-3e256b27de47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /fastssh/ntmdq/6267584ee4988/, headers: {Host: sg3.31vpn.com}}}
+  - {name: 🇺🇸 美国3--混合加密, server: hkaz1.xmrth-node.xyz, port: 10033, type: vmess, uuid: ececdd8d-d257-3e9b-a770-9abaf61e4920, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /index, headers: {Host: hkaz1.xmrth-node.xyz}}}
+  - {name: 🇸🇬 新加坡专线--混合加密, server: cn1.relay.iepl.pw, port: 50500, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
+  - {name: 🇯🇵 日本3--混合加密, server: cn1.relay.iepl.pw, port: 50300, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -305,6 +322,23 @@ proxy-groups:
       - 🔒高加密0️⃣4️⃣3️⃣0️⃣-11
       - 🔒高加密0️⃣4️⃣3️⃣0️⃣-12
       - 🔒高加密0️⃣4️⃣3️⃣0️⃣-13
+      - 🇭🇰 香港3--混合加密
+      - 🇸🇬 新加坡1--混合加密
+      - 🇯🇵 日本低延时-混合加密
+      - 🇸🇬 新加坡--混合加密
+      - 🇨🇳 台湾--混合加密
+      - 🇨🇳 台湾3--混合加密
+      - 🇨🇳 台湾2--混合加密
+      - 🇭🇰 香港--混合加密
+      - 🇭🇰 香港ssr--混合加密
+      - 🇨🇳 台湾1--混合加密
+      - 🇭🇰 香港1--混合加密
+      - 🇸🇬 新加坡2--混合加密
+      - 🇰🇷 韩国--混合加密
+      - 🇸🇬 新加坡3--混合加密
+      - 🇺🇸 美国3--混合加密
+      - 🇸🇬 新加坡专线--混合加密
+      - 🇯🇵 日本3--混合加密
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -457,6 +491,23 @@ proxy-groups:
       - 🔒高加密0️⃣4️⃣3️⃣0️⃣-11
       - 🔒高加密0️⃣4️⃣3️⃣0️⃣-12
       - 🔒高加密0️⃣4️⃣3️⃣0️⃣-13
+      - 🇭🇰 香港3--混合加密
+      - 🇸🇬 新加坡1--混合加密
+      - 🇯🇵 日本低延时-混合加密
+      - 🇸🇬 新加坡--混合加密
+      - 🇨🇳 台湾--混合加密
+      - 🇨🇳 台湾3--混合加密
+      - 🇨🇳 台湾2--混合加密
+      - 🇭🇰 香港--混合加密
+      - 🇭🇰 香港ssr--混合加密
+      - 🇨🇳 台湾1--混合加密
+      - 🇭🇰 香港1--混合加密
+      - 🇸🇬 新加坡2--混合加密
+      - 🇰🇷 韩国--混合加密
+      - 🇸🇬 新加坡3--混合加密
+      - 🇺🇸 美国3--混合加密
+      - 🇸🇬 新加坡专线--混合加密
+      - 🇯🇵 日本3--混合加密
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
