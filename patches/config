@@ -182,6 +182,23 @@ proxies:
   - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹12, server: 217.30.10.66, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
   - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹13, server: 120.232.82.202, port: 38615, type: ss, cipher: aes-128-gcm, password: 71e5c050-aea8-42ab-b6d4-8255172dd3be}
   - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹14, server: 217.30.10.65, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN}
+  - {name: 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V01, server: v1.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v1.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V02, server: v2.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v2.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V03, server: v3.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v3.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V04, server: v4.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v4.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V05, server: v5.ssrsub.com, port: 8443, type: vmess, uuid: b7c70df3-f92f-4800-a8e1-67e6dc833256, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ssrsub, headers: {Host: v5.ssrsub.com}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V01", server: in-v1.sdgdn.com, port: 50301, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: in-v1.sdgdn.com}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V02", server: in-v1.sdgdn.com, port: 50701, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: telegram.channel.ripaojiedian}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V03", server: in-v1.sdgdn.com, port: 50207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: in-v1.sdgdn.com}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V04", server: in-v1.sdgdn.com, port: 50206, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: telegram.channel.p2psharing}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V05", server: in-v1.sdgdn.com, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: telegram.channel.ripaojiedian}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V06", server: 207.246.94.28, port: 42383, type: vmess, uuid: 4773dfdc-9c85-4873-8720-ce8cf5f74f7c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V07", server: 120.240.48.19, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: 120.240.48.19}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V08", server: jpaz2.xmrth-node.xyz, port: 10672, type: vmess, uuid: 49aed705-ac45-332c-aa62-7ac9a9d8cb0b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V09", server: jpaz2.xmrth-node.xyz, port: 10670, type: vmess, uuid: 49aed705-ac45-332c-aa62-7ac9a9d8cb0b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V10", server: sanfranciscolafayette.club, port: 443, type: vmess, uuid: cc0b4469-c0e5-4efb-8f69-a6df64db24ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /neuromancer, headers: {Host: sanfranciscolafayette.club}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V11", server: 138.197.236.77, port: 443, type: vmess, uuid: 3579436c-b37e-11eb-8529-0242ac130003, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: 138.197.236.77}}, udp: true}
+  - {name: "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V12", server: jpaz1.xmrth-node.xyz, port: 10058, type: vmess, uuid: 49aed705-ac45-332c-aa62-7ac9a9d8cb0b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /index, headers: {Host: www.baidu.com}}, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -367,6 +384,23 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣2️⃣🈯💹12
       - 0️⃣5️⃣0️⃣2️⃣🈯💹13
       - 0️⃣5️⃣0️⃣2️⃣🈯💹14
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V01
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V02
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V03
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V04
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V05
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V01"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V02"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V03"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V04"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V05"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V06"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V07"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V08"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V09"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V10"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V11"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V12"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -550,6 +584,23 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣2️⃣🈯💹12
       - 0️⃣5️⃣0️⃣2️⃣🈯💹13
       - 0️⃣5️⃣0️⃣2️⃣🈯💹14
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V01
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V02
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V03
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V04
+      - 🇷🇺 🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--俄罗斯V05
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V01"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V02"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V03"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V04"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V05"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V06"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V07"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V08"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V09"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V10"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V11"
+      - "🔒🔒高加密0️⃣5️⃣0️⃣2️⃣--V12"
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
