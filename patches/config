@@ -182,7 +182,19 @@ proxies:
   - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹12, server: 217.30.10.66, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
   - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹13, server: 120.232.82.202, port: 38615, type: ss, cipher: aes-128-gcm, password: 71e5c050-aea8-42ab-b6d4-8255172dd3be}
   - {name: 0️⃣5️⃣0️⃣2️⃣🈯💹14, server: 217.30.10.65, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN}
-
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫1, server: 134.195.196.205, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫2, server: 134.195.196.205, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫3, server: 134.195.196.205, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫4, server: 198.57.27.225, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫5, server: 134.195.196.205, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫6, server: 134.195.196.205, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫7, server: 134.195.196.205, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫8, server: 134.195.196.205, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫9, server: 185.167.117.171, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫10, server: 92.38.171.101, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫11, server: 172.99.190.35, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫12, server: 172.99.190.35, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 0️⃣5️⃣0️⃣9️⃣⚫⚫13, server: ss-node-3.gfwairport.net, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 042adefc-0d6d-4024-863f-8bbfb4a94062}
   - {name: 0️⃣5️⃣0️⃣4️⃣🅰🅱-1, server: 213.183.63.218, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ}
   - {name: 0️⃣5️⃣0️⃣4️⃣🅰🅱-2, server: 169.197.142.99, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 0️⃣5️⃣0️⃣4️⃣🅰🅱-3, server: 213.183.63.218, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
@@ -572,6 +584,19 @@ proxy-groups:
       - "🔒🔒高加密-V12"
       - "🔒🔒高加密-V13"
       - "🔒🔒高加密-V14"
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫1
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫2
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫3
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫4
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫5
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫6
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫7
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫8
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫9
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫10
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫11
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫12
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -845,6 +870,19 @@ proxy-groups:
       - "🔒🔒高加密-V12"
       - "🔒🔒高加密-V13"
       - "🔒🔒高加密-V14"
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫1
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫2
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫3
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫4
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫5
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫6
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫7
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫8
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫9
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫10
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫11
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫12
+      - 0️⃣5️⃣0️⃣9️⃣⚫⚫13
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
