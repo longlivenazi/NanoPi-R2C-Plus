@@ -309,6 +309,19 @@ proxies:
   - {name: "🔒🔒高加密-V12", server: in-v1.sdgdn.com, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: telegram.channel.ripaojiedian}}, udp: true}
   - {name: "🔒🔒高加密-V13", server: in-v1.sdgdn.com, port: 50207, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: in-v1.sdgdn.com}}, udp: true}
   - {name: "🔒🔒高加密-V14", server: sxqxj.cn, port: 2164, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: sxqxj.cn}}, udp: true}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-1, server: 198.57.27.225, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-2, server: 172.99.190.35, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-3, server: 172.99.190.35, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-4, server: 172.99.190.35, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-5, server: 172.99.190.35, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-6, server: 172.99.190.35, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-7, server: 198.57.27.225, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-8, server: 185.225.19.64, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-9, server: 213.183.53.177, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-10, server: 198.57.27.225, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-11, server: 198.57.27.225, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-12, server: 172.99.190.35, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-13, server: 198.57.27.225, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -597,6 +610,19 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣9️⃣⚫⚫11
       - 0️⃣5️⃣0️⃣9️⃣⚫⚫12
       - 0️⃣5️⃣0️⃣9️⃣⚫⚫13
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-1
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-2
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-3
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-4
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-5
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-6
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-7
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-8
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-9
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-10
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-11
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-12
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -883,6 +909,19 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣9️⃣⚫⚫11
       - 0️⃣5️⃣0️⃣9️⃣⚫⚫12
       - 0️⃣5️⃣0️⃣9️⃣⚫⚫13
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-1
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-2
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-3
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-4
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-5
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-6
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-7
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-8
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-9
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-10
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-11
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-12
+      - 0️⃣5️⃣1️⃣0️⃣⬜⬜-13
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
