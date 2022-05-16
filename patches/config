@@ -238,6 +238,25 @@ proxies:
   - {name: 🔒加密1️⃣5️⃣💥💥-12, server: 20.89.98.239, port: 80, type: vmess, uuid: ff02bc2f-dcc5-4be1-f7ed-886345c89ab2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密1️⃣5️⃣💥💥-13, server: zzcm08.bdate.xyz, port: 2570, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm08.bdate.xyz}}
   - {name: 🔒加密1️⃣5️⃣💥💥-14, server: zzcm08.bdate.xyz, port: 2570, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm08.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-1, server: zzcm07.bdate.xyz, port: 1030, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm07.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-2, server: zzcm07.bdate.xyz, port: 1980, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm07.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-3, server: zzcm06.bdate.xyz, port: 1040, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm06.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-4, server: zzcm04.bdate.xyz, port: 2000, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm04.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-5, server: zzcm01.bdate.xyz, port: 1360, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm01.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-6, server: zzcm09.bdate.xyz, port: 1350, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-7, server: zzcm04.bdate.xyz, port: 1980, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm04.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-8, server: zzcm07.bdate.xyz, port: 1360, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm07.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-9, server: zzcm04.bdate.xyz, port: 1280, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm04.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-10, server: www.mnn.tw, port: 443, type: vmess, uuid: bc9d22de-d9c4-444c-8637-bead39ba8674, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /igyjvws, ws-headers: {Host: n.nmms.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-11, server: zzcm04.bdate.xyz, port: 1370, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm04.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-12, server: zzcm06.bdate.xyz, port: 1360, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm06.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-13, server: zzcm09.bdate.xyz, port: 1930, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-14, server: zzcm06.bdate.xyz, port: 1360, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm06.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-15, server: v3.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v3.ssrsub.com}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-16, server: zzcm01.bdate.xyz, port: 1370, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm01.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-17, server: b10.v2.gay, port: 1930, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-18, server: zzcm04.bdate.xyz, port: 1980, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm04.bdate.xyz}}
+  - {name: 🔒加密1️⃣6️⃣⭕⭕-19, server: zzcm08.bdate.xyz, port: 1930, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm08.bdate.xyz}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -455,6 +474,25 @@ proxy-groups:
       - 🔒加密1️⃣5️⃣💥💥-12
       - 🔒加密1️⃣5️⃣💥💥-13
       - 🔒加密1️⃣5️⃣💥💥-14
+      - 🔒加密1️⃣6️⃣⭕⭕-1
+      - 🔒加密1️⃣6️⃣⭕⭕-2
+      - 🔒加密1️⃣6️⃣⭕⭕-3
+      - 🔒加密1️⃣6️⃣⭕⭕-4
+      - 🔒加密1️⃣6️⃣⭕⭕-5
+      - 🔒加密1️⃣6️⃣⭕⭕-6
+      - 🔒加密1️⃣6️⃣⭕⭕-7
+      - 🔒加密1️⃣6️⃣⭕⭕-8
+      - 🔒加密1️⃣6️⃣⭕⭕-9
+      - 🔒加密1️⃣6️⃣⭕⭕-10
+      - 🔒加密1️⃣6️⃣⭕⭕-11
+      - 🔒加密1️⃣6️⃣⭕⭕-12
+      - 🔒加密1️⃣6️⃣⭕⭕-13
+      - 🔒加密1️⃣6️⃣⭕⭕-14
+      - 🔒加密1️⃣6️⃣⭕⭕-15
+      - 🔒加密1️⃣6️⃣⭕⭕-16
+      - 🔒加密1️⃣6️⃣⭕⭕-17
+      - 🔒加密1️⃣6️⃣⭕⭕-18
+      - 🔒加密1️⃣6️⃣⭕⭕-19
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -670,6 +708,25 @@ proxy-groups:
       - 🔒加密1️⃣5️⃣💥💥-12
       - 🔒加密1️⃣5️⃣💥💥-13
       - 🔒加密1️⃣5️⃣💥💥-14
+      - 🔒加密1️⃣6️⃣⭕⭕-1
+      - 🔒加密1️⃣6️⃣⭕⭕-2
+      - 🔒加密1️⃣6️⃣⭕⭕-3
+      - 🔒加密1️⃣6️⃣⭕⭕-4
+      - 🔒加密1️⃣6️⃣⭕⭕-5
+      - 🔒加密1️⃣6️⃣⭕⭕-6
+      - 🔒加密1️⃣6️⃣⭕⭕-7
+      - 🔒加密1️⃣6️⃣⭕⭕-8
+      - 🔒加密1️⃣6️⃣⭕⭕-9
+      - 🔒加密1️⃣6️⃣⭕⭕-10
+      - 🔒加密1️⃣6️⃣⭕⭕-11
+      - 🔒加密1️⃣6️⃣⭕⭕-12
+      - 🔒加密1️⃣6️⃣⭕⭕-13
+      - 🔒加密1️⃣6️⃣⭕⭕-14
+      - 🔒加密1️⃣6️⃣⭕⭕-15
+      - 🔒加密1️⃣6️⃣⭕⭕-16
+      - 🔒加密1️⃣6️⃣⭕⭕-17
+      - 🔒加密1️⃣6️⃣⭕⭕-18
+      - 🔒加密1️⃣6️⃣⭕⭕-19
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
