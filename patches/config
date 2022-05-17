@@ -257,6 +257,17 @@ proxies:
   - {name: 🔒加密1️⃣6️⃣⭕⭕-17, server: b10.v2.gay, port: 1930, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
   - {name: 🔒加密1️⃣6️⃣⭕⭕-18, server: zzcm04.bdate.xyz, port: 1980, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm04.bdate.xyz}}
   - {name: 🔒加密1️⃣6️⃣⭕⭕-19, server: zzcm08.bdate.xyz, port: 1930, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm08.bdate.xyz}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-1, server: bai-piao-wang-zhe-iplc8.98848.xyz, port: 43642, type: vmess, uuid: 9b44f24d-388e-4b04-9901-10d571feda6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: bai-piao-wang-zhe-iplc8.98848.xyz}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-2, server: lu1.gogogoo.cyou, port: 443, type: vmess, uuid: db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /go, ws-headers: {Host: lu1.gogogoo.cyou}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-3, server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密1️⃣7️⃣📕📕-4, server: v2.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v2.ssrsub.com}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-5, server: v4.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v4.ssrsub.com}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-6, server: ruvds.testx.eu.org, port: 443, type: vmess, uuid: 0e7036c1-6de1-4a83-ef4f-e0d56c67fa10, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: "/vmess-share/?ed=2048", ws-headers: {Host: ruvds.testx.eu.org}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-7, server: yas2.brightyun.xyz, port: 10087, type: vmess, uuid: 43a46651-b1f1-3007-86f2-e307248ac669, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false}
+  - {name: 🔒加密1️⃣7️⃣📕📕-8, server: hkaz009.xmrth-node.xyz, port: 14252, type: vmess, uuid: 817da328-436b-3a2b-87b6-b8959f2ccb89, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /index, ws-headers: {Host: www.baidu.com}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-9, server: v1.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v1.ssrsub.com}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-11, server: v5.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v5.ssrsub.com}}
+  - {name: 🔒加密1️⃣7️⃣📕📕-12, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: dc09c9a0-1697-3f39-8ba9-65f2985e00ec, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 330tw.fans8.xyz}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -493,6 +504,17 @@ proxy-groups:
       - 🔒加密1️⃣6️⃣⭕⭕-17
       - 🔒加密1️⃣6️⃣⭕⭕-18
       - 🔒加密1️⃣6️⃣⭕⭕-19
+      - 🔒加密1️⃣7️⃣📕📕-1
+      - 🔒加密1️⃣7️⃣📕📕-2
+      - 🔒加密1️⃣7️⃣📕📕-3
+      - 🔒加密1️⃣7️⃣📕📕-4
+      - 🔒加密1️⃣7️⃣📕📕-5
+      - 🔒加密1️⃣7️⃣📕📕-6
+      - 🔒加密1️⃣7️⃣📕📕-7
+      - 🔒加密1️⃣7️⃣📕📕-8
+      - 🔒加密1️⃣7️⃣📕📕-9
+      - 🔒加密1️⃣7️⃣📕📕-11
+      - 🔒加密1️⃣7️⃣📕📕-12
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -727,6 +749,17 @@ proxy-groups:
       - 🔒加密1️⃣6️⃣⭕⭕-17
       - 🔒加密1️⃣6️⃣⭕⭕-18
       - 🔒加密1️⃣6️⃣⭕⭕-19
+      - 🔒加密1️⃣7️⃣📕📕-1
+      - 🔒加密1️⃣7️⃣📕📕-2
+      - 🔒加密1️⃣7️⃣📕📕-3
+      - 🔒加密1️⃣7️⃣📕📕-4
+      - 🔒加密1️⃣7️⃣📕📕-5
+      - 🔒加密1️⃣7️⃣📕📕-6
+      - 🔒加密1️⃣7️⃣📕📕-7
+      - 🔒加密1️⃣7️⃣📕📕-8
+      - 🔒加密1️⃣7️⃣📕📕-9
+      - 🔒加密1️⃣7️⃣📕📕-11
+      - 🔒加密1️⃣7️⃣📕📕-12
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
