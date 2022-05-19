@@ -141,52 +141,18 @@ proxies:
   - {name: 0️⃣5️⃣0️⃣4️⃣🅰🅱-9, server: 172.105.244.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 0️⃣5️⃣0️⃣4️⃣🅰🅱-10, server: 185.167.117.171, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq}
   - {name: 0️⃣5️⃣0️⃣4️⃣🅰🅱-11, server: 38.68.135.19, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇭🇰 香港-混合加密0️⃣5️⃣, server: 426hk1.fans8.xyz, port: 443, type: vmess, uuid: efaeb7b2-bd81-37d7-b3af-5c633570f423, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 426hk1.fans8.xyz}}}
-  - {name: 🇨🇳 台湾2-混合加密0️⃣5️⃣, server: 103.144.32.36, port: 443, type: vmess, uuid: 55dc9daf-ea0e-38f1-aa82-ed76c8b19df2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /apple-home, headers: {Host: tw.academicpapers.eu.org}}}
-  - {name: 🇨🇳 台湾-混合加密0️⃣5️⃣, server: 331tw.fans8.xyz, port: 443, type: vmess, uuid: efaeb7b2-bd81-37d7-b3af-5c633570f423, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 331tw.fans8.xyz}}}
-  - {name: 🇸🇬 新加坡1-混合加密0️⃣5️⃣, server: 157.230.41.220, port: 29596, type: ss, cipher: aes-256-cfb, password: e6c1cf51375c407d92d110881a825acb}
-  - {name: 关注频道不迷路, server: 47.52.59.79, port: 443, type: vmess, uuid: 5273702e-8e3d-4d76-998d-6026affb6f50, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /nana, headers: {Host: hk1.qingchengjisu.ltd}}}
-  - {name: 🇸🇬 新加坡-混合加密0️⃣5️⃣, server: 429sg8.fans8.xyz, port: 443, type: vmess, uuid: efaeb7b2-bd81-37d7-b3af-5c633570f423, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: 429sg8.fans8.xyz}}}
-  - {name: 🇭🇰 香港ssr-混合加密0️⃣5️⃣, server: iepl-gz.yyuuii.cyou, port: 64112, type: ssr, cipher: aes-256-cfb, password: hGkQ6915tD, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 37380:k4VJ9SyAu3, obfs-param: ajax.microsoft.com}
-  - {name: 🇯🇵 日本2-混合加密0️⃣5️⃣, server: 153.127.13.34, port: 465, type: vmess, uuid: f613af75-f9eb-3d84-9357-7c3b00d950a2, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /live/cctv6_2/index.m3u8, headers: {Host: ho9.speedsvip.co}}}
-  - {name: 🇸🇬 新加坡2-混合加密0️⃣5️⃣, server: 120.233.10.230, port: 50500, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
-  - {name: 🇸🇬 新加坡专线-混合加密0️⃣5️⃣, server: cn1.relay.iepl.pw, port: 50500, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
-  - {name: 🇯🇵 日本-混合加密0️⃣5️⃣, server: 85.208.108.58, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 美国ssr, server: ssrfree10.free4444.xyz, port: 443, type: ssr, cipher: dummy, password: dongtaiwang.com, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: 🇸🇬 狮城-混合加密0️⃣5️⃣, server: 31.222.226.99, port: 44333, type: vmess, uuid: c25ab731-7241-47c4-a52a-f518ba044efc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 31.222.226.99}}}
-  - {name: 🇺🇸 美国2-混合加密0️⃣5️⃣, server: 43.135.161.99, port: 443, type: vmess, uuid: f613af75-f9eb-3d84-9357-7c3b00d950a2, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /live/cctv6_2/index.m3u8, headers: {Host: us1.speedsvip.co}}}
-  - {name: 🇺🇸 美国1-混合加密0️⃣5️⃣, server: 38.68.135.19, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 美国-混合加密0️⃣5️⃣, server: 172.105.58.152, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 台北-混合加密0️⃣5️⃣, server: 36.134.113.58, port: 48004, type: vmess, uuid: c25ab731-7241-47c4-a52a-f518ba044efc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 36.134.113.58}}}
-  - {name: 🇨🇳 台湾1-混合加密0️⃣5️⃣, server: cn1.relay.iepl.pw, port: 50200, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
-  - {name: 🇰🇷 韩国-混合加密0️⃣5️⃣, server: 140.238.6.99, port: 443, type: vmess, uuid: f613af75-f9eb-3d84-9357-7c3b00d950a2, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /live/cctv6_2/index.m3u8, headers: {Host: ora1.speedsvip.co}}}
-  - {name: 🇯🇵 日本优选-混合加密0️⃣5️⃣, server: 36.134.113.58, port: 48002, type: vmess, uuid: c25ab731-7241-47c4-a52a-f518ba044efc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 36.134.113.58}}}
-  - {name: 🇯🇵 日本3-混合加密0️⃣5️⃣, server: cn1.relay.iepl.pw, port: 50300, type: ss, cipher: aes-128-gcm, password: df87f3f2-f2a7-4fae-ae7d-507cea790c95}
-  - {name: hawtaigroup-混合加密0️⃣5️⃣, server: www.hawtaigroup.com, port: 2086, type: vmess, uuid: 205bcebc-5ace-460e-bf69-af2e53ccca39, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@Banyun12138, headers: {Host: lasiweijiazi.jisuxiang.one}}}
-  - {name: 乌克兰 Ukraine★, server: gz2.52168.xyz, port: 12110, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇷🇺 俄罗斯 Russia★, server: gz2.52168.xyz, port: 12103, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇧🇬 保加利亚 Bulgaria●, server: gz1.52168.xyz, port: 11102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇮🇩 印度尼西亚 Indonesia(VIP)●, server: gz1.52168.xyz, port: 11103, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇹🇼 台湾 Taiwan★, server: gz2.52168.xyz, port: 12105, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇹🇷 土耳其 Turkey★, server: gz2.52168.xyz, port: 12104, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇩🇪 德国 Germany★, server: gz2.52168.xyz, port: 12101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇸🇬 新加坡 Singapore(VIP)★, server: gz2.52168.xyz, port: 12106, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇯🇵 日本 Japan(VIP)★, server: gz2.52168.xyz, port: 12107, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇹🇭 泰国 Thailand★, server: gz2.52168.xyz, port: 12109, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇦🇺 澳大利亚 Australia●, server: gz1.52168.xyz, port: 11111, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇨🇭 瑞士 Switzerland●, server: gz1.52168.xyz, port: 11116, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇺🇸 美国 America(VIP)★, server: gz2.52168.xyz, port: 12108, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇺🇸 美国 America●, server: gz1.52168.xyz, port: 11109, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇬🇧 英国 England★, server: gz2.52168.xyz, port: 12102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇳🇱 荷兰 Netherlands●, server: gz1.52168.xyz, port: 11117, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇵🇭 菲律宾 Philippine●, server: gz1.52168.xyz, port: 11101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇻🇳 越南 Vietnam(VIP)●, server: gz1.52168.xyz, port: 11107, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇰🇷 韩国 Korea(VIP)●, server: gz1.52168.xyz, port: 11115, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇭🇰 香港 Hongkong (AZ)●, server: gz1.52168.xyz, port: 11114, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇭🇰 香港 Hongkong HKBGP(VIP)●, server: gz1.52168.xyz, port: 11106, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇭🇰 香港 Hongkong HKBN(VIP)●, server: gz1.52168.xyz, port: 11113, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇭🇰 香港 Hongkong HKT(VIP)●, server: gz1.52168.xyz, port: 11112, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
-  - {name: 🇲🇾 马来西亚 Malaysia(VIP)●, server: gz1.52168.xyz, port: 11105, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:gt9img0d2jp, obfs-param: ee821149.baidu.com}
+  - {name: 🔒加密1️⃣8️⃣™™-1, server: v5.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v5.ssrsub.com}}
+  - {name: 🔒加密1️⃣8️⃣™™-2, server: 45.32.94.249, port: 29589, type: vmess, uuid: 63db045c-d921-4683-a063-d3cb3a16a1b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /a3dHxNiS/, ws-headers: {Host: 45.32.94.249}}
+  - {name: 🔒加密1️⃣8️⃣™™-3, server: 45.32.94.249, port: 29589, type: vmess, uuid: 63db045c-d921-4683-a063-d3cb3a16a1b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /a3dHxNiS/, ws-headers: {Host: 45.32.94.249}}
+  - {name: 🔒加密1️⃣8️⃣™™-4, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密1️⃣8️⃣™™-5, server: v3.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v3.ssrsub.com}}
+  - {name: 🔒加密1️⃣8️⃣™™-6, server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: ahdaeph8.com}}
+  - {name: 🔒加密1️⃣8️⃣™™-7, server: shouer.tk15.tk, port: 26122, type: vmess, uuid: c19949fe-e5ca-4aa7-b577-f9aed2c97c22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密1️⃣8️⃣™™-8, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密1️⃣8️⃣™™-9, server: v2ray.788644.xyz, port: 443, type: vmess, uuid: 000fe881-b655-4212-b804-b00f9970d5aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /happy, ws-headers: {Host: v2ray.788644.xyz}}
+  - {name: 🔒加密1️⃣8️⃣™™-10, server: v4.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v4.ssrsub.com}}
+  - {name: 🔒加密1️⃣8️⃣™™-11, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密1️⃣8️⃣™™-12, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ingress-i1.onebox6.org}}
   - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-1, server: 169.197.142.99, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
   - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-2, server: 169.197.142.99, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
   - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-3, server: 169.197.142.99, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
@@ -412,28 +378,18 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣4️⃣🅰🅱-9
       - 0️⃣5️⃣0️⃣4️⃣🅰🅱-10
       - 0️⃣5️⃣0️⃣4️⃣🅰🅱-11
-      - 🇭🇰 香港-混合加密0️⃣5️⃣
-      - 🇨🇳 台湾2-混合加密0️⃣5️⃣
-      - 🇨🇳 台湾-混合加密0️⃣5️⃣
-      - 🇸🇬 新加坡1-混合加密0️⃣5️⃣
-      - 关注频道不迷路
-      - 🇸🇬 新加坡-混合加密0️⃣5️⃣
-      - 🇭🇰 香港ssr-混合加密0️⃣5️⃣
-      - 🇯🇵 日本2-混合加密0️⃣5️⃣
-      - 🇸🇬 新加坡2-混合加密0️⃣5️⃣
-      - 🇸🇬 新加坡专线-混合加密0️⃣5️⃣
-      - 🇯🇵 日本-混合加密0️⃣5️⃣
-      - 🇺🇸 美国ssr
-      - 🇸🇬 狮城-混合加密0️⃣5️⃣
-      - 🇺🇸 美国2-混合加密0️⃣5️⃣
-      - 🇺🇸 美国1-混合加密0️⃣5️⃣
-      - 🇺🇸 美国-混合加密0️⃣5️⃣
-      - 台北-混合加密0️⃣5️⃣
-      - 🇨🇳 台湾1-混合加密0️⃣5️⃣
-      - 🇰🇷 韩国-混合加密0️⃣5️⃣
-      - 🇯🇵 日本优选-混合加密0️⃣5️⃣
-      - 🇯🇵 日本3-混合加密0️⃣5️⃣
-      - hawtaigroup-混合加密0️⃣5️⃣
+      - 🔒加密1️⃣8️⃣™™-1
+      - 🔒加密1️⃣8️⃣™™-2
+      - 🔒加密1️⃣8️⃣™™-3
+      - 🔒加密1️⃣8️⃣™™-4
+      - 🔒加密1️⃣8️⃣™™-5
+      - 🔒加密1️⃣8️⃣™™-6
+      - 🔒加密1️⃣8️⃣™™-7
+      - 🔒加密1️⃣8️⃣™™-8
+      - 🔒加密1️⃣8️⃣™™-9
+      - 🔒加密1️⃣8️⃣™™-10
+      - 🔒加密1️⃣8️⃣™™-11
+      - 🔒加密1️⃣8️⃣™™-12
       - 0️⃣5️⃣0️⃣8️⃣👩👩-1
       - 0️⃣5️⃣0️⃣8️⃣👩👩-2
       - 0️⃣5️⃣0️⃣8️⃣👩👩-3
@@ -657,28 +613,18 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣4️⃣🅰🅱-9
       - 0️⃣5️⃣0️⃣4️⃣🅰🅱-10
       - 0️⃣5️⃣0️⃣4️⃣🅰🅱-11
-      - 🇭🇰 香港-混合加密0️⃣5️⃣
-      - 🇨🇳 台湾2-混合加密0️⃣5️⃣
-      - 🇨🇳 台湾-混合加密0️⃣5️⃣
-      - 🇸🇬 新加坡1-混合加密0️⃣5️⃣
-      - 关注频道不迷路
-      - 🇸🇬 新加坡-混合加密0️⃣5️⃣
-      - 🇭🇰 香港ssr-混合加密0️⃣5️⃣
-      - 🇯🇵 日本2-混合加密0️⃣5️⃣
-      - 🇸🇬 新加坡2-混合加密0️⃣5️⃣
-      - 🇸🇬 新加坡专线-混合加密0️⃣5️⃣
-      - 🇯🇵 日本-混合加密0️⃣5️⃣
-      - 🇺🇸 美国ssr
-      - 🇸🇬 狮城-混合加密0️⃣5️⃣
-      - 🇺🇸 美国2-混合加密0️⃣5️⃣
-      - 🇺🇸 美国1-混合加密0️⃣5️⃣
-      - 🇺🇸 美国-混合加密0️⃣5️⃣
-      - 台北-混合加密0️⃣5️⃣
-      - 🇨🇳 台湾1-混合加密0️⃣5️⃣
-      - 🇰🇷 韩国-混合加密0️⃣5️⃣
-      - 🇯🇵 日本优选-混合加密0️⃣5️⃣
-      - 🇯🇵 日本3-混合加密0️⃣5️⃣
-      - hawtaigroup-混合加密0️⃣5️⃣
+      - 🔒加密1️⃣8️⃣™™-1
+      - 🔒加密1️⃣8️⃣™™-2
+      - 🔒加密1️⃣8️⃣™™-3
+      - 🔒加密1️⃣8️⃣™™-4
+      - 🔒加密1️⃣8️⃣™™-5
+      - 🔒加密1️⃣8️⃣™™-6
+      - 🔒加密1️⃣8️⃣™™-7
+      - 🔒加密1️⃣8️⃣™™-8
+      - 🔒加密1️⃣8️⃣™™-9
+      - 🔒加密1️⃣8️⃣™™-10
+      - 🔒加密1️⃣8️⃣™™-11
+      - 🔒加密1️⃣8️⃣™™-12
       - 0️⃣5️⃣0️⃣8️⃣👩👩-1
       - 0️⃣5️⃣0️⃣8️⃣👩👩-2
       - 0️⃣5️⃣0️⃣8️⃣👩👩-3
