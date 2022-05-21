@@ -170,7 +170,6 @@ proxies:
   - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03, server: v3.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v3.ssrsub.com}}, udp: true}
   - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V04, server: v4.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v4.ssrsub.com}}, udp: true}
   - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V05, server: v5.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v5.ssrsub.com}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V01", server: sxqxj.cn, port: 2164, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: sxqxj.cn}}, udp: true}
   - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V02", server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: ahdaeph8.com}}, udp: true}
   - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V03", server: 165.154.225.230, port: 33080, type: vmess, uuid: b8aaa6e1-f0b3-b9ec-3dfc-bb226c167b33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
   - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V04", server: nnv.chitacdn.xyz, port: 54242, type: vmess, uuid: f2393d82-94c4-4b12-8267-293a7500e487, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -444,7 +443,6 @@ proxy-groups:
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V04
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V05
-      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V01"
       - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V02"
       - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V03"
       - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V04"
@@ -716,7 +714,6 @@ proxy-groups:
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V04
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V05
-      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V01"
       - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V02"
       - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V03"
       - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V04"
