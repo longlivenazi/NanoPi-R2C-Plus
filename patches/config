@@ -165,19 +165,46 @@ proxies:
   - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-10, server: 213.183.63.218, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk}
   - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-11, server: 213.183.63.218, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
   - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-12, server: 213.183.63.218, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
-  - {name: 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V01, server: v1.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v1.ssrsub.com}}, udp: true}
-  - {name: 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V02, server: v2.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v2.ssrsub.com}}, udp: true}
-  - {name: 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V03, server: v3.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v3.ssrsub.com}}, udp: true}
-  - {name: 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V04, server: v4.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v4.ssrsub.com}}, udp: true}
-  - {name: 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V05, server: v5.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v5.ssrsub.com}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V01", server: 101.230.149.29, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: 101.230.149.29}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V02", server: xr-4.herokuapp.com, port: 443, type: vmess, uuid: 17af76e1-a5d7-41ab-ae87-b48f185075d1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /17af76e1-a5d7-41ab-ae87-b48f185075d1-vmess, headers: {Host: xr-4.herokuapp.com}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V03", server: xr-3.herokuapp.com, port: 443, type: vmess, uuid: 17af76e1-a5d7-41ab-ae87-b48f185075d1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /17af76e1-a5d7-41ab-ae87-b48f185075d1-vmess, headers: {Host: xr-3.herokuapp.com}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V04", server: ingress-i1.onebox6.org, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V05", server: zzcm08.bdate.xyz, port: 1280, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: aweikeji-YouTube}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V06", server: sxqxj.cn, port: 2164, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: sxqxj.cn}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V07", server: zzcm08.bdate.xyz, port: 2570, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: aweikeji-YouTube}}, udp: true}
-  - {name: "🔒高加密0️⃣5️⃣1️⃣4️⃣-V08", server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: ahdaeph8.com}}, udp: true}
+  - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V01, server: v1.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v1.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V02, server: v2.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v2.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03, server: v3.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v3.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V04, server: v4.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v4.ssrsub.com}}, udp: true}
+  - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V05, server: v5.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v5.ssrsub.com}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V01", server: sxqxj.cn, port: 2164, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: sxqxj.cn}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V02", server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ws, headers: {Host: ahdaeph8.com}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V03", server: 165.154.225.230, port: 33080, type: vmess, uuid: b8aaa6e1-f0b3-b9ec-3dfc-bb226c167b33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V04", server: nnv.chitacdn.xyz, port: 54242, type: vmess, uuid: f2393d82-94c4-4b12-8267-293a7500e487, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V05", server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: dc09c9a0-1697-3f39-8ba9-65f2985e00ec, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray, headers: {Host: 330tw.fans8.xyz}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V06", server: zzcm09.bdate.xyz, port: 1510, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: aweikeji-YouTube}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V07", server: cs.daxun.cyou, port: 20631, type: vmess, uuid: 99591e4d-b11e-4488-b366-53f3b6787bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hinet04, headers: {Host: cs.daxun.cyou}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V08", server: ingress-i2.onebox6.org, port: 38104, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V09", server: ingress-i1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: ingress-i1.onebox6.org}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V10", server: in-sg-1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V11", server: ingress-i1.onebox6.org, port: 38106, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V12", server: bgpv2.ktyjsq.com, port: 12224, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V13", server: 51.103.172.68, port: 120, type: vmess, uuid: 4d358310-efdf-4622-9d7e-c067935e7ab8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V14", server: zzcm07.bdate.xyz, port: 1030, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: zzcm07.bdate.xyz}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V15", server: zzcm04.bdate.xyz, port: 1020, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: aweikeji-YouTube}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V16", server: zzcm08.bdate.xyz, port: 1280, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: aweikeji-YouTube}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V17", server: zzcm08.bdate.xyz, port: 2840, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: zzcm08.bdate.xyz}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V18", server: 161.8.149.7, port: 38822, type: vmess, uuid: 1dab5094-c29c-11ec-83d0-e0db55fccaf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ZXfq8Vm7/, headers: {Host: 161.8.149.7}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V19", server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V20", server: 18.138.255.0, port: 80, type: vmess, uuid: f778539f-5954-4b0e-987b-94a6081c1af7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: down.dingtalk.com}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V21", server: node.gkddd.buzz, port: 23312, type: vmess, uuid: a6f34df0-6e9e-4522-80ff-a41517803f17, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: node.gkddd.buzz}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V22", server: app.ssfree.ru, port: 443, type: vmess, uuid: 52aa8660-d7f1-11ec-9cb7-000017022008, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /getweather, headers: {Host: app.ssfree.ru}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V23", server: 125.94.37.107, port: 13413, type: vmess, uuid: 1cb72800-3d77-4db3-b656-26c3bc04125d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V24", server: zzcm08.bdate.xyz, port: 1980, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: aweikeji-YouTube}}, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V25", server: shouer.tk15.tk, port: 26122, type: vmess, uuid: c19949fe-e5ca-4aa7-b577-f9aed2c97c22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "🔒高加密0️⃣5️⃣2️⃣1️⃣-V26", server: 172.64.94.238, port: 2053, type: vmess, uuid: 80e098a1-f768-3dfb-b97f-6c3a5d34bcd8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: xxX3, headers: {Host: web1.wweblog.pw}}, udp: true}
+  - {name: 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS日本V01, server: jp1.trojan.tel, port: 18443, type: vmess, uuid: f736834f-1fc8-4738-9884-9afe0eb0d818, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: d85bb25696.laowanxiang.com}}, udp: true}
+  - {name: 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS日本V02, server: jp2.trojan.tel, port: 18443, type: vmess, uuid: f736834f-1fc8-4738-9884-9afe0eb0d818, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: d85bb25696.laowanxiang.com}}, udp: true}
+  - {name: 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS加拿大V03, server: ca1.trojan.tel, port: 18443, type: vmess, uuid: f736834f-1fc8-4738-9884-9afe0eb0d818, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: d85bb25696.laowanxiang.com}}, udp: true}
+  - {name: 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS日本V04, server: jp1.trojan.tel, port: 48443, type: vmess, uuid: f736834f-1fc8-4738-9884-9afe0eb0d818, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: jp1.trojan.tel}}, udp: true}
+  - {name: 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS日本V05, server: jp2.trojan.tel, port: 48443, type: vmess, uuid: f736834f-1fc8-4738-9884-9afe0eb0d818, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: jp2.trojan.tel}}, udp: true}
+  - {name: 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS加拿大V06, server: ca1.trojan.tel, port: 48443, type: vmess, uuid: f736834f-1fc8-4738-9884-9afe0eb0d818, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: ca1.trojan.tel}}, udp: true}
+  - {name: 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan日本T01, server: jp1.trojan.tel, port: 443, type: trojan, password: f736834f-1fc8-4738-9884-9afe0eb0d818, sni: douyincdn.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan日本T02, server: jp2.trojan.tel, port: 443, type: trojan, password: f736834f-1fc8-4738-9884-9afe0eb0d818, sni: douyincdn.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan加拿大T03, server: ca1.trojan.tel, port: 443, type: trojan, password: f736834f-1fc8-4738-9884-9afe0eb0d818, sni: douyincdn.com, skip-cert-verify: true, udp: true}
   - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-1, server: 198.57.27.225, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
   - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-2, server: 172.99.190.35, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
   - {name: 0️⃣5️⃣1️⃣0️⃣⬜⬜-3, server: 172.99.190.35, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
@@ -234,6 +261,16 @@ proxies:
   - {name: 🔒加密1️⃣7️⃣📕📕-9, server: v1.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v1.ssrsub.com}}
   - {name: 🔒加密1️⃣7️⃣📕📕-11, server: v5.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v5.ssrsub.com}}
   - {name: 🔒加密1️⃣7️⃣📕📕-12, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: dc09c9a0-1697-3f39-8ba9-65f2985e00ec, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 330tw.fans8.xyz}}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-1, server: 164.92.99.126, port: 52441, type: ss, cipher: chacha20-ietf-poly1305, password: 5e04bdc6-6f09-4f5e-a3c7-edf4d3220ad3}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-2, server: 213.183.53.177, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-3, server: 163.177.158.215, port: 16040, type: ss, cipher: aes-128-gcm, password: bzUdYJ4JzjGfIwhG}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-4, server: 213.183.59.190, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-5, server: 103.172.116.9, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-6, server: fkgfw-prod.i.sxl.cn, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-7, server: bb01.nfeng6.pp.ua, port: 16010, type: ss, cipher: aes-128-gcm, password: bzUdYJ4JzjGfIwhG}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-8, server: 213.183.59.190, port: 9030, type: ss, cipher: aes-256-cfb, password: GeregetR8cvQHzYr}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-9, server: bb01.nfeng6.pp.ua, port: 26210, type: ss, cipher: aes-128-gcm, password: bzUdYJ4JzjGfIwhG}
+  - {name: 0️⃣5️⃣2️⃣1️⃣❤❤❤-10, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -402,19 +439,46 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣8️⃣👩👩-10
       - 0️⃣5️⃣0️⃣8️⃣👩👩-11
       - 0️⃣5️⃣0️⃣8️⃣👩👩-12
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V01
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V02
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V03
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V04
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V05
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V01"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V02"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V03"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V04"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V05"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V06"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V07"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V08"
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V01
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V02
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V04
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V05
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V01"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V02"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V03"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V04"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V05"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V06"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V07"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V08"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V09"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V10"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V11"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V12"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V13"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V14"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V15"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V16"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V17"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V18"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V19"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V20"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V21"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V22"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V23"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V24"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V25"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V26"
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS日本V01
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS日本V02
+      - 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS加拿大V03
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS日本V04
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS日本V05
+      - 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS加拿大V06
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan日本T01
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan日本T02
+      - 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan加拿大T03
       - 0️⃣5️⃣1️⃣0️⃣⬜⬜-1
       - 0️⃣5️⃣1️⃣0️⃣⬜⬜-2
       - 0️⃣5️⃣1️⃣0️⃣⬜⬜-3
@@ -471,6 +535,16 @@ proxy-groups:
       - 🔒加密1️⃣7️⃣📕📕-9
       - 🔒加密1️⃣7️⃣📕📕-11
       - 🔒加密1️⃣7️⃣📕📕-12
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-1
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-2
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-3
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-4
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-5
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-6
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-7
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-8
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-9
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -637,19 +711,46 @@ proxy-groups:
       - 0️⃣5️⃣0️⃣8️⃣👩👩-10
       - 0️⃣5️⃣0️⃣8️⃣👩👩-11
       - 0️⃣5️⃣0️⃣8️⃣👩👩-12
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V01
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V02
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V03
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V04
-      - 🇷🇺 🔒高加密0️⃣5️⃣1️⃣4️⃣-俄罗斯V05
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V01"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V02"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V03"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V04"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V05"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V06"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V07"
-      - "🔒高加密0️⃣5️⃣1️⃣4️⃣-V08"
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V01
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V02
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V04
+      - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V05
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V01"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V02"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V03"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V04"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V05"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V06"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V07"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V08"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V09"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V10"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V11"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V12"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V13"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V14"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V15"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V16"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V17"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V18"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V19"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V20"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V21"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V22"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V23"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V24"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V25"
+      - "🔒高加密0️⃣5️⃣2️⃣1️⃣-V26"
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS日本V01
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS日本V02
+      - 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-WS加拿大V03
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS日本V04
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS日本V05
+      - 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-TLS加拿大V06
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan日本T01
+      - 🇯🇵 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan日本T02
+      - 🇨🇦 🔒高加密0️⃣5️⃣2️⃣1️⃣-trojan加拿大T03
       - 0️⃣5️⃣1️⃣0️⃣⬜⬜-1
       - 0️⃣5️⃣1️⃣0️⃣⬜⬜-2
       - 0️⃣5️⃣1️⃣0️⃣⬜⬜-3
@@ -706,6 +807,16 @@ proxy-groups:
       - 🔒加密1️⃣7️⃣📕📕-9
       - 🔒加密1️⃣7️⃣📕📕-11
       - 🔒加密1️⃣7️⃣📕📕-12
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-1
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-2
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-3
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-4
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-5
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-6
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-7
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-8
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-9
+      - 0️⃣5️⃣2️⃣1️⃣❤❤❤-10
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
