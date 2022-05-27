@@ -152,18 +152,19 @@ proxies:
   - {name: 🔒加密1️⃣8️⃣™™-10, server: v4.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v4.ssrsub.com}}
   - {name: 🔒加密1️⃣8️⃣™™-11, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密1️⃣8️⃣™™-12, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ingress-i1.onebox6.org}}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-1, server: 169.197.142.99, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-2, server: 169.197.142.99, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-3, server: 169.197.142.99, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-4, server: 92.38.171.101, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-5, server: 169.197.142.99, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-6, server: 38.68.135.19, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-7, server: 185.126.116.117, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-8, server: 213.183.63.218, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-9, server: 185.126.116.117, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-10, server: 213.183.63.218, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-11, server: 213.183.63.218, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
-  - {name: 0️⃣5️⃣0️⃣8️⃣👩👩-12, server: 213.183.63.218, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-1, server: 422wkl.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 422wkl.fans8.xyz}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-2, server: bgpv2.ktyjsq.com, port: 12224, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-3, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-4, server: node3.binghe.ga, port: 443, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: "/opentunnel?user=opentunnel.net-bh5", ws-headers: {Host: usv-1.openv2ray.com}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-5, server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-6, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-7, server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-8, server: bgpv2.ktyjsq.com, port: 12224, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-9, server: bgpv2.ktyjsq.com, port: 12222, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-10, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-11, server: 511hk.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 511hk.fans8.xyz}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-12, server: 172.64.147.71, port: 443, type: vmess, uuid: 80e098a1-f768-3dfb-b97f-6c3a5d34bcd8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /xxX8, ws-headers: {Host: sg.wweblog.pw}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣7️⃣💮-13, server: 45.82.78.151, port: 80, type: vmess, uuid: 61dab065-7fc7-4d57-a952-58b41250d766, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 45.82.78.151}}
   - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V01, server: v1.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v1.ssrsub.com}}, udp: true}
   - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V02, server: v2.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v2.ssrsub.com}}, udp: true}
   - {name: 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03, server: v3.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v3.ssrsub.com}}, udp: true}
@@ -422,18 +423,19 @@ proxy-groups:
       - 🔒加密1️⃣8️⃣™™-10
       - 🔒加密1️⃣8️⃣™™-11
       - 🔒加密1️⃣8️⃣™™-12
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-1
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-2
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-3
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-4
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-5
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-6
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-7
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-8
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-9
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-10
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-11
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-12
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-1
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-2
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-3
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-4
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-5
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-6
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-7
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-8
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-9
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-10
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-11
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-12
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-13
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V01
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V02
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03
@@ -690,18 +692,19 @@ proxy-groups:
       - 🔒加密1️⃣8️⃣™™-10
       - 🔒加密1️⃣8️⃣™™-11
       - 🔒加密1️⃣8️⃣™™-12
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-1
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-2
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-3
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-4
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-5
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-6
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-7
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-8
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-9
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-10
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-11
-      - 0️⃣5️⃣0️⃣8️⃣👩👩-12
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-1
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-2
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-3
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-4
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-5
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-6
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-7
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-8
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-9
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-10
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-11
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-12
+      - 🔒加密0️⃣5️⃣2️⃣7️⃣💮-13
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V01
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V02
       - 🇷🇺 🔒高加密0️⃣5️⃣2️⃣1️⃣-俄罗斯V03
