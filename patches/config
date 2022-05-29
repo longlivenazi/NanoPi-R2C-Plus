@@ -307,6 +307,19 @@ proxies:
   - {name: baipiao0️⃣5️⃣2️⃣7️⃣💙-17, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
   - {name: baipiao0️⃣5️⃣2️⃣7️⃣💙-18, server: 101.132.192.212, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
   - {name: baipiao0️⃣5️⃣2️⃣7️⃣💙-19, server: 2.58.242.131, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-1, server: 129.226.95.143, port: 45381, type: vmess, uuid: cd2a260c-f244-4e12-83c3-8a259cf29fc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-2, server: ingress-i1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ingress-i1.onebox6.org}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-3, server: ppy-giacn2.0098dns02in.work, port: 26020, type: vmess, uuid: 1c7824b3-1aa0-3e5a-88e8-d3f0426ab21e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-4, server: 129.226.95.143, port: 45381, type: vmess, uuid: cd2a260c-f244-4e12-83c3-8a259cf29fc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-5, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-6, server: 523hk1.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 523hk1.fans8.xyz}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-7, server: 129.226.93.161, port: 40236, type: vmess, uuid: 931416fe-98f2-4098-c8e7-3634e27ce6f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-8, server: 129.226.216.81, port: 40952, type: vmess, uuid: d65aa42c-4102-48d7-d055-b24ea0c8fe91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-9, server: 129.226.216.81, port: 40952, type: vmess, uuid: d65aa42c-4102-48d7-d055-b24ea0c8fe91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-10, server: 527hk2.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 527hk2.fans8.xyz}}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-11, server: 129.226.95.188, port: 20792, type: vmess, uuid: b7335dae-b946-46ae-f341-acbf8df21c86, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-12, server: ppy-cmcc.0098dns02in.work, port: 26007, type: vmess, uuid: 1c7824b3-1aa0-3e5a-88e8-d3f0426ab21e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-13, server: ingress-i2.onebox6.org, port: 38104, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -617,6 +630,19 @@ proxy-groups:
       - baipiao0️⃣5️⃣2️⃣7️⃣💙-17
       - baipiao0️⃣5️⃣2️⃣7️⃣💙-18
       - baipiao0️⃣5️⃣2️⃣7️⃣💙-19
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-1
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-2
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-3
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-4
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-5
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-6
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-7
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-8
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-9
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-10
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-11
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-12
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -925,6 +951,19 @@ proxy-groups:
       - baipiao0️⃣5️⃣2️⃣7️⃣💙-17
       - baipiao0️⃣5️⃣2️⃣7️⃣💙-18
       - baipiao0️⃣5️⃣2️⃣7️⃣💙-19
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-1
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-2
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-3
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-4
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-5
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-6
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-7
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-8
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-9
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-10
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-11
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-12
+      - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-13
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
