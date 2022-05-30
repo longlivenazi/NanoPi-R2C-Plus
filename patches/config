@@ -320,6 +320,33 @@ proxies:
   - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-11, server: 129.226.95.188, port: 20792, type: vmess, uuid: b7335dae-b946-46ae-f341-acbf8df21c86, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-12, server: ppy-cmcc.0098dns02in.work, port: 26007, type: vmess, uuid: 1c7824b3-1aa0-3e5a-88e8-d3f0426ab21e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密0️⃣5️⃣2️⃣8️⃣💨-13, server: ingress-i2.onebox6.org, port: 38104, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
+  - {name: 乌克兰 Ukraine★, server: gz2.52168.org, port: 12110, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇷🇺 俄罗斯 Russia★, server: gz2.52168.org, port: 12103, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇧🇬 保加利亚 Bulgaria●, server: gz1.52168.org, port: 11102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇿🇦 南非 South Africa●, server: gz1.52168.org, port: 11110, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇮🇳 印度 India●, server: gz1.52168.org, port: 11114, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇮🇩 印度尼西亚 Indonesia(VIP)●, server: gz1.52168.org, port: 11103, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇨🇳 台湾 Taiwan★, server: gz2.52168.org, port: 12105, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇹🇷 土耳其 Turkey★, server: gz2.52168.org, port: 12104, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇩🇪 德国 Germany★, server: gz2.52168.org, port: 12101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇸🇬 新加坡 Singapore(VIP)★, server: gz2.52168.org, port: 12106, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇯🇵 日本 Japan(VIP)★, server: gz2.52168.org, port: 12107, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇨🇱 智利 Chile★, server: gz2.52168.org, port: 12112, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇹🇭 泰国 Thailand★, server: gz2.52168.org, port: 12109, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇦🇺 澳大利亚 Australia●, server: gz1.52168.org, port: 11111, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇨🇭 瑞士 Switzerland●, server: gz1.52168.org, port: 11116, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇺🇸 美国 America(VIP)★, server: gz2.52168.org, port: 12108, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇺🇸 美国 America●, server: gz1.52168.org, port: 11109, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇬🇧 英国 England★, server: gz2.52168.org, port: 12102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇳🇱 荷兰 Netherlands●, server: gz1.52168.org, port: 11117, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇵🇭 菲律宾 Philippine●, server: gz1.52168.org, port: 11101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇻🇳 越南 Vietnam●, server: gz1.52168.org, port: 11107, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇦🇪 阿联酋 United Arab Emirates●, server: gz1.52168.org, port: 11108, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇰🇷 韩国 Korea(VIP)●, server: gz1.52168.org, port: 11115, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇭🇰 香港 Hongkong HKBGP(VIP)●, server: gz1.52168.org, port: 11106, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇭🇰 香港 Hongkong HKBN(VIP)●, server: gz1.52168.org, port: 11113, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇭🇰 香港 Hongkong HKT(VIP)●, server: gz1.52168.org, port: 11112, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 🇲🇾 马来西亚 Malaysia(VIP)●, server: gz1.52168.org, port: 11105, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -643,6 +670,33 @@ proxy-groups:
       - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-11
       - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-12
       - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-13
+      - 乌克兰 Ukraine★
+      - 🇷🇺 俄罗斯 Russia★
+      - 🇧🇬 保加利亚 Bulgaria●
+      - 🇿🇦 南非 South Africa●
+      - 🇮🇳 印度 India●
+      - 🇮🇩 印度尼西亚 Indonesia(VIP)●
+      - 🇨🇳 台湾 Taiwan★
+      - 🇹🇷 土耳其 Turkey★
+      - 🇩🇪 德国 Germany★
+      - 🇸🇬 新加坡 Singapore(VIP)★
+      - 🇯🇵 日本 Japan(VIP)★
+      - 🇨🇱 智利 Chile★
+      - 🇹🇭 泰国 Thailand★
+      - 🇦🇺 澳大利亚 Australia●
+      - 🇨🇭 瑞士 Switzerland●
+      - 🇺🇸 美国 America(VIP)★
+      - 🇺🇸 美国 America●
+      - 🇬🇧 英国 England★
+      - 🇳🇱 荷兰 Netherlands●
+      - 🇵🇭 菲律宾 Philippine●
+      - 🇻🇳 越南 Vietnam●
+      - 🇦🇪 阿联酋 United Arab Emirates●
+      - 🇰🇷 韩国 Korea(VIP)●
+      - 🇭🇰 香港 Hongkong HKBGP(VIP)●
+      - 🇭🇰 香港 Hongkong HKBN(VIP)●
+      - 🇭🇰 香港 Hongkong HKT(VIP)●
+      - 🇲🇾 马来西亚 Malaysia(VIP)●
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -964,6 +1018,33 @@ proxy-groups:
       - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-11
       - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-12
       - 🔒加密0️⃣5️⃣2️⃣8️⃣💨-13
+      - 乌克兰 Ukraine★
+      - 🇷🇺 俄罗斯 Russia★
+      - 🇧🇬 保加利亚 Bulgaria●
+      - 🇿🇦 南非 South Africa●
+      - 🇮🇳 印度 India●
+      - 🇮🇩 印度尼西亚 Indonesia(VIP)●
+      - 🇨🇳 台湾 Taiwan★
+      - 🇹🇷 土耳其 Turkey★
+      - 🇩🇪 德国 Germany★
+      - 🇸🇬 新加坡 Singapore(VIP)★
+      - 🇯🇵 日本 Japan(VIP)★
+      - 🇨🇱 智利 Chile★
+      - 🇹🇭 泰国 Thailand★
+      - 🇦🇺 澳大利亚 Australia●
+      - 🇨🇭 瑞士 Switzerland●
+      - 🇺🇸 美国 America(VIP)★
+      - 🇺🇸 美国 America●
+      - 🇬🇧 英国 England★
+      - 🇳🇱 荷兰 Netherlands●
+      - 🇵🇭 菲律宾 Philippine●
+      - 🇻🇳 越南 Vietnam●
+      - 🇦🇪 阿联酋 United Arab Emirates●
+      - 🇰🇷 韩国 Korea(VIP)●
+      - 🇭🇰 香港 Hongkong HKBGP(VIP)●
+      - 🇭🇰 香港 Hongkong HKBN(VIP)●
+      - 🇭🇰 香港 Hongkong HKT(VIP)●
+      - 🇲🇾 马来西亚 Malaysia(VIP)●
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
