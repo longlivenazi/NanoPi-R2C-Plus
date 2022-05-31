@@ -347,6 +347,19 @@ proxies:
   - {name: 🇭🇰 香港 Hongkong HKBN(VIP)●, server: gz1.52168.org, port: 11113, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
   - {name: 🇭🇰 香港 Hongkong HKT(VIP)●, server: gz1.52168.org, port: 11112, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
   - {name: 🇲🇾 马来西亚 Malaysia(VIP)●, server: gz1.52168.org, port: 11105, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:yip9bp7numd, obfs-param: 45d99149.baidu.com}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-1, server: 38.114.114.67, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-2, server: 169.197.142.39, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-3, server: 169.197.142.39, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-4, server: 169.197.142.99, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-5, server: 169.197.142.99, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-6, server: 169.197.142.39, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-7, server: 169.197.142.99, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-8, server: 169.197.142.39, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-9, server: 169.197.142.99, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-10, server: 167.88.61.175, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-11, server: 169.197.142.39, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-12, server: 169.197.142.39, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-13, server: 169.197.142.99, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -697,6 +710,19 @@ proxy-groups:
       - 🇭🇰 香港 Hongkong HKBN(VIP)●
       - 🇭🇰 香港 Hongkong HKT(VIP)●
       - 🇲🇾 马来西亚 Malaysia(VIP)●
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-1
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-2
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-3
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-4
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-5
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-6
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-7
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-8
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-9
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-10
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-11
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-12
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1045,6 +1071,19 @@ proxy-groups:
       - 🇭🇰 香港 Hongkong HKBN(VIP)●
       - 🇭🇰 香港 Hongkong HKT(VIP)●
       - 🇲🇾 马来西亚 Malaysia(VIP)●
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-1
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-2
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-3
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-4
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-5
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-6
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-7
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-8
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-9
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-10
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-11
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-12
+      - 0️⃣5️⃣2️⃣9️⃣🎁🎁-13
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
