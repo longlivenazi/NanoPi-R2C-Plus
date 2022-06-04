@@ -353,6 +353,14 @@ proxies:
   - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-14, server: 169.197.142.39, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-15, server: 169.197.142.39, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
   - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-16, server: 169.197.142.39, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-1, server: ingress-i1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ingress-i1.onebox6.org}}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-2, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-3, server: ingress-i2.onebox6.org, port: 38101, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-4, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1c08f35bdafe74a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-5, server: bgpv2.ktyjsq.com, port: 12222, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-6, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-7, server: tanz-unicom.0098dns01in.work, port: 35005, type: vmess, uuid: b83d0e8b-f4e6-3988-b45e-cc96400f0bc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-8, server: tanz-unicom.0098dns01in.work, port: 35006, type: vmess, uuid: b83d0e8b-f4e6-3988-b45e-cc96400f0bc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -709,6 +717,14 @@ proxy-groups:
       - 0️⃣6️⃣0️⃣1️⃣🈂🈂-14
       - 0️⃣6️⃣0️⃣1️⃣🈂🈂-15
       - 0️⃣6️⃣0️⃣1️⃣🈂🈂-16
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-1
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-2
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-3
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-4
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-5
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-6
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-7
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-8
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1063,6 +1079,14 @@ proxy-groups:
       - 0️⃣6️⃣0️⃣1️⃣🈂🈂-14
       - 0️⃣6️⃣0️⃣1️⃣🈂🈂-15
       - 0️⃣6️⃣0️⃣1️⃣🈂🈂-16
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-1
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-2
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-3
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-4
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-5
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-6
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-7
+      - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-8
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
