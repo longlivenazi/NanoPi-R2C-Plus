@@ -293,8 +293,11 @@ proxies:
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9, server: 527hk3.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 527hk3.fans8.xyz}}
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10, server: bgpv2.ktyjsq.com, port: 12229, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11, server: bgpv2.ktyjsq.com, port: 12205, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: Relay_🇯🇵JP-🇯🇵JP_696, server: jwjw.japanwest.cloudapp.azure.com, port: 49544, type: vmess, uuid: 418a5dc6-b0cd-4255-894f-6f2c6e592f4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: Relay_🇨🇳CN-🇺🇸US_279, server: mc.xiaohouzi.club, port: 28325, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: mc.xiaohouzi.club}, udp: true}
+  - {name: 韩国2-tg频道:@ripaojiedian, server: mc.xiaohouzi.club, port: 28321, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
+  - {name: 香港AZ-tg频道:@ripaojiedian, server: liusy-hk.eastasia.cloudapp.azure.com, port: 443, type: vmess, uuid: f1d90660-29ab-4c54-b6a8-2e6e18e008d7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /502a823dc9a6/, ws-headers: {Host: liusy-hk.eastasia.cloudapp.azure.com}, udp: true}
+  - {name: 香港2-tg频道:@ripaojiedian, server: mc.xiaohouzi.club, port: 27820, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
+  - {name: 日本-tg频道:@ripaojiedian, server: bgp.xiaohouzi.club, port: 28519, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
+  - {name: SG_1825, server: 129.226.216.121, port: 49381, type: vmess, uuid: 2f6d0f82-80c4-42ed-fd46-c76e7cc81de0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -591,8 +594,11 @@ proxy-groups:
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11
-      - Relay_🇯🇵JP-🇯🇵JP_696
-      - Relay_🇨🇳CN-🇺🇸US_279
+      - 韩国2-tg频道:@ripaojiedian
+      - 香港AZ-tg频道:@ripaojiedian
+      - 香港2-tg频道:@ripaojiedian
+      - 日本-tg频道:@ripaojiedian
+      - SG_1825
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -887,8 +893,11 @@ proxy-groups:
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11
-      - Relay_🇯🇵JP-🇯🇵JP_696
-      - Relay_🇨🇳CN-🇺🇸US_279
+      - 韩国2-tg频道:@ripaojiedian
+      - 香港AZ-tg频道:@ripaojiedian
+      - 香港2-tg频道:@ripaojiedian
+      - 日本-tg频道:@ripaojiedian
+      - SG_1825
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
