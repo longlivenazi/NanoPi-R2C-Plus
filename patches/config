@@ -298,6 +298,19 @@ proxies:
   - {name: 香港2-tg频道:@ripaojiedian, server: mc.xiaohouzi.club, port: 27820, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
   - {name: 日本-tg频道:@ripaojiedian, server: bgp.xiaohouzi.club, port: 28519, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
   - {name: SG_1825, server: 129.226.216.121, port: 49381, type: vmess, uuid: 2f6d0f82-80c4-42ed-fd46-c76e7cc81de0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1, server: bwg2.gushidawang.cc, port: 57539, type: vmess, uuid: fcf7202c-bd1a-44e9-a25e-bf152f6e5c11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2, server: aws-hk03.xiaohouzi.club, port: 10050, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3, server: mc.xiaohouzi.club, port: 28322, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: mc.xiaohouzi.club}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-4, server: bgp.xiaohouzi.club, port: 28529, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-5, server: mc.xiaohouzi.club, port: 27816, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: mc.xiaohouzi.club}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-6, server: 43.128.253.82, port: 31372, type: vmess, uuid: 2a9056a7-bf92-40c8-f155-1e14aac9beba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-7, server: sh.xiaohouzi.club, port: 25236, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-8, server: bgpv2.ktyjsq.com, port: 12224, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-9, server: sh.xiaohouzi.club, port: 24912, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: sh.xiaohouzi.club}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-10, server: au03.xiaohouzi.club, port: 10050, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: au03.xiaohouzi.club}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-11, server: 527hk1.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 527hk1.fans8.xyz}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-12, server: sh.xiaohouzi.club, port: 17901, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: sh.xiaohouzi.club}}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-13, server: 150.230.60.8, port: 26195, type: vmess, uuid: 8c44be2e-2e16-4cf4-db1e-a1c8c61b7fd4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -599,6 +612,19 @@ proxy-groups:
       - 香港2-tg频道:@ripaojiedian
       - 日本-tg频道:@ripaojiedian
       - SG_1825
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-4
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-5
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-6
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-7
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-8
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-9
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-10
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-11
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-12
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -898,6 +924,19 @@ proxy-groups:
       - 香港2-tg频道:@ripaojiedian
       - 日本-tg频道:@ripaojiedian
       - SG_1825
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-4
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-5
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-6
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-7
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-8
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-9
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-10
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-11
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-12
+      - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-13
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
