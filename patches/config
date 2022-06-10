@@ -311,6 +311,18 @@ proxies:
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-11, server: 527hk1.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 527hk1.fans8.xyz}}
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-12, server: sh.xiaohouzi.club, port: 17901, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: sh.xiaohouzi.club}}
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-13, server: 150.230.60.8, port: 26195, type: vmess, uuid: 8c44be2e-2e16-4cf4-db1e-a1c8c61b7fd4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-1, server: hcmn3.sos4g.xyz, port: 80, type: vmess, uuid: 88feb3a4-8dd9-4001-91d6-9cceabca5a4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /sos4g.xyz, ws-headers: {Host: hcmn3.sos4g.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-2, server: hcmn2.sos4g.xyz, port: 80, type: vmess, uuid: 88feb3a4-8dd9-4001-91d6-9cceabca5a4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /sos4g.xyz, ws-headers: {Host: hcmn2.sos4g.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-3, server: hcmn3.sos4g.xyz, port: 80, type: vmess, uuid: 88feb3a4-8dd9-4001-91d6-9cceabca5a4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /sos4g.xyz, ws-headers: {Host: hcmn3.sos4g.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-4, server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: ahdaeph8.com}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-5, server: 104.166.135.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: ahdaeph8.com}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-6, server: 104.166.135.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: 104.166.135.10}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-7, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-8, server: crus1.gzfxd.xyz, port: 80, type: vmess, uuid: 6bd0b1ce-3a65-487b-86eb-012f6b0bfc3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: crus1.gzfxd.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-9, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1c08f35bdafe74a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-10, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1c08f35bdafe74a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 330tw.fans8.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-11, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 330tw.fans8.xyz}}
+  - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-12, server: sg6.6yhy.top, port: 4443, type: vmess, uuid: 8d13dc0f-c4c9-3f66-b8de-d9a5d432842a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: sg6.6yhy.top}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -625,6 +637,18 @@ proxy-groups:
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-11
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-12
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-13
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-1
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-2
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-3
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-4
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-5
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-6
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-7
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-8
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-9
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-10
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-11
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-12
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -937,6 +961,18 @@ proxy-groups:
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-11
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-12
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-13
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-1
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-2
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-3
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-4
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-5
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-6
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-7
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-8
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-9
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-10
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-11
+      - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-12
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
