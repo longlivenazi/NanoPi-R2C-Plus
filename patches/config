@@ -293,12 +293,28 @@ proxies:
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9, server: 527hk3.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 527hk3.fans8.xyz}}
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10, server: bgpv2.ktyjsq.com, port: 12229, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11, server: bgpv2.ktyjsq.com, port: 12205, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 韩国2-tg频道:@ripaojiedian, server: mc.xiaohouzi.club, port: 28321, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
-  - {name: 香港AZ-tg频道:@ripaojiedian, server: liusy-hk.eastasia.cloudapp.azure.com, port: 443, type: vmess, uuid: f1d90660-29ab-4c54-b6a8-2e6e18e008d7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /502a823dc9a6/, ws-headers: {Host: liusy-hk.eastasia.cloudapp.azure.com}, udp: true}
-  - {name: 香港2-tg频道:@ripaojiedian, server: mc.xiaohouzi.club, port: 27820, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
-  - {name: 日本-tg频道:@ripaojiedian, server: bgp.xiaohouzi.club, port: 28519, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}, udp: true}
-  - {name: SG_1825, server: 129.226.216.121, port: 49381, type: vmess, uuid: 2f6d0f82-80c4-42ed-fd46-c76e7cc81de0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1, server: bwg2.gushidawang.cc, port: 57539, type: vmess, uuid: fcf7202c-bd1a-44e9-a25e-bf152f6e5c11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 香港1-混合节点, server: hk6702.fans8.xyz, port: 443, type: trojan, password: 96abb4d5-d709-40bd-9933-58f57b67c641, sni: hk6702.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 狮城-混合节点, server: 172.104.48.151, port: 80, type: vmess, uuid: 66d1cbd4-c152-49df-c621-cc03821a7432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇸🇬 狮城2-混合节点, server: 172.104.48.151, port: 8080, type: vmess, uuid: c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇹🇼 台湾-混合节点, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 96abb4d5-d709-40bd-9933-58f57b67c641, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡1-混合节点, server: hk64.fans8.xyz, port: 443, type: trojan, password: 96abb4d5-d709-40bd-9933-58f57b67c641, sni: hk64.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇭🇰 香港2-混合节点, server: gy.ziqiyun.xyz, port: 45054, type: ss, cipher: chacha20-ietf-poly1305, password: 297545c2-a59d-4610-9580-a7baa3657a57}
+  - {name: 🇯🇵 日本JP-混合节点, server: 20.222.33.91, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇭🇰 香港-混合节点, server: azhj001.xiba1.xyz, port: 20721, type: trojan, password: 6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, sni: ssl.ssl12.xyz, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-混合节点, server: s7.9366sc.xyz, port: 60273, type: vmess, uuid: c1ace1d4-6f57-3884-b300-fde0c707949c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡优化-混合节点, server: cn.speedabc.xyz, port: 42004, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: sg1.speedaccelerate.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港SSR-混合节点, server: 36.138.176.120, port: 48620, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇭🇰 香港优化-混合节点, server: ah.b.speedabc.xyz, port: 42011, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: hk-hkg.speedaccelerate.com, skip-cert-verify: true}
+  - {name: 🇹🇼 台湾SSR-混合节点, server: 116.129.254.212, port: 48611, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇰🇷 韩国BGP-混合节点, server: cn.speedabc.xyz, port: 42005, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: kr.speedaccelerate.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本SSR-混合节点, server: 116.129.254.212, port: 48608, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇰🇷 韩国ss-混合节点, server: 20.214.142.71, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇯🇵 日本优选-混合节点, server: cn.speedabc.xyz, port: 32002, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: jp-bgp.speedaccelerate.com, skip-cert-verify: true}
+  - {name: 🇰🇷 韩国s-混合节点, server: 20.214.204.187, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇸🇬 新加坡3-混合节点, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
+  - {name: 🇺🇸 美国-混合节点, server: azgy001.xiba1.xyz, port: 20714, type: trojan, password: 6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, sni: ssl.ssl12.xyz, skip-cert-verify: true}
+  - {name: 🇭🇰 香港3-混合节点, server: shcm.pdjc.cc, port: 42000, type: trojan, password: b7dcc148-c8a3-4173-931f-8ecf9413eb58, sni: shcm.pdjc.cc, skip-cert-verify: true}
+  - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1, server: bwg2.gushidawang.cc, port: 57539, type: vmess, uuid: fcf7202c-bd1a-44e9-a25e-bf152f6e5c11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false} 
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2, server: aws-hk03.xiaohouzi.club, port: 10050, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}}
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3, server: mc.xiaohouzi.club, port: 28322, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: mc.xiaohouzi.club}}
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-4, server: bgp.xiaohouzi.club, port: 28529, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}}
@@ -619,11 +635,27 @@ proxy-groups:
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11
-      - 韩国2-tg频道:@ripaojiedian
-      - 香港AZ-tg频道:@ripaojiedian
-      - 香港2-tg频道:@ripaojiedian
-      - 日本-tg频道:@ripaojiedian
-      - SG_1825
+      - 🇭🇰 香港1-混合节点
+      - 🇸🇬 狮城-混合节点
+      - 🇸🇬 狮城2-混合节点
+      - 🇹🇼 台湾-混合节点
+      - 🇸🇬 新加坡1-混合节点
+      - 🇭🇰 香港2-混合节点
+      - 🇯🇵 日本JP-混合节点
+      - 🇭🇰 香港-混合节点
+      - 🇭🇰 HK-混合节点
+      - 🇸🇬 新加坡优化-混合节点
+      - 🇭🇰 香港SSR-混合节点
+      - 🇭🇰 香港优化-混合节点
+      - 🇹🇼 台湾SSR-混合节点
+      - 🇰🇷 韩国BGP-混合节点
+      - 🇯🇵 日本SSR-混合节点
+      - 🇰🇷 韩国ss-混合节点
+      - 🇯🇵 日本优选-混合节点
+      - 🇰🇷 韩国s-混合节点
+      - 🇸🇬 新加坡3-混合节点
+      - 🇺🇸 美国-混合节点
+      - 🇭🇰 香港3-混合节点
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3
@@ -943,11 +975,27 @@ proxy-groups:
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11
-      - 韩国2-tg频道:@ripaojiedian
-      - 香港AZ-tg频道:@ripaojiedian
-      - 香港2-tg频道:@ripaojiedian
-      - 日本-tg频道:@ripaojiedian
-      - SG_1825
+      - 🇭🇰 香港1-混合节点
+      - 🇸🇬 狮城-混合节点
+      - 🇸🇬 狮城2-混合节点
+      - 🇹🇼 台湾-混合节点
+      - 🇸🇬 新加坡1-混合节点
+      - 🇭🇰 香港2-混合节点
+      - 🇯🇵 日本JP-混合节点
+      - 🇭🇰 香港-混合节点
+      - 🇭🇰 HK-混合节点
+      - 🇸🇬 新加坡优化-混合节点
+      - 🇭🇰 香港SSR-混合节点
+      - 🇭🇰 香港优化-混合节点
+      - 🇹🇼 台湾SSR-混合节点
+      - 🇰🇷 韩国BGP-混合节点
+      - 🇯🇵 日本SSR-混合节点
+      - 🇰🇷 韩国ss-混合节点
+      - 🇯🇵 日本优选-混合节点
+      - 🇰🇷 韩国s-混合节点
+      - 🇸🇬 新加坡3-混合节点
+      - 🇺🇸 美国-混合节点
+      - 🇭🇰 香港3-混合节点
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3
