@@ -293,27 +293,30 @@ proxies:
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9, server: 527hk3.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 527hk3.fans8.xyz}}
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10, server: bgpv2.ktyjsq.com, port: 12229, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11, server: bgpv2.ktyjsq.com, port: 12205, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 香港1-混合节点, server: hk6702.fans8.xyz, port: 443, type: trojan, password: 96abb4d5-d709-40bd-9933-58f57b67c641, sni: hk6702.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 狮城-混合节点, server: 172.104.48.151, port: 80, type: vmess, uuid: 66d1cbd4-c152-49df-c621-cc03821a7432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇸🇬 狮城2-混合节点, server: 172.104.48.151, port: 8080, type: vmess, uuid: c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇹🇼 台湾-混合节点, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 96abb4d5-d709-40bd-9933-58f57b67c641, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡1-混合节点, server: hk64.fans8.xyz, port: 443, type: trojan, password: 96abb4d5-d709-40bd-9933-58f57b67c641, sni: hk64.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 香港2-混合节点, server: gy.ziqiyun.xyz, port: 45054, type: ss, cipher: chacha20-ietf-poly1305, password: 297545c2-a59d-4610-9580-a7baa3657a57}
-  - {name: 🇯🇵 日本JP-混合节点, server: 20.222.33.91, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇭🇰 香港-混合节点, server: azhj001.xiba1.xyz, port: 20721, type: trojan, password: 6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, sni: ssl.ssl12.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-混合节点, server: s7.9366sc.xyz, port: 60273, type: vmess, uuid: c1ace1d4-6f57-3884-b300-fde0c707949c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡优化-混合节点, server: cn.speedabc.xyz, port: 42004, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: sg1.speedaccelerate.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港SSR-混合节点, server: 36.138.176.120, port: 48620, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇭🇰 香港优化-混合节点, server: ah.b.speedabc.xyz, port: 42011, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: hk-hkg.speedaccelerate.com, skip-cert-verify: true}
-  - {name: 🇹🇼 台湾SSR-混合节点, server: 116.129.254.212, port: 48611, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇰🇷 韩国BGP-混合节点, server: cn.speedabc.xyz, port: 42005, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: kr.speedaccelerate.com, skip-cert-verify: true}
-  - {name: 🇯🇵 日本SSR-混合节点, server: 116.129.254.212, port: 48608, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇰🇷 韩国ss-混合节点, server: 20.214.142.71, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇯🇵 日本优选-混合节点, server: cn.speedabc.xyz, port: 32002, type: trojan, password: 804d36c2-0585-4568-b277-eaabf4bc8e48, sni: jp-bgp.speedaccelerate.com, skip-cert-verify: true}
-  - {name: 🇰🇷 韩国s-混合节点, server: 20.214.204.187, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇸🇬 新加坡3-混合节点, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
-  - {name: 🇺🇸 美国-混合节点, server: azgy001.xiba1.xyz, port: 20714, type: trojan, password: 6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, sni: ssl.ssl12.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 香港3-混合节点, server: shcm.pdjc.cc, port: 42000, type: trojan, password: b7dcc148-c8a3-4173-931f-8ecf9413eb58, sni: shcm.pdjc.cc, skip-cert-verify: true}
+  - {name: 🇹🇼 台湾tj-tg频道:@ripaojiedian, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 0e90d359-1733-4994-a195-4df768a18e99, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇭🇰 香港专线~tg频道:@ripaojiedian, server: 120.232.174.38, port: 16005, type: ss, cipher: chacha20-ietf-poly1305, password: 398c2a8a-f055-4833-9825-457af1473278}
+  - {name: 🇭🇰 香港BGP-tg频道:@ripaojiedian, server: gz.syhwdz.top, port: 35663, type: ss, cipher: chacha20-ietf-poly1305, password: 4298ec29-9a37-4f2d-9c8a-5dc466893eb1}
+  - {name: 🇸🇬 新加坡tj-tg频道:@ripaojiedian, server: 67sg01.fans8.xyz, port: 443, type: trojan, password: 0e90d359-1733-4994-a195-4df768a18e99, sni: 67sg01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇯🇵 日本2-tg频道:@ripaojiedian, server: jp.mayiyun.shop, port: 10014, type: ss, cipher: aes-256-gcm, password: 9be8090d-bbdc-4e75-90da-044f04dd9c31}
+  - {name: 🇸🇬 使用前更新订阅, server: 20.239.196.162, port: 38286, type: vmess, uuid: 48ca3feb-03fd-454a-903c-eaa459772412, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 香港HK-tg频道:@ripaojiedian, server: HONGKONG2.DVSTEAM.NET, port: 80, type: vmess, uuid: 78f092b4-1f35-40e7-a1f0-d39b934aba59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /DVSTEAM, headers: {Host: dvsteam.akamaized.net}}}
+  - {name: 🇸🇬 狮城-tg频道:@ripaojiedian, server: 172.104.48.151, port: 80, type: vmess, uuid: 66d1cbd4-c152-49df-c621-cc03821a7432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡优-tg频道:@ripaojiedian, server: 120.232.174.38, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 398c2a8a-f055-4833-9825-457af1473278}
+  - {name: 🇭🇰 香港SSR-tg频道:@ripaojiedian, server: 36.138.176.120, port: 48620, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇯🇵 日本AZ-tg频道:@ripaojiedian, server: 120.232.174.38, port: 40083, type: ss, cipher: chacha20-ietf-poly1305, password: 398c2a8a-f055-4833-9825-457af1473278}
+  - {name: 🇭🇰 香港tj-tg频道:@ripaojiedian, server: 611hk01.fans8.xyz, port: 443, type: trojan, password: 0e90d359-1733-4994-a195-4df768a18e99, sni: 611hk01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 狮城2-tg频道:@ripaojiedian, server: 172.104.48.151, port: 8080, type: vmess, uuid: c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇯🇵 日本SSR-tg频道:@ripaojiedian, server: 116.129.254.212, port: 48608, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇯🇵 日本1-tg频道:@ripaojiedian, server: jp5.mayiyun.shop, port: 10014, type: ss, cipher: chacha20-ietf-poly1305, password: 9be8090d-bbdc-4e75-90da-044f04dd9c31}
+  - {name: 🇰🇷 韩国-tg频道:@ripaojiedian, server: 20.214.185.99, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇭🇰 香港-tg频道:@ripaojiedian, server: azhj001.xiba1.xyz, port: 20721, type: trojan, password: 6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, sni: ssl.ssl12.xyz, skip-cert-verify: true}
+  - {name: 🇺🇸 美国2-tg频道:@ripaojiedian, server: 120.241.236.93, port: 51700, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: usfree1.jiantian.xyz, skip-cert-verify: true}
+  - {name: 🇺🇸 美国-tg频道:@ripaojiedian, server: azgy001.xiba1.xyz, port: 20714, type: trojan, password: 6089bbd2-2bef-3ee3-a329-1b1a4339d7ed, sni: ssl.ssl12.xyz, skip-cert-verify: true}
+  - {name: 防失联节点-tg频道:@ripaojiedian, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
+  - {name: 🇺🇸 美国1-tg频道:@ripaojiedian, server: usa1.mayiyun.shop, port: 20012, type: ss, cipher: aes-256-gcm, password: 9be8090d-bbdc-4e75-90da-044f04dd9c31}
+  - {name: 🇹🇼 台湾SSR-tg频道:@ripaojiedian, server: 116.129.254.212, port: 48611, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇯🇵 东京-tg频道:@ripaojiedian, server: 20.222.16.123, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇰🇷 韩国2-tg频道:@ripaojiedian, server: 20.214.141.170, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1, server: bwg2.gushidawang.cc, port: 57539, type: vmess, uuid: fcf7202c-bd1a-44e9-a25e-bf152f6e5c11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false} 
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2, server: aws-hk03.xiaohouzi.club, port: 10050, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.ibm.com}}
   - {name: 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3, server: mc.xiaohouzi.club, port: 28322, type: vmess, uuid: c900facf-7e5d-3caf-a49e-c4bb1996ca95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: mc.xiaohouzi.club}}
@@ -339,6 +342,18 @@ proxies:
   - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-10, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1c08f35bdafe74a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 330tw.fans8.xyz}}
   - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-11, server: 330tw.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 330tw.fans8.xyz}}
   - {name: 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-12, server: sg6.6yhy.top, port: 4443, type: vmess, uuid: 8d13dc0f-c4c9-3f66-b8de-d9a5d432842a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: sg6.6yhy.top}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-1, server: 172.67.140.112, port: 443, type: vmess, uuid: 4ac06183-feca-48f8-9f7d-3355bd950e2a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: yzjd01-ublubeu.koyeb.app}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-2, server: chunchuan-01.aikala.shop, port: 80, type: vmess, uuid: fde9847f-3e93-4be5-ad51-ed0fe8d2cd8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: chunchuan-01.aikala.shop}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-3, server: gycd1.csccdd.xyz, port: 52340, type: vmess, uuid: 1dc13504-e4ba-3c49-8e0b-6a3eb4e40335, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /index, ws-headers: {Host: gycd1.csccdd.xyz}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-4, server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-5, server: v1.ssrsub.com, port: 8443, type: vmess, uuid: 2256dea6-b952-43f7-b8a2-983f766d5836, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v1.ssrsub.com}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-6, server: bgpv2.ktyjsq.com, port: 12229, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-7, server: vus4.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /chat, ws-headers: {Host: vus4.0bad.com}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-8, server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-9, server: 36.139.112.39, port: 21108, type: vmess, uuid: 1b693eb3-3241-362a-9001-5b503789cfbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /admin, ws-headers: {Host: hgc.136912.xyz}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10, server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11, server: 13.73.30.139, port: 80, type: vmess, uuid: fde9847f-3e93-4be5-ad51-ed0fe8d2cd8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 13.73.30.139}}
+  - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -635,27 +650,30 @@ proxy-groups:
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11
-      - 🇭🇰 香港1-混合节点
-      - 🇸🇬 狮城-混合节点
-      - 🇸🇬 狮城2-混合节点
-      - 🇹🇼 台湾-混合节点
-      - 🇸🇬 新加坡1-混合节点
-      - 🇭🇰 香港2-混合节点
-      - 🇯🇵 日本JP-混合节点
-      - 🇭🇰 香港-混合节点
-      - 🇭🇰 HK-混合节点
-      - 🇸🇬 新加坡优化-混合节点
-      - 🇭🇰 香港SSR-混合节点
-      - 🇭🇰 香港优化-混合节点
-      - 🇹🇼 台湾SSR-混合节点
-      - 🇰🇷 韩国BGP-混合节点
-      - 🇯🇵 日本SSR-混合节点
-      - 🇰🇷 韩国ss-混合节点
-      - 🇯🇵 日本优选-混合节点
-      - 🇰🇷 韩国s-混合节点
-      - 🇸🇬 新加坡3-混合节点
-      - 🇺🇸 美国-混合节点
-      - 🇭🇰 香港3-混合节点
+      - 🇹🇼 台湾tj-tg频道:@ripaojiedian
+      - 🇭🇰 香港专线~tg频道:@ripaojiedian
+      - 🇭🇰 香港BGP-tg频道:@ripaojiedian
+      - 🇸🇬 新加坡tj-tg频道:@ripaojiedian
+      - 🇯🇵 日本2-tg频道:@ripaojiedian
+      - 🇸🇬 使用前更新订阅
+      - 🇭🇰 香港HK-tg频道:@ripaojiedian
+      - 🇸🇬 狮城-tg频道:@ripaojiedian
+      - 🇸🇬 新加坡优-tg频道:@ripaojiedian
+      - 🇭🇰 香港SSR-tg频道:@ripaojiedian
+      - 🇯🇵 日本AZ-tg频道:@ripaojiedian
+      - 🇭🇰 香港tj-tg频道:@ripaojiedian
+      - 🇸🇬 狮城2-tg频道:@ripaojiedian
+      - 🇯🇵 日本SSR-tg频道:@ripaojiedian
+      - 🇯🇵 日本1-tg频道:@ripaojiedian
+      - 🇰🇷 韩国-tg频道:@ripaojiedian
+      - 🇭🇰 香港-tg频道:@ripaojiedian
+      - 🇺🇸 美国2-tg频道:@ripaojiedian
+      - 🇺🇸 美国-tg频道:@ripaojiedian
+      - 防失联节点-tg频道:@ripaojiedian
+      - 🇺🇸 美国1-tg频道:@ripaojiedian
+      - 🇹🇼 台湾SSR-tg频道:@ripaojiedian
+      - 🇯🇵 东京-tg频道:@ripaojiedian
+      - 🇰🇷 韩国2-tg频道:@ripaojiedian
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3
@@ -681,6 +699,18 @@ proxy-groups:
       - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-10
       - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-11
       - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-12
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-1
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-2
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-3
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-4
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-5
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-6
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-7
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-8
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-9
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -975,27 +1005,30 @@ proxy-groups:
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-9
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-10
       - 🔒加密⚠0️⃣6️⃣0️⃣4️⃣-11
-      - 🇭🇰 香港1-混合节点
-      - 🇸🇬 狮城-混合节点
-      - 🇸🇬 狮城2-混合节点
-      - 🇹🇼 台湾-混合节点
-      - 🇸🇬 新加坡1-混合节点
-      - 🇭🇰 香港2-混合节点
-      - 🇯🇵 日本JP-混合节点
-      - 🇭🇰 香港-混合节点
-      - 🇭🇰 HK-混合节点
-      - 🇸🇬 新加坡优化-混合节点
-      - 🇭🇰 香港SSR-混合节点
-      - 🇭🇰 香港优化-混合节点
-      - 🇹🇼 台湾SSR-混合节点
-      - 🇰🇷 韩国BGP-混合节点
-      - 🇯🇵 日本SSR-混合节点
-      - 🇰🇷 韩国ss-混合节点
-      - 🇯🇵 日本优选-混合节点
-      - 🇰🇷 韩国s-混合节点
-      - 🇸🇬 新加坡3-混合节点
-      - 🇺🇸 美国-混合节点
-      - 🇭🇰 香港3-混合节点
+      - 🇹🇼 台湾tj-tg频道:@ripaojiedian
+      - 🇭🇰 香港专线~tg频道:@ripaojiedian
+      - 🇭🇰 香港BGP-tg频道:@ripaojiedian
+      - 🇸🇬 新加坡tj-tg频道:@ripaojiedian
+      - 🇯🇵 日本2-tg频道:@ripaojiedian
+      - 🇸🇬 使用前更新订阅
+      - 🇭🇰 香港HK-tg频道:@ripaojiedian
+      - 🇸🇬 狮城-tg频道:@ripaojiedian
+      - 🇸🇬 新加坡优-tg频道:@ripaojiedian
+      - 🇭🇰 香港SSR-tg频道:@ripaojiedian
+      - 🇯🇵 日本AZ-tg频道:@ripaojiedian
+      - 🇭🇰 香港tj-tg频道:@ripaojiedian
+      - 🇸🇬 狮城2-tg频道:@ripaojiedian
+      - 🇯🇵 日本SSR-tg频道:@ripaojiedian
+      - 🇯🇵 日本1-tg频道:@ripaojiedian
+      - 🇰🇷 韩国-tg频道:@ripaojiedian
+      - 🇭🇰 香港-tg频道:@ripaojiedian
+      - 🇺🇸 美国2-tg频道:@ripaojiedian
+      - 🇺🇸 美国-tg频道:@ripaojiedian
+      - 防失联节点-tg频道:@ripaojiedian
+      - 🇺🇸 美国1-tg频道:@ripaojiedian
+      - 🇹🇼 台湾SSR-tg频道:@ripaojiedian
+      - 🇯🇵 东京-tg频道:@ripaojiedian
+      - 🇰🇷 韩国2-tg频道:@ripaojiedian
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-1
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-2
       - 🔒加密✔0️⃣6️⃣0️⃣7️⃣-3
@@ -1021,6 +1054,18 @@ proxy-groups:
       - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-10
       - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-11
       - 🔒加密⛔0️⃣6️⃣0️⃣9️⃣-12
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-1
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-2
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-3
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-4
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-5
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-6
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-7
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-8
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-9
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11
+      - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
