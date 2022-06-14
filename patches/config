@@ -330,25 +330,24 @@ proxies:
   - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10, server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11, server: 13.73.30.139, port: 80, type: vmess, uuid: fde9847f-3e93-4be5-ad51-ed0fe8d2cd8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 13.73.30.139}}
   - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
-  - {name: 🇭🇰 香港tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: hk6702.fans8.xyz, port: 443, type: trojan, password: 21882ea6-235b-4463-93d4-55c7d378857d, sni: hk6702.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇯🇵 日本1混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: jp5.mayiyun.shop, port: 10014, type: ss, cipher: chacha20-ietf-poly1305, password: 9be8090d-bbdc-4e75-90da-044f04dd9c31}
-  - {name: 🇹🇼 台湾tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 21882ea6-235b-4463-93d4-55c7d378857d, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇯🇵 日本混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 20.210.250.112, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇯🇵 日本2混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 20.210.227.89, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇸🇬 新加坡tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: hk64.fans8.xyz, port: 443, type: trojan, password: 21882ea6-235b-4463-93d4-55c7d378857d, sni: hk64.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 HK混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 20.187.71.22, port: 80, type: vmess, uuid: 2c041e08-0d00-47c6-8c23-a6f79deebca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: HK2混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 20.187.104.33, port: 80, type: vmess, uuid: 2c041e08-0d00-47c6-8c23-a6f79deebca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shoutingtoutiao3.10010.com}}}
-  - {name: 🇭🇰 香港HK混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: HONGKONG2.DVSTEAM.NET, port: 80, type: vmess, uuid: 78f092b4-1f35-40e7-a1f0-d39b934aba59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /DVSTEAM, headers: {Host: dvsteam.akamaized.net}}}
-  - {name: 🇸🇬 狮城混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 172.104.48.151, port: 80, type: vmess, uuid: 66d1cbd4-c152-49df-c621-cc03821a7432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇸🇬 狮城2混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 172.104.48.151, port: 8080, type: vmess, uuid: c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇹🇼 台湾SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 116.129.254.212, port: 48611, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇭🇰 香港SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 36.138.176.120, port: 48620, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇰🇷 韩国混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: kr1.mayiyun.shop, port: 10014, type: ss, cipher: aes-256-gcm, password: 9be8090d-bbdc-4e75-90da-044f04dd9c31}
-  - {name: 🇰🇷 韩国2混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 20.196.214.117, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇯🇵 日本SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 116.129.254.212, port: 48608, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇺🇸 美国2混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: 120.241.236.93, port: 51700, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: usfree1.jiantian.xyz, skip-cert-verify: true}
-  - {name: 防失联节点混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
-  - {name: 🇩🇪 德国混合加密0️⃣6️⃣1️⃣3️⃣⭕-, server: azhk1.mayiyun.shop, port: 20002, type: ss, cipher: aes-256-gcm, password: 9be8090d-bbdc-4e75-90da-044f04dd9c31}
+  - {name: 🇭🇰 香港1-, server: 120.233.24.222, port: 59912, type: vmess, uuid: 37528bbb-59ae-3934-bb99-516a2c8be57b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 香港tj-, server: hk6702.fans8.xyz, port: 443, type: trojan, password: bbdff6a8-2e22-4d37-a4ab-a038bc646bd9, sni: hk6702.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡-, server: 120.233.24.222, port: 59935, type: vmess, uuid: 37528bbb-59ae-3934-bb99-516a2c8be57b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 香港-, server: 36.134.116.212, port: 45240, type: ss, cipher: chacha20-ietf-poly1305, password: b13a962e-afb4-4435-a362-d955b5a7db44}
+  - {name: 🇸🇬 新加坡tj-, server: hk64.fans8.xyz, port: 443, type: trojan, password: bbdff6a8-2e22-4d37-a4ab-a038bc646bd9, sni: hk64.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 狮城2-, server: 172.104.48.151, port: 8080, type: vmess, uuid: c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇹🇼 台湾tj-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: bbdff6a8-2e22-4d37-a4ab-a038bc646bd9, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 狮城-, server: 172.104.48.151, port: 80, type: vmess, uuid: 66d1cbd4-c152-49df-c621-cc03821a7432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇯🇵 日本-, server: 120.233.24.222, port: 59956, type: vmess, uuid: 37528bbb-59ae-3934-bb99-516a2c8be57b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-, server: 20.210.114.165, port: 80, type: vmess, uuid: 2c041e08-0d00-47c6-8c23-a6f79deebca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shoutingtoutiao3.10010.com}}}
+  - {name: HK1-, server: 20.187.116.68, port: 80, type: vmess, uuid: 2c041e08-0d00-47c6-8c23-a6f79deebca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇸🇬 SG-, server: cmb.3sx.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: d80412a5-1757-48a5-b493-e2de1265cc11}
+  - {name: 🇯🇵 日本SSR-, server: 116.129.254.212, port: 48608, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
+  - {name: 🇭🇰 香港2-, server: 36.139.115.13, port: 53008, type: vmess, uuid: 5cc53db3-4d0f-36c0-9d94-2bde0bc4cf0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇭🇰 HK-, server: cm.3sx.xyz, port: 21004, type: ss, cipher: chacha20-ietf-poly1305, password: d80412a5-1757-48a5-b493-e2de1265cc11}
+  - {name: 防失联节点-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
+  - {name: 🇰🇷 韩国|, server: 36.139.115.13, port: 8053, type: vmess, uuid: 5cc53db3-4d0f-36c0-9d94-2bde0bc4cf0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇸 美国|, server: 36.139.115.13, port: 23098, type: vmess, uuid: c03e7868-c16b-34f7-8aa4-c2d79b2028a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -682,25 +681,24 @@ proxy-groups:
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12
-      - 🇭🇰 香港tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本1混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇹🇼 台湾tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇸🇬 新加坡tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇭🇰 HK混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - HK2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇭🇰 香港HK混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇸🇬 狮城混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇸🇬 狮城2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇹🇼 台湾SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇭🇰 香港SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇰🇷 韩国混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇰🇷 韩国2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇺🇸 美国2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 防失联节点混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇩🇪 德国混合加密0️⃣6️⃣1️⃣3️⃣⭕-
+      - 🇭🇰 香港1-
+      - 🇭🇰 香港tj-
+      - 🇸🇬 新加坡-
+      - 🇭🇰 香港-
+      - 🇸🇬 新加坡tj-
+      - 🇸🇬 狮城2-
+      - 🇹🇼 台湾tj-
+      - 🇸🇬 狮城-
+      - 🇯🇵 日本-
+      - 🇯🇵 JP-
+      - HK1-
+      - 🇸🇬 SG-
+      - 🇯🇵 日本SSR-
+      - 🇭🇰 香港2-
+      - 🇭🇰 HK-
+      - 防失联节点-
+      - 🇰🇷 韩国|
+      - 🇺🇸 美国|
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1032,25 +1030,24 @@ proxy-groups:
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12
-      - 🇭🇰 香港tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本1混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇹🇼 台湾tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇸🇬 新加坡tj混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇭🇰 HK混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - HK2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇭🇰 香港HK混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇸🇬 狮城混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇸🇬 狮城2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇹🇼 台湾SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇭🇰 香港SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇰🇷 韩国混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇰🇷 韩国2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇯🇵 日本SSR混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇺🇸 美国2混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 防失联节点混合加密0️⃣6️⃣1️⃣3️⃣⭕-
-      - 🇩🇪 德国混合加密0️⃣6️⃣1️⃣3️⃣⭕-
+      - 🇭🇰 香港1-
+      - 🇭🇰 香港tj-
+      - 🇸🇬 新加坡-
+      - 🇭🇰 香港-
+      - 🇸🇬 新加坡tj-
+      - 🇸🇬 狮城2-
+      - 🇹🇼 台湾tj-
+      - 🇸🇬 狮城-
+      - 🇯🇵 日本-
+      - 🇯🇵 JP-
+      - HK1-
+      - 🇸🇬 SG-
+      - 🇯🇵 日本SSR-
+      - 🇭🇰 香港2-
+      - 🇭🇰 HK-
+      - 防失联节点-
+      - 🇰🇷 韩国|
+      - 🇺🇸 美国|
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
