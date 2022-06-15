@@ -330,24 +330,32 @@ proxies:
   - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10, server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11, server: 13.73.30.139, port: 80, type: vmess, uuid: fde9847f-3e93-4be5-ad51-ed0fe8d2cd8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 13.73.30.139}}
   - {name: 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
-  - {name: 🇭🇰 香港1-, server: 120.233.24.222, port: 59912, type: vmess, uuid: 37528bbb-59ae-3934-bb99-516a2c8be57b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港tj-, server: hk6702.fans8.xyz, port: 443, type: trojan, password: bbdff6a8-2e22-4d37-a4ab-a038bc646bd9, sni: hk6702.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡-, server: 120.233.24.222, port: 59935, type: vmess, uuid: 37528bbb-59ae-3934-bb99-516a2c8be57b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 香港-, server: 36.134.116.212, port: 45240, type: ss, cipher: chacha20-ietf-poly1305, password: b13a962e-afb4-4435-a362-d955b5a7db44}
-  - {name: 🇸🇬 新加坡tj-, server: hk64.fans8.xyz, port: 443, type: trojan, password: bbdff6a8-2e22-4d37-a4ab-a038bc646bd9, sni: hk64.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 狮城2-, server: 172.104.48.151, port: 8080, type: vmess, uuid: c8bab0e9-fad7-46ef-e74a-9cb2022ed9c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇹🇼 台湾tj-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: bbdff6a8-2e22-4d37-a4ab-a038bc646bd9, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 狮城-, server: 172.104.48.151, port: 80, type: vmess, uuid: 66d1cbd4-c152-49df-c621-cc03821a7432, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇯🇵 日本-, server: 120.233.24.222, port: 59956, type: vmess, uuid: 37528bbb-59ae-3934-bb99-516a2c8be57b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-, server: 20.210.114.165, port: 80, type: vmess, uuid: 2c041e08-0d00-47c6-8c23-a6f79deebca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shoutingtoutiao3.10010.com}}}
-  - {name: HK1-, server: 20.187.116.68, port: 80, type: vmess, uuid: 2c041e08-0d00-47c6-8c23-a6f79deebca8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇸🇬 SG-, server: cmb.3sx.xyz, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: d80412a5-1757-48a5-b493-e2de1265cc11}
-  - {name: 🇯🇵 日本SSR-, server: 116.129.254.212, port: 48608, type: ssr, cipher: aes-256-cfb, password: GjRQkK, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1062:tLkKEk, obfs-param: 1466f1062.microsoft.com}
-  - {name: 🇭🇰 香港2-, server: 36.139.115.13, port: 53008, type: vmess, uuid: 5cc53db3-4d0f-36c0-9d94-2bde0bc4cf0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇭🇰 HK-, server: cm.3sx.xyz, port: 21004, type: ss, cipher: chacha20-ietf-poly1305, password: d80412a5-1757-48a5-b493-e2de1265cc11}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-1, server: cdn2.myuuusss.com, port: 20021, type: ss, cipher: aes-128-gcm, password: dbdc16e3-1f61-41bb-99a6-5f29d8b86f82}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-2, server: 167.88.61.2, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-3, server: 167.88.61.2, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-4, server: 167.88.61.2, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-5, server: 167.88.61.2, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-6, server: 167.88.61.2, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-7, server: 167.88.61.2, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇭🇰 香港SSR|, server: 47.242.204.161, port: 53590, type: ssr, cipher: chacha20-ietf, password: VsWqMoSE, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 18510:DttF17, obfs-param: T0dFM09EVXhPRFV4TUM1dGFXTnliM052Wm5RdVkyOXQ=}
+  - {name: 🇭🇰 香港tj-, server: hk6702.fans8.xyz, port: 443, type: trojan, password: 08445e6d-0a42-4433-8565-2e4b7de180ac, sni: hk6702.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇯🇵 日本2-, server: 52.140.214.217, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇸🇬 使用前更新订阅, server: shsh.8800.zsclouddns.club, port: 17001, type: vmess, uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇹🇼 台湾tj-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 08445e6d-0a42-4433-8565-2e4b7de180ac, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡tj-, server: hk64.fans8.xyz, port: 443, type: trojan, password: 08445e6d-0a42-4433-8565-2e4b7de180ac, sni: hk64.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇹🇼 台湾2-, server: 116.129.254.177, port: 26046, type: vmess, uuid: 708310bf-b4b2-3826-8071-956a85b1fe4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 香港2-, server: 116.129.254.177, port: 26015, type: vmess, uuid: 708310bf-b4b2-3826-8071-956a85b1fe4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-, server: AZQT001.xiba1.xyz, port: 20731, type: trojan, password: 93768960-75fc-34e5-8025-7ff0cc5a0aa6, sni: AZQT001.xiba1.xyz, skip-cert-verify: true}
+  - {name: 🇯🇵 日本1-, server: yd.tbstbstbs.life, port: 18806, type: vmess, uuid: 47c0c9a5-3c29-38b5-843c-30fa427deeec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: yd.tbstbstbs.life}}}
+  - {name: 🇰🇷 韩国-, server: 20.214.179.199, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇯🇵 日本-, server: tteessttbbss.dzxi.com.cn, port: 18813, type: vmess, uuid: 47c0c9a5-3c29-38b5-843c-30fa427deeec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tteessttbbss.dzxi.com.cn}}}
   - {name: 防失联节点-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
-  - {name: 🇰🇷 韩国|, server: 36.139.115.13, port: 8053, type: vmess, uuid: 5cc53db3-4d0f-36c0-9d94-2bde0bc4cf0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
-  - {name: 🇺🇸 美国|, server: 36.139.115.13, port: 23098, type: vmess, uuid: c03e7868-c16b-34f7-8aa4-c2d79b2028a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}}
+  - {name: 🇰🇷 韩国2-, server: 20.214.160.58, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇺🇸 美国1-, server: 51.81.223.19, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 香港-, server: data-hk-v2.shwjfkw.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: tv.cctv.com}}}
+  - {name: 🇺🇸 美国-, server: v04.ssrsub.com, port: 153, type: vmess, uuid: 2256dea6-b952-43f7-b8a2-983f766d5836, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: d76bb35696.laowanxiang.com}}}
+  - {name: 🇸🇬 新加坡-, server: AZQT001.xiba1.xyz, port: 20728, type: trojan, password: 93768960-75fc-34e5-8025-7ff0cc5a0aa6, sni: ssl.ssl12.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡2-, server: dx.tbstbstbs.xyz, port: 18810, type: vmess, uuid: 47c0c9a5-3c29-38b5-843c-30fa427deeec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dx.tbstbstbs.xyz}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -681,24 +689,32 @@ proxy-groups:
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12
-      - 🇭🇰 香港1-
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-1
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-2
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-3
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-4
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
+      - 🇭🇰 香港SSR|
       - 🇭🇰 香港tj-
-      - 🇸🇬 新加坡-
-      - 🇭🇰 香港-
-      - 🇸🇬 新加坡tj-
-      - 🇸🇬 狮城2-
+      - 🇯🇵 日本2-
+      - 🇸🇬 使用前更新订阅
       - 🇹🇼 台湾tj-
-      - 🇸🇬 狮城-
-      - 🇯🇵 日本-
-      - 🇯🇵 JP-
-      - HK1-
-      - 🇸🇬 SG-
-      - 🇯🇵 日本SSR-
+      - 🇸🇬 新加坡tj-
+      - 🇹🇼 台湾2-
       - 🇭🇰 香港2-
       - 🇭🇰 HK-
+      - 🇯🇵 日本1-
+      - 🇰🇷 韩国-
+      - 🇯🇵 日本-
       - 防失联节点-
-      - 🇰🇷 韩国|
-      - 🇺🇸 美国|
+      - 🇰🇷 韩国2-
+      - 🇺🇸 美国1-
+      - 🇭🇰 香港-
+      - 🇺🇸 美国-
+      - 🇸🇬 新加坡-
+      - 🇸🇬 新加坡2-
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1030,24 +1046,32 @@ proxy-groups:
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-10
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-11
       - 🔒加密0️⃣6️⃣1️⃣1️⃣🔕-12
-      - 🇭🇰 香港1-
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-1
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-2
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-3
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-4
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
+      - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
+      - 🇭🇰 香港SSR|
       - 🇭🇰 香港tj-
-      - 🇸🇬 新加坡-
-      - 🇭🇰 香港-
-      - 🇸🇬 新加坡tj-
-      - 🇸🇬 狮城2-
+      - 🇯🇵 日本2-
+      - 🇸🇬 使用前更新订阅
       - 🇹🇼 台湾tj-
-      - 🇸🇬 狮城-
-      - 🇯🇵 日本-
-      - 🇯🇵 JP-
-      - HK1-
-      - 🇸🇬 SG-
-      - 🇯🇵 日本SSR-
+      - 🇸🇬 新加坡tj-
+      - 🇹🇼 台湾2-
       - 🇭🇰 香港2-
       - 🇭🇰 HK-
+      - 🇯🇵 日本1-
+      - 🇰🇷 韩国-
+      - 🇯🇵 日本-
       - 防失联节点-
-      - 🇰🇷 韩国|
-      - 🇺🇸 美国|
+      - 🇰🇷 韩国2-
+      - 🇺🇸 美国1-
+      - 🇭🇰 香港-
+      - 🇺🇸 美国-
+      - 🇸🇬 新加坡-
+      - 🇸🇬 新加坡2-
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
