@@ -258,22 +258,17 @@ proxies:
   - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-11, server: 169.197.142.39, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
   - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-12, server: 169.197.142.39, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 0️⃣5️⃣2️⃣9️⃣🎁🎁-13, server: 169.197.142.99, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-1, server: 198.57.27.225, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-2, server: 198.57.27.225, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-3, server: 38.68.134.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-4, server: 38.68.134.71, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-5, server: 38.68.134.71, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-6, server: 38.68.134.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-7, server: 38.68.134.71, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-8, server: 38.68.134.71, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-9, server: 38.68.134.71, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-10, server: 169.197.142.39, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-11, server: 169.197.142.39, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-12, server: 169.197.142.39, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-13, server: 169.197.142.39, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-14, server: 169.197.142.39, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-15, server: 169.197.142.39, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: 0️⃣6️⃣0️⃣1️⃣🈂🈂-16, server: 169.197.142.39, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-1, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-2, server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 331tw.fans8.xyz}}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-3, server: 51.81.223.20, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-4, server: 158.101.74.69, port: 80, type: vmess, uuid: ed87b71c-b01e-40e5-b1c5-064d152effd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-5, server: 158.101.74.69, port: 31939, type: vmess, uuid: f130c826-40d9-44fb-be3d-75ebcb750d12, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-6, server: v1.ssrsub.com, port: 8443, type: vmess, uuid: 640e3ef0-9c44-49a8-98f6-0895b11eecd6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: v1.ssrsub.com}}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-7, server: 422wkl.fans8.xyz, port: 443, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: 422wkl.fans8.xyz}}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-8, server: 152.69.206.209, port: 1212, type: vmess, uuid: fb908160-9697-4bfd-f5b7-f1fbc53e60fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 152.69.206.209}}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-9, server: 146.56.47.161, port: 80, type: vmess, uuid: fa0702f4-8ec9-48e5-9b53-a0afb7c3717e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 146.56.47.161}}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-10, server: bgpv2.ktyjsq.com, port: 12224, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣6️⃣1️⃣9️⃣📛-11, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ingress-i1.onebox6.org}}
   - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-1, server: ingress-i1.onebox6.org, port: 38701, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ingress-i1.onebox6.org}}
   - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-2, server: ingress-i1.onebox6.org, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
   - {name: 🔒加密✨0️⃣6️⃣0️⃣1️⃣-3, server: ingress-i2.onebox6.org, port: 38101, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: www.ivpnpro.net}}
@@ -337,24 +332,25 @@ proxies:
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-5, server: 167.88.61.2, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-6, server: 167.88.61.2, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-7, server: 167.88.61.2, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇭🇰 香港2-tg频道:@ripaojiedian, server: vhk.sos4g.xyz, port: 80, type: vmess, uuid: 88feb3a4-8dd9-4001-91d6-9cceabca5a4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sos4g.xyz, headers: {Host: tv.akamaized.net}}}
-  - {name: 🇹🇼 台湾tj-tg频道:@ripaojiedian, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 823c10f1-8498-4978-8706-4f02008955f0, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 香港tj-tg频道:@ripaojiedian, server: 611hk01.fans8.xyz, port: 443, type: trojan, password: 823c10f1-8498-4978-8706-4f02008955f0, sni: 611hk01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡tj-tg频道:@ripaojiedian, server: hk64.fans8.xyz, port: 443, type: trojan, password: 823c10f1-8498-4978-8706-4f02008955f0, sni: hk64.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡2-tg频道:@ripaojiedian, server: 139.162.32.162, port: 80, type: vmess, uuid: 3849e48e-f276-4612-a1b9-6f07d1ab1bad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpngiare.net, headers: {Host: vpngiare.akamaized.net}}}
-  - {name: 🇯🇵 日本-tg频道:@ripaojiedian, server: 20.210.251.193, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇭🇰 香港S-tg频道:@ripaojiedian, server: 20.187.78.114, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
-  - {name: 🇭🇰 HK-tg频道:@ripaojiedian, server: 52.184.90.142, port: 80, type: vmess, uuid: 3849e48e-f276-4612-a1b9-6f07d1ab1bad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpngiare.net, headers: {Host: vpngiare.akamaized.net}}}
-  - {name: 🇭🇰 香港-tg频道:@ripaojiedian, server: zh01lv5hk07.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 21c60e97-be1e-4e1a-9ba9-d65dde5ebc6e}
-  - {name: 🇭🇰 香港HTK-tg频道:@ripaojiedian, server: shaz.mmjs.vip, port: 16710, type: ss, cipher: chacha20-ietf-poly1305, password: d975d166-f2b7-4072-a31a-edbe5c097011}
-  - {name: 防失联节点-tg频道:@ripaojiedian, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
-  - {name: 🇹🇼 台湾-tg频道:@ripaojiedian, server: shaz.mmjs.vip, port: 58510, type: ss, cipher: chacha20-ietf-poly1305, password: d975d166-f2b7-4072-a31a-edbe5c097011}
-  - {name: 🇹🇼 台湾1-tg频道:@ripaojiedian, server: zh01lv5tw03.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 21c60e97-be1e-4e1a-9ba9-d65dde5ebc6e}
-  - {name: 🇭🇰 香港BGP-tg频道:@ripaojiedian, server: gy.ziqiyun.xyz, port: 45436, type: ss, cipher: chacha20-ietf-poly1305, password: d975d166-f2b7-4072-a31a-edbe5c097011}
-  - {name: 🇺🇸 美国1-tg频道:@ripaojiedian, server: 51.81.223.19, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇺🇸 美国tj-t.me/ripaojiedian, server: 67us01.fans8.xyz, port: 443, type: trojan, password: 86032c4e-ec6e-4523-8c1f-8e7e4ebd0d60, sni: 67us01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡-tg频道:@ripaojiedian, server: zh01lv5sgp01.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 21c60e97-be1e-4e1a-9ba9-d65dde5ebc6e}
-  - {name: 🇸🇬 使用前更新订阅, server: 103.180.149.203, port: 80, type: vmess, uuid: 3849e48e-f276-4612-a1b9-6f07d1ab1bad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpngiare.net, headers: {Host: Vietnamobile.com.vn}}}
+  - {name: 🇭🇰 香港tj-0619-, server: 615hk.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 615hk.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇹🇼 TW-0619-, server: www.yuncasa001.ml, port: 443, type: trojan, password: 8ce589f0-18b2-4dec-a955-a491ae2b236e, sni: www.yuncasa001.ml, skip-cert-verify: true}
+  - {name: 🇭🇰 香港-0619-, server: 36.134.116.212, port: 45240, type: ss, cipher: chacha20-ietf-poly1305, password: 3fc10a5d-465a-4981-bcd0-672b68722934}
+  - {name: 🇹🇼 台湾-0619-, server: yqy31225.cdn-china.net, port: 31225, type: ssr, cipher: chacha20-ietf, password: http://cc.ax/, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1705659:eqmnaP, obfs-param: data.bilibili.com/d7d7d1705659}
+  - {name: 🇹🇼 台湾tj-0619-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇯🇵 日本aws-0619-, server: 13.231.152.28, port: 16480, type: trojan, password: Gq5GOD5s5NMC, sni: www.myethblog.com, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡tj-0619-, server: sg0601.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: sg0601.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇯🇵 日本1-0619-, server: 158.101.74.69, port: 80, type: vmess, uuid: ed87b71c-b01e-40e5-b1c5-064d152effd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇭🇰 HK-0619-, server: 52.184.90.142, port: 80, type: vmess, uuid: 3849e48e-f276-4612-a1b9-6f07d1ab1bad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpngiare.net, headers: {Host: vpngiare.akamaized.net}}}
+  - {name: 🇯🇵 日本NTT-0619-, server: 164.70.68.67, port: 28443, type: trojan, password: f788c9d5-2100-4378-b3b2-5e7ed9de9150, sni: huayun.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡sg-0619-, server: 36.134.116.212, port: 45144, type: ss, cipher: chacha20-ietf-poly1305, password: 3fc10a5d-465a-4981-bcd0-672b68722934}
+  - {name: 🇸🇬 SG-0619-, server: w11.udpgw.com, port: 443, type: trojan, password: f64e69c0-e7b7-11ec-ab81-1239d0255272, sni: w11.udpgw.com, skip-cert-verify: true}
+  - {name: 🇭🇰 hk bgp-0619-, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: hkbgp1.jiantian.xyz, skip-cert-verify: true}
+  - {name: 🇺🇸 美国-0619-, server: scloud58.jafiyun.life, port: 22058, type: trojan, password: 63d7b7bb-e526-3ea5-a61f-9da6df645da0, sni: scloud58.jafiyun.life, skip-cert-verify: true}
+  - {name: 🇰🇷 韩国-0619-, server: hk.2046.gq, port: 8888, type: ss, cipher: chacha20-ietf-poly1305, password: 794871c6-022b-4498-b816-296e8a581d86}
+  - {name: 防失联节点-0619-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
+  - {name: 🇭🇰 香港0-0619-, server: 613hk.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 613hk.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇺🇸 美国1-0619-, server: 51.81.223.19, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇺🇸 美国tj-0619-, server: 67us01.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 67us01.fans8.xyz, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -616,22 +612,17 @@ proxy-groups:
       - 0️⃣5️⃣2️⃣9️⃣🎁🎁-11
       - 0️⃣5️⃣2️⃣9️⃣🎁🎁-12
       - 0️⃣5️⃣2️⃣9️⃣🎁🎁-13
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-1
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-2
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-3
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-4
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-5
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-6
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-7
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-8
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-9
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-10
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-11
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-12
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-13
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-14
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-15
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-16
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-1
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-2
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-3
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-4
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-5
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-6
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-7
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-8
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-9
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-10
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-11
       - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-1
       - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-2
       - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-3
@@ -695,24 +686,25 @@ proxy-groups:
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
-      - 🇭🇰 香港2-tg频道:@ripaojiedian
-      - 🇹🇼 台湾tj-tg频道:@ripaojiedian
-      - 🇭🇰 香港tj-tg频道:@ripaojiedian
-      - 🇸🇬 新加坡tj-tg频道:@ripaojiedian
-      - 🇸🇬 新加坡2-tg频道:@ripaojiedian
-      - 🇯🇵 日本-tg频道:@ripaojiedian
-      - 🇭🇰 香港S-tg频道:@ripaojiedian
-      - 🇭🇰 HK-tg频道:@ripaojiedian
-      - 🇭🇰 香港-tg频道:@ripaojiedian
-      - 🇭🇰 香港HTK-tg频道:@ripaojiedian
-      - 防失联节点-tg频道:@ripaojiedian
-      - 🇹🇼 台湾-tg频道:@ripaojiedian
-      - 🇹🇼 台湾1-tg频道:@ripaojiedian
-      - 🇭🇰 香港BGP-tg频道:@ripaojiedian
-      - 🇺🇸 美国1-tg频道:@ripaojiedian
-      - 🇺🇸 美国tj-t.me/ripaojiedian
-      - 🇸🇬 新加坡-tg频道:@ripaojiedian
-      - 🇸🇬 使用前更新订阅
+      - 🇭🇰 香港tj-0619-
+      - 🇹🇼 TW-0619-
+      - 🇭🇰 香港-0619-
+      - 🇹🇼 台湾-0619-
+      - 🇹🇼 台湾tj-0619-
+      - 🇯🇵 日本aws-0619-
+      - 🇸🇬 新加坡tj-0619-
+      - 🇯🇵 日本1-0619-
+      - 🇭🇰 HK-0619-
+      - 🇯🇵 日本NTT-0619-
+      - 🇸🇬 新加坡sg-0619-
+      - 🇸🇬 SG-0619-
+      - 🇭🇰 hk bgp-0619-
+      - 🇺🇸 美国-0619-
+      - 🇰🇷 韩国-0619-
+      - 防失联节点-0619-
+      - 🇭🇰 香港0-0619-
+      - 🇺🇸 美国1-0619-
+      - 🇺🇸 美国tj-0619-
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -972,22 +964,17 @@ proxy-groups:
       - 0️⃣5️⃣2️⃣9️⃣🎁🎁-11
       - 0️⃣5️⃣2️⃣9️⃣🎁🎁-12
       - 0️⃣5️⃣2️⃣9️⃣🎁🎁-13
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-1
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-2
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-3
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-4
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-5
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-6
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-7
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-8
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-9
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-10
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-11
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-12
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-13
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-14
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-15
-      - 0️⃣6️⃣0️⃣1️⃣🈂🈂-16
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-1
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-2
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-3
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-4
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-5
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-6
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-7
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-8
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-9
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-10
+      - 加密🔒0️⃣6️⃣1️⃣9️⃣📛-11
       - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-1
       - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-2
       - 🔒加密✨0️⃣6️⃣0️⃣1️⃣-3
@@ -1051,24 +1038,25 @@ proxy-groups:
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
-      - 🇭🇰 香港2-tg频道:@ripaojiedian
-      - 🇹🇼 台湾tj-tg频道:@ripaojiedian
-      - 🇭🇰 香港tj-tg频道:@ripaojiedian
-      - 🇸🇬 新加坡tj-tg频道:@ripaojiedian
-      - 🇸🇬 新加坡2-tg频道:@ripaojiedian
-      - 🇯🇵 日本-tg频道:@ripaojiedian
-      - 🇭🇰 香港S-tg频道:@ripaojiedian
-      - 🇭🇰 HK-tg频道:@ripaojiedian
-      - 🇭🇰 香港-tg频道:@ripaojiedian
-      - 🇭🇰 香港HTK-tg频道:@ripaojiedian
-      - 防失联节点-tg频道:@ripaojiedian
-      - 🇹🇼 台湾-tg频道:@ripaojiedian
-      - 🇹🇼 台湾1-tg频道:@ripaojiedian
-      - 🇭🇰 香港BGP-tg频道:@ripaojiedian
-      - 🇺🇸 美国1-tg频道:@ripaojiedian
-      - 🇺🇸 美国tj-t.me/ripaojiedian
-      - 🇸🇬 新加坡-tg频道:@ripaojiedian
-      - 🇸🇬 使用前更新订阅
+      - 🇭🇰 香港tj-0619-
+      - 🇹🇼 TW-0619-
+      - 🇭🇰 香港-0619-
+      - 🇹🇼 台湾-0619-
+      - 🇹🇼 台湾tj-0619-
+      - 🇯🇵 日本aws-0619-
+      - 🇸🇬 新加坡tj-0619-
+      - 🇯🇵 日本1-0619-
+      - 🇭🇰 HK-0619-
+      - 🇯🇵 日本NTT-0619-
+      - 🇸🇬 新加坡sg-0619-
+      - 🇸🇬 SG-0619-
+      - 🇭🇰 hk bgp-0619-
+      - 🇺🇸 美国-0619-
+      - 🇰🇷 韩国-0619-
+      - 防失联节点-0619-
+      - 🇭🇰 香港0-0619-
+      - 🇺🇸 美国1-0619-
+      - 🇺🇸 美国tj-0619-
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
