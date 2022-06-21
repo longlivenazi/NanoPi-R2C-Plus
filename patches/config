@@ -332,25 +332,24 @@ proxies:
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-5, server: 167.88.61.2, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-6, server: 167.88.61.2, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-7, server: 167.88.61.2, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇭🇰 香港tj-0619-, server: 615hk.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 615hk.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇹🇼 TW-0619-, server: www.yuncasa001.ml, port: 443, type: trojan, password: 8ce589f0-18b2-4dec-a955-a491ae2b236e, sni: www.yuncasa001.ml, skip-cert-verify: true}
-  - {name: 🇭🇰 香港-0619-, server: 36.134.116.212, port: 45240, type: ss, cipher: chacha20-ietf-poly1305, password: 3fc10a5d-465a-4981-bcd0-672b68722934}
-  - {name: 🇹🇼 台湾-0619-, server: yqy31225.cdn-china.net, port: 31225, type: ssr, cipher: chacha20-ietf, password: http://cc.ax/, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1705659:eqmnaP, obfs-param: data.bilibili.com/d7d7d1705659}
-  - {name: 🇹🇼 台湾tj-0619-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇯🇵 日本aws-0619-, server: 13.231.152.28, port: 16480, type: trojan, password: Gq5GOD5s5NMC, sni: www.myethblog.com, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡tj-0619-, server: sg0601.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: sg0601.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇯🇵 日本1-0619-, server: 158.101.74.69, port: 80, type: vmess, uuid: ed87b71c-b01e-40e5-b1c5-064d152effd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇭🇰 HK-0619-, server: 52.184.90.142, port: 80, type: vmess, uuid: 3849e48e-f276-4612-a1b9-6f07d1ab1bad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpngiare.net, headers: {Host: vpngiare.akamaized.net}}}
-  - {name: 🇯🇵 日本NTT-0619-, server: 164.70.68.67, port: 28443, type: trojan, password: f788c9d5-2100-4378-b3b2-5e7ed9de9150, sni: huayun.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡sg-0619-, server: 36.134.116.212, port: 45144, type: ss, cipher: chacha20-ietf-poly1305, password: 3fc10a5d-465a-4981-bcd0-672b68722934}
-  - {name: 🇸🇬 SG-0619-, server: w11.udpgw.com, port: 443, type: trojan, password: f64e69c0-e7b7-11ec-ab81-1239d0255272, sni: w11.udpgw.com, skip-cert-verify: true}
-  - {name: 🇭🇰 hk bgp-0619-, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: hkbgp1.jiantian.xyz, skip-cert-verify: true}
-  - {name: 🇺🇸 美国-0619-, server: scloud58.jafiyun.life, port: 22058, type: trojan, password: 63d7b7bb-e526-3ea5-a61f-9da6df645da0, sni: scloud58.jafiyun.life, skip-cert-verify: true}
-  - {name: 🇰🇷 韩国-0619-, server: hk.2046.gq, port: 8888, type: ss, cipher: chacha20-ietf-poly1305, password: 794871c6-022b-4498-b816-296e8a581d86}
-  - {name: 防失联节点-0619-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
-  - {name: 🇭🇰 香港0-0619-, server: 613hk.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 613hk.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇺🇸 美国1-0619-, server: 51.81.223.19, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇺🇸 美国tj-0619-, server: 67us01.fans8.xyz, port: 443, type: trojan, password: eea69c69-9989-4576-8b60-f6476e694bd7, sni: 67us01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 使用前更新订阅, server: 14.29.124.174, port: 11037, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
+  - {name: 🇭🇰 香港优化0621-, server: 618hk.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 618hk.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇭🇰 香港Az0621-, server: 36.139.154.162, port: 45058, type: ss, cipher: chacha20-ietf-poly1305, password: 59836db8-6e5f-4b8b-aa1e-3963f9d9c923}
+  - {name: 🇭🇰 香港iepl0621-, server: iepl.ziqiyun.xyz, port: 36233, type: ss, cipher: chacha20-ietf-poly1305, password: d975d166-f2b7-4072-a31a-edbe5c097011}
+  - {name: 🇯🇵 日本直连0621-, server: dnsfree02.theworkpc.com, port: 39813, type: vmess, uuid: d58a521b-4a23-47c5-b1d3-05ee1504c69b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}}
+  - {name: 🇹🇼 台湾0621-, server: yqy31225.cdn-china.net, port: 31225, type: ssr, cipher: chacha20-ietf, password: http://cc.ax/, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1705659:eqmnaP, obfs-param: data.bilibili.com/d7d7d1705659}
+  - {name: 🇹🇼 台湾SSR0621-, server: yqy31126.cdn-china.net, port: 31126, type: ssr, cipher: chacha20-ietf, password: http://cc.ax/, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1705659:eqmnaP, obfs-param: data.bilibili.com/d7d7d1705659}
+  - {name: 🇹🇼 台湾优化0621-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇭🇰 香港tj0621-, server: 611hk01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 611hk01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇺🇸 美国0621-, server: 165.232.169.142, port: 29332, type: ss, cipher: aes-256-cfb, password: 1e5111699c45496da84112f35db665c4}
+  - {name: 🇸🇬 SG0621-, server: w11.udpgw.com, port: 443, type: trojan, password: f64e69c0-e7b7-11ec-ab81-1239d0255272, sni: w11.udpgw.com, skip-cert-verify: true}
+  - {name: 🇹🇼 TW0621-, server: cdn2.myuuusss.com, port: 20111, type: ss, cipher: aes-128-gcm, password: 8bc68e0d-3c27-4ecd-8672-4824cb7eab2b}
+  - {name: 🇭🇰 hk bgp0621-, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: hkbgp1.jiantian.xyz, skip-cert-verify: true}
+  - {name: 防失联节点0621-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
+  - {name: 🇺🇸 美国10621-, server: 51.81.223.19, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇯🇵 JP-BGP-0621-, server: cdn2.myuuusss.com, port: 20021, type: ss, cipher: aes-128-gcm, password: 8bc68e0d-3c27-4ecd-8672-4824cb7eab2b}
+  - {name: 🇺🇸 美国优化0621-, server: 67us01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 67us01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡优化0621-, server: 67sg01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 67sg01.fans8.xyz, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -686,25 +685,24 @@ proxy-groups:
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
-      - 🇭🇰 香港tj-0619-
-      - 🇹🇼 TW-0619-
-      - 🇭🇰 香港-0619-
-      - 🇹🇼 台湾-0619-
-      - 🇹🇼 台湾tj-0619-
-      - 🇯🇵 日本aws-0619-
-      - 🇸🇬 新加坡tj-0619-
-      - 🇯🇵 日本1-0619-
-      - 🇭🇰 HK-0619-
-      - 🇯🇵 日本NTT-0619-
-      - 🇸🇬 新加坡sg-0619-
-      - 🇸🇬 SG-0619-
-      - 🇭🇰 hk bgp-0619-
-      - 🇺🇸 美国-0619-
-      - 🇰🇷 韩国-0619-
-      - 防失联节点-0619-
-      - 🇭🇰 香港0-0619-
-      - 🇺🇸 美国1-0619-
-      - 🇺🇸 美国tj-0619-
+      - 🇸🇬 使用前更新订阅
+      - 🇭🇰 香港优化0621-
+      - 🇭🇰 香港Az0621-
+      - 🇭🇰 香港iepl0621-
+      - 🇯🇵 日本直连0621-
+      - 🇹🇼 台湾0621-
+      - 🇹🇼 台湾SSR0621-
+      - 🇹🇼 台湾优化0621-
+      - 🇭🇰 香港tj0621-
+      - 🇺🇸 美国0621-
+      - 🇸🇬 SG0621-
+      - 🇹🇼 TW0621-
+      - 🇭🇰 hk bgp0621-
+      - 防失联节点0621-
+      - 🇺🇸 美国10621-
+      - 🇯🇵 JP-BGP-0621-
+      - 🇺🇸 美国优化0621-
+      - 🇸🇬 新加坡优化0621-
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1038,25 +1036,24 @@ proxy-groups:
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
-      - 🇭🇰 香港tj-0619-
-      - 🇹🇼 TW-0619-
-      - 🇭🇰 香港-0619-
-      - 🇹🇼 台湾-0619-
-      - 🇹🇼 台湾tj-0619-
-      - 🇯🇵 日本aws-0619-
-      - 🇸🇬 新加坡tj-0619-
-      - 🇯🇵 日本1-0619-
-      - 🇭🇰 HK-0619-
-      - 🇯🇵 日本NTT-0619-
-      - 🇸🇬 新加坡sg-0619-
-      - 🇸🇬 SG-0619-
-      - 🇭🇰 hk bgp-0619-
-      - 🇺🇸 美国-0619-
-      - 🇰🇷 韩国-0619-
-      - 防失联节点-0619-
-      - 🇭🇰 香港0-0619-
-      - 🇺🇸 美国1-0619-
-      - 🇺🇸 美国tj-0619-
+      - 🇸🇬 使用前更新订阅
+      - 🇭🇰 香港优化0621-
+      - 🇭🇰 香港Az0621-
+      - 🇭🇰 香港iepl0621-
+      - 🇯🇵 日本直连0621-
+      - 🇹🇼 台湾0621-
+      - 🇹🇼 台湾SSR0621-
+      - 🇹🇼 台湾优化0621-
+      - 🇭🇰 香港tj0621-
+      - 🇺🇸 美国0621-
+      - 🇸🇬 SG0621-
+      - 🇹🇼 TW0621-
+      - 🇭🇰 hk bgp0621-
+      - 防失联节点0621-
+      - 🇺🇸 美国10621-
+      - 🇯🇵 JP-BGP-0621-
+      - 🇺🇸 美国优化0621-
+      - 🇸🇬 新加坡优化0621-
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
