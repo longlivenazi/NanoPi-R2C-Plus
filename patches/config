@@ -332,24 +332,20 @@ proxies:
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-5, server: 167.88.61.2, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-6, server: 167.88.61.2, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣6️⃣1️⃣4️⃣🕳🕳-7, server: 167.88.61.2, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇸🇬 使用前更新订阅, server: 14.29.124.174, port: 11037, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*}
-  - {name: 🇭🇰 香港优化0621-, server: 618hk.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 618hk.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 香港Az0621-, server: 36.139.154.162, port: 45058, type: ss, cipher: chacha20-ietf-poly1305, password: 59836db8-6e5f-4b8b-aa1e-3963f9d9c923}
-  - {name: 🇭🇰 香港iepl0621-, server: iepl.ziqiyun.xyz, port: 36233, type: ss, cipher: chacha20-ietf-poly1305, password: d975d166-f2b7-4072-a31a-edbe5c097011}
-  - {name: 🇯🇵 日本直连0621-, server: dnsfree02.theworkpc.com, port: 39813, type: vmess, uuid: d58a521b-4a23-47c5-b1d3-05ee1504c69b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}}
-  - {name: 🇹🇼 台湾0621-, server: yqy31225.cdn-china.net, port: 31225, type: ssr, cipher: chacha20-ietf, password: http://cc.ax/, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1705659:eqmnaP, obfs-param: data.bilibili.com/d7d7d1705659}
-  - {name: 🇹🇼 台湾SSR0621-, server: yqy31126.cdn-china.net, port: 31126, type: ssr, cipher: chacha20-ietf, password: http://cc.ax/, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1705659:eqmnaP, obfs-param: data.bilibili.com/d7d7d1705659}
-  - {name: 🇹🇼 台湾优化0621-, server: 67tw01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 67tw01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 香港tj0621-, server: 611hk01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 611hk01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇺🇸 美国0621-, server: 165.232.169.142, port: 29332, type: ss, cipher: aes-256-cfb, password: 1e5111699c45496da84112f35db665c4}
-  - {name: 🇸🇬 SG0621-, server: w11.udpgw.com, port: 443, type: trojan, password: f64e69c0-e7b7-11ec-ab81-1239d0255272, sni: w11.udpgw.com, skip-cert-verify: true}
-  - {name: 🇹🇼 TW0621-, server: cdn2.myuuusss.com, port: 20111, type: ss, cipher: aes-128-gcm, password: 8bc68e0d-3c27-4ecd-8672-4824cb7eab2b}
-  - {name: 🇭🇰 hk bgp0621-, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 7cb64c49-2ce5-4fa6-9b79-9c02eb54735c, sni: hkbgp1.jiantian.xyz, skip-cert-verify: true}
-  - {name: 防失联节点0621-, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxsg.fovi.tk}}}
-  - {name: 🇺🇸 美国10621-, server: 51.81.223.19, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇯🇵 JP-BGP-0621-, server: cdn2.myuuusss.com, port: 20021, type: ss, cipher: aes-128-gcm, password: 8bc68e0d-3c27-4ecd-8672-4824cb7eab2b}
-  - {name: 🇺🇸 美国优化0621-, server: 67us01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 67us01.fans8.xyz, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡优化0621-, server: 67sg01.fans8.xyz, port: 443, type: trojan, password: 64e4a3ac-7699-4614-9c53-9e1da3dccf5a, sni: 67sg01.fans8.xyz, skip-cert-verify: true}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-1, server: hk12.ningmengshui.xyz, port: 80, type: vmess, uuid: 01981120-6a45-4e7a-9dc6-18f7f1cee658, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: hk12.ningmengshui.xyz}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-2, server: 51.81.223.32, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-3, server: 36.138.197.169, port: 2506, type: vmess, uuid: 6861c307-5efd-3b8a-b7fa-248ad8dde74e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: 36.138.197.169}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-4, server: 158.101.74.69, port: 31939, type: vmess, uuid: f130c826-40d9-44fb-be3d-75ebcb750d12, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-5, server: 51.81.223.20, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-6, server: 36.138.197.169, port: 2901, type: vmess, uuid: 6861c307-5efd-3b8a-b7fa-248ad8dde74e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 36.138.197.169}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-7, server: 138.2.59.97, port: 80, type: vmess, uuid: 01981120-6a45-4e7a-9dc6-18f7f1cee658, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-8, server: 146.56.47.161, port: 80, type: vmess, uuid: fa0702f4-8ec9-48e5-9b53-a0afb7c3717e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 146.56.47.161}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-9, server: 36.138.197.169, port: 21201, type: vmess, uuid: 6861c307-5efd-3b8a-b7fa-248ad8dde74e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 36.138.197.169}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-10, server: hk10.ningmengshui.xyz, port: 80, type: vmess, uuid: 01981120-6a45-4e7a-9dc6-18f7f1cee658, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-11, server: 51.81.223.29, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-12, server: 36.138.197.169, port: 24058, type: vmess, uuid: 6861c307-5efd-3b8a-b7fa-248ad8dde74e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 36.138.197.169}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-13, server: 2.game.speed.zz.001.oooooooooo.icu, port: 53945, type: vmess, uuid: 0f62bb1b-dd16-3bb2-a435-c13e068b0955, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-14, server: 158.101.74.69, port: 31939, type: vmess, uuid: f130c826-40d9-44fb-be3d-75ebcb750d12, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -685,24 +681,20 @@ proxy-groups:
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
-      - 🇸🇬 使用前更新订阅
-      - 🇭🇰 香港优化0621-
-      - 🇭🇰 香港Az0621-
-      - 🇭🇰 香港iepl0621-
-      - 🇯🇵 日本直连0621-
-      - 🇹🇼 台湾0621-
-      - 🇹🇼 台湾SSR0621-
-      - 🇹🇼 台湾优化0621-
-      - 🇭🇰 香港tj0621-
-      - 🇺🇸 美国0621-
-      - 🇸🇬 SG0621-
-      - 🇹🇼 TW0621-
-      - 🇭🇰 hk bgp0621-
-      - 防失联节点0621-
-      - 🇺🇸 美国10621-
-      - 🇯🇵 JP-BGP-0621-
-      - 🇺🇸 美国优化0621-
-      - 🇸🇬 新加坡优化0621-
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-1
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-2
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-3
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-4
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-5
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-6
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-7
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-8
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-9
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-10
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-11
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-12
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-13
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-14
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1036,24 +1028,20 @@ proxy-groups:
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-5
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-6
       - 0️⃣6️⃣1️⃣4️⃣🕳🕳-7
-      - 🇸🇬 使用前更新订阅
-      - 🇭🇰 香港优化0621-
-      - 🇭🇰 香港Az0621-
-      - 🇭🇰 香港iepl0621-
-      - 🇯🇵 日本直连0621-
-      - 🇹🇼 台湾0621-
-      - 🇹🇼 台湾SSR0621-
-      - 🇹🇼 台湾优化0621-
-      - 🇭🇰 香港tj0621-
-      - 🇺🇸 美国0621-
-      - 🇸🇬 SG0621-
-      - 🇹🇼 TW0621-
-      - 🇭🇰 hk bgp0621-
-      - 防失联节点0621-
-      - 🇺🇸 美国10621-
-      - 🇯🇵 JP-BGP-0621-
-      - 🇺🇸 美国优化0621-
-      - 🇸🇬 新加坡优化0621-
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-1
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-2
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-3
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-4
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-5
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-6
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-7
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-8
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-9
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-10
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-11
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-12
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-13
+      - 🔒加密0️⃣6️⃣2️⃣2️⃣⭕-14
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
