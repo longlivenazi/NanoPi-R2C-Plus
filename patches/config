@@ -37,19 +37,20 @@ proxies:
   - {name: 0️⃣4️⃣1️⃣6️⃣💜💚-13, server: 185.167.116.250, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
   - {name: 0️⃣4️⃣1️⃣6️⃣💜💚-14, server: 213.183.53.200, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
   - {name: 0️⃣4️⃣1️⃣6️⃣💜💚-15, server: 185.167.116.253, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-1, server: 213.183.51.172, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-2, server: 213.183.53.200, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-3, server: 213.183.53.177, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-4, server: 213.183.53.177, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-5, server: 213.183.53.200, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-6, server: 213.183.53.177, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-7, server: 213.183.53.177, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-8, server: 213.183.53.177, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-9, server: 213.183.53.177, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-10, server: 185.126.116.125, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-11, server: 185.167.117.171, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-12, server: 185.126.116.125, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY}
-  - {name: 0️⃣4️⃣1️⃣7️⃣🔴🟠-13, server: 185.126.116.125, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-1, server: 120.233.7.221, port: 18007, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-2, server: v125.v2dns.bar, port: 80, type: vmess, uuid: 0c68af8a-961a-3065-a3a7-1800ebc70bdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v1252N93nZez6Py, ws-headers: {Host: v125.v2dns.bar}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-3, server: bgpv2.ktyjsq.com, port: 12229, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-4, server: 51.81.223.29, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-5, server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-6, server: v47.v2dns.bar, port: 2052, type: vmess, uuid: 0c68af8a-961a-3065-a3a7-1800ebc70bdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v47-unlimitndxd, ws-headers: {Host: v47.v2dns.bar}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-7, server: chunchuan-02.aikala.shop, port: 80, type: vmess, uuid: bea6470b-a7b8-465f-b95d-7f0c681dba1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: down.dingtalk.com}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-8, server: 139.227.78.64, port: 17009, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-9, server: v04.ssrsub.com, port: 153, type: vmess, uuid: 8fefb1b5-bee7-4736-8e00-cad32ab113d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: d76bb35696.laowanxiang.com}}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-10, server: bgpv2.ktyjsq.com, port: 12007, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-11, server: 51.81.223.10, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-12, server: 36.139.115.52, port: 11401, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-13, server: bgpv2.ktyjsq.com, port: 12222, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-14, server: 120.233.7.221, port: 32005, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 0️⃣4️⃣2️⃣1️⃣-1, server: 217.30.10.66, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
   - {name: 0️⃣4️⃣2️⃣1️⃣-2, server: 185.167.116.253, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ}
   - {name: 0️⃣4️⃣2️⃣1️⃣-3, server: 185.167.116.253, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF}
@@ -386,19 +387,20 @@ proxy-groups:
       - 0️⃣4️⃣1️⃣6️⃣💜💚-13
       - 0️⃣4️⃣1️⃣6️⃣💜💚-14
       - 0️⃣4️⃣1️⃣6️⃣💜💚-15
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-1
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-2
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-3
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-4
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-5
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-6
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-7
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-8
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-9
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-10
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-11
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-12
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-13
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-1
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-2
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-3
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-4
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-5
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-6
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-7
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-8
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-9
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-10
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-11
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-12
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-13
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-14
       - 0️⃣4️⃣2️⃣1️⃣-1
       - 0️⃣4️⃣2️⃣1️⃣-2
       - 0️⃣4️⃣2️⃣1️⃣-3
@@ -733,19 +735,20 @@ proxy-groups:
       - 0️⃣4️⃣1️⃣6️⃣💜💚-13
       - 0️⃣4️⃣1️⃣6️⃣💜💚-14
       - 0️⃣4️⃣1️⃣6️⃣💜💚-15
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-1
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-2
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-3
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-4
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-5
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-6
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-7
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-8
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-9
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-10
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-11
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-12
-      - 0️⃣4️⃣1️⃣7️⃣🔴🟠-13
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-1
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-2
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-3
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-4
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-5
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-6
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-7
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-8
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-9
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-10
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-11
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-12
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-13
+      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-14
       - 0️⃣4️⃣2️⃣1️⃣-1
       - 0️⃣4️⃣2️⃣1️⃣-2
       - 0️⃣4️⃣2️⃣1️⃣-3
