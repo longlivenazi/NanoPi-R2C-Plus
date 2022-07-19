@@ -149,6 +149,20 @@ proxies:
   - {name: 0️⃣7️⃣0️⃣7️⃣💠💠-13, server: 217.197.161.181, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 0️⃣7️⃣0️⃣7️⃣💠💠-14, server: 51.38.118.42, port: 813, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017}
   - {name: 0️⃣7️⃣0️⃣7️⃣💠💠-15, server: 194.156.231.221, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-1, server: 36.134.156.5, port: 65063, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /rocket, ws-headers: {Host: 36.134.156.5}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-2, server: cn2.soow.win, port: 50027, type: vmess, uuid: c1d0ae9e-f08a-3f81-962d-ca19b52c760d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /video, ws-headers: {Host: cn2.soow.win}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-3, server: 104.208.66.126, port: 10002, type: vmess, uuid: 9b3a6753-2f33-4e0b-bb2e-84e5076d445c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 104.208.66.126}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-4, server: 104.224.188.29, port: 38226, type: vmess, uuid: 9299fb78-290c-4aad-befb-0130c074a622, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-5, server: 104.208.66.126, port: 10002, type: vmess, uuid: 9b3a6753-2f33-4e0b-bb2e-84e5076d445c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 104.208.66.126}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-6, server: 104.224.188.29, port: 38226, type: vmess, uuid: 9299fb78-290c-4aad-befb-0130c074a622, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-7, server: 104.224.188.29, port: 38226, type: vmess, uuid: 9299fb78-290c-4aad-befb-0130c074a622, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-8, server: 120.233.150.146, port: 65001, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /rocket, ws-headers: {Host: 120.233.150.146}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-9, server: best01.downloadmovie.cn, port: 65076, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /rocket, ws-headers: {Host: best01.downloadmovie.cn}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-10, server: 120.233.150.146, port: 65001, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /rocket, ws-headers: {Host: 120.233.150.146}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-11, server: 36.134.156.5, port: 65042, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /rocket, ws-headers: {Host: 36.134.156.5}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-12, server: 120.233.29.189, port: 65039, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /rocket, ws-headers: {Host: 120.233.29.189}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-13, server: 104.18.24.139, port: 80, type: vmess, uuid: c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /sshkit/5206194863/62c7702a0ea8b/, ws-headers: {Host: sg1-v2ray.sshkit.org}}
+  - {name: 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-14, server: azjp.gd1214b.tech, port: 443, type: vmess, uuid: 039c184e-9f50-46ec-80a3-c506c78c2a44, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: "/3f8d7a9ba6?ed=2048", ws-headers: {Host: azjp.gd1214b.tech}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -301,6 +315,20 @@ proxy-groups:
       - 0️⃣7️⃣0️⃣7️⃣💠💠-13
       - 0️⃣7️⃣0️⃣7️⃣💠💠-14
       - 0️⃣7️⃣0️⃣7️⃣💠💠-15
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-1
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-2
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-3
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-4
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-5
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-6
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-7
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-8
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-9
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-10
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-11
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-12
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-13
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-14
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -451,6 +479,20 @@ proxy-groups:
       - 0️⃣7️⃣0️⃣7️⃣💠💠-13
       - 0️⃣7️⃣0️⃣7️⃣💠💠-14
       - 0️⃣7️⃣0️⃣7️⃣💠💠-15
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-1
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-2
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-3
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-4
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-5
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-6
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-7
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-8
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-9
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-10
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-11
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-12
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-13
+      - 加密🔒0️⃣7️⃣1️⃣8️⃣➗➗-14
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
