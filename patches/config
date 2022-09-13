@@ -115,6 +115,16 @@ proxies:
   - {name: 0️⃣8️⃣2️⃣0️⃣💥💥-9, server: 85.208.108.93, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
   - {name: 0️⃣8️⃣2️⃣0️⃣💥💥-10, server: cne.cloudorg.uk, port: 17081, type: ss, cipher: chacha20-ietf-poly1305, password: 79fe21aa-5781-455a-b3b0-969b216e3914}
   - {name: 0️⃣8️⃣2️⃣0️⃣💥💥-11, server: 38.143.66.20, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-1, server: 38.91.107.66, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-2, server: 38.91.107.66, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-3, server: 38.91.107.66, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-4, server: 38.91.107.66, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-5, server: 38.91.107.66, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-6, server: 38.91.107.66, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-7, server: 38.91.107.66, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-8, server: 38.91.107.66, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-9, server: 38.91.107.66, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 0️⃣9️⃣1️⃣0️⃣🚫🚫-10, server: 38.91.107.66, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 不限速千兆-hk100, server: fnhk1glines002re.fnline.club, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: edbe138e9e7d, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnhk1glines002re.fnline.club, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 不限速千兆-tw11, server: fn600mliness011.fnline.vip, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2d59efdde6c9, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness011.fnline.vip, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 不限速千兆-tw32, server: fn600mliness013.fnline.vip, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1b584982dbdc, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness013.fnline.vip, path: "", tls: true, mux: true, skip-cert-verify: false}}
@@ -273,6 +283,16 @@ proxy-groups:
       - 0️⃣8️⃣2️⃣0️⃣💥💥-9
       - 0️⃣8️⃣2️⃣0️⃣💥💥-10
       - 0️⃣8️⃣2️⃣0️⃣💥💥-11
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-1
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-2
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-3
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-4
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-5
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-6
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-7
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-8
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-9
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-10
       - 不限速千兆-hk100
       - 不限速千兆-tw11
       - 不限速千兆-tw32
@@ -429,6 +449,16 @@ proxy-groups:
       - 0️⃣8️⃣2️⃣0️⃣💥💥-9
       - 0️⃣8️⃣2️⃣0️⃣💥💥-10
       - 0️⃣8️⃣2️⃣0️⃣💥💥-11
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-1
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-2
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-3
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-4
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-5
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-6
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-7
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-8
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-9
+      - 0️⃣9️⃣1️⃣0️⃣🚫🚫-10
       - 不限速千兆-hk100
       - 不限速千兆-tw11
       - 不限速千兆-tw32
