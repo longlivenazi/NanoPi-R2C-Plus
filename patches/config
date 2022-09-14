@@ -5,20 +5,22 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-1, server: 120.233.7.221, port: 18007, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-2, server: v125.v2dns.bar, port: 80, type: vmess, uuid: 0c68af8a-961a-3065-a3a7-1800ebc70bdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v1252N93nZez6Py, ws-headers: {Host: v125.v2dns.bar}}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-3, server: bgpv2.ktyjsq.com, port: 12229, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-4, server: 51.81.223.29, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-5, server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-6, server: v47.v2dns.bar, port: 2052, type: vmess, uuid: 0c68af8a-961a-3065-a3a7-1800ebc70bdb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v47-unlimitndxd, ws-headers: {Host: v47.v2dns.bar}}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-7, server: chunchuan-02.aikala.shop, port: 80, type: vmess, uuid: bea6470b-a7b8-465f-b95d-7f0c681dba1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: down.dingtalk.com}}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-8, server: 139.227.78.64, port: 17009, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-9, server: v04.ssrsub.com, port: 153, type: vmess, uuid: 8fefb1b5-bee7-4736-8e00-cad32ab113d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /api/v3/download.getFile, ws-headers: {Host: d76bb35696.laowanxiang.com}}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-10, server: bgpv2.ktyjsq.com, port: 12007, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-11, server: 51.81.223.10, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-12, server: 36.139.115.52, port: 11401, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-13, server: bgpv2.ktyjsq.com, port: 12222, type: vmess, uuid: 71421b16-e5ae-36df-8f0c-c9cc90d14fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🔒加密0️⃣6️⃣2️⃣5️⃣💫-14, server: 120.233.7.221, port: 32005, type: vmess, uuid: 21dcbec8-eee8-3d20-82b6-f8c16fe6dc8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-1, server: 38.91.102.74, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-2, server: 64.112.42.53, port: 16999, type: ss, cipher: aes-256-gcm, password: CBYyPc0GwoaQ9m2oqWdE}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-3, server: 38.91.107.66, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-4, server: 38.91.107.66, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-5, server: 38.91.107.66, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-6, server: 38.91.102.74, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-7, server: 38.91.107.66, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-8, server: 193.38.139.206, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-9, server: 38.91.107.72, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-10, server: 38.91.102.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-11, server: 38.91.102.74, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-12, server: 38.91.102.74, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-13, server: 38.91.102.74, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-14, server: 212.102.53.194, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-14 2, server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 0️⃣9️⃣1️⃣2️⃣💮💮-16, server: 38.91.102.74, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-1, server: 144.24.88.101, port: 16833, type: vmess, uuid: f5425ccf-3946-4fb4-eb24-5393d78a392f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-2, server: lc-hk03-direct01.lc-hk03.lc-node.com, port: 443, type: vmess, uuid: ec736482-173e-3eff-9114-b49df8056e7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: lc-hk03-direct01.lc-hk03.lc-node.com}}
   - {name: 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-3, server: api.qiscus.com, port: 443, type: vmess, uuid: 8f9b60e6-1db3-42e4-97b9-1e311f427649, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /vmess-ws-makae, ws-headers: {Host: bn-id01.ipv2ray.xyz}}
@@ -173,20 +175,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-1
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-2
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-3
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-4
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-5
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-6
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-7
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-8
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-9
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-10
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-11
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-12
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-13
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-14
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-1
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-2
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-3
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-4
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-5
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-6
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-7
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-8
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-9
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-10
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-11
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-12
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-13
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-14
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-14 2
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-16
       - 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-1
       - 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-2
       - 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-3
@@ -339,20 +343,22 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-1
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-2
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-3
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-4
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-5
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-6
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-7
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-8
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-9
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-10
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-11
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-12
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-13
-      - 🔒加密0️⃣6️⃣2️⃣5️⃣💫-14
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-1
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-2
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-3
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-4
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-5
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-6
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-7
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-8
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-9
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-10
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-11
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-12
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-13
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-14
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-14 2
+      - 0️⃣9️⃣1️⃣2️⃣💮💮-16
       - 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-1
       - 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-2
       - 🔒加密0️⃣7️⃣1️⃣3️⃣🛹🛹-3
