@@ -147,6 +147,16 @@ proxies:
   - {name: 优质线路（us1）37, server: fnbg1glines004.fnline.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 772183321102, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnbg1glines004.fnline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 优质线路（us2）38, server: bjus1glines010.feisujiasu.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b98227c85ab5, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: bjus1glines010.feisujiasu.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 优质线路（jp2）39, server: fn50mxwjpline001.fnline.info, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8777fef1dd40, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn50mxwjpline001.fnline.info, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1","server":"14.29.124.174","port":11007,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"ss","name":"🇨🇳_CN_中国","server":"uu.qnmd.me","port":30053,"cipher":"aes-128-gcm","password":"c0429e1a-486c-41a4-81bd-8b2661c56efd"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇯🇵_JP_日本","server":"42.49.119.3","port":11812,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"Fhbe0z","obfs-param":"dC5tZS92cG5oYXQ=","protocol-param":"26786:r3uWHp"}
+  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"14.29.124.174","port":11050,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
+  - {"type":"ss","name":"🇺🇸_US_美国","server":"79.133.109.56","port":1036,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
+  - {"type":"trojan","name":"🇫🇷_FR_法国","server":"35.180.202.38","port":443,"password":"iyinglong","udp":true,"skip-cert-verify":true}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇺🇸_US_美国_1","server":"nmd.boom.skin","port":23000,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"http_simple","password":"Uk92CS","obfs-param":"ZG93bmxvYWQud2luZG93c3VwZGF0ZS5jb20=","protocol-param":"442816:xeq6bk"}
+  - {"type":"trojan","name":"🇯🇵_JP_日本","server":"54.249.153.131","port":443,"password":"iyinglong","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇮🇷_IR_伊朗->🇳🇱_NL_荷兰","server":"nnv.chitacdn.xyz","port":54242,"uuid":"f2393d82-94c4-4b12-8267-293a7500e487","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","server":"n60.boom.skin","port":24000,"protocol":"auth_aes128_sha1","cipher":"aes-256-cfb","obfs":"http_simple","password":"Uk92CS","obfs-param":"ZG93bmxvYWQud2luZG93c3VwZGF0ZS5jb20=","protocol-param":"442816:xeq6bk"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -297,6 +307,16 @@ proxy-groups:
       - 优质线路（us1）37
       - 优质线路（us2）38
       - 优质线路（jp2）39
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🇨🇳_CN_中国
+      - 🇨🇳_CN_中国->🇯🇵_JP_日本
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇺🇸_US_美国
+      - 🇫🇷_FR_法国
+      - 🇨🇳_CN_中国->🇺🇸_US_美国_1
+      - 🇯🇵_JP_日本
+      - 🇮🇷_IR_伊朗->🇳🇱_NL_荷兰
+      - 🇨🇳_CN_中国->🇺🇸_US_美国_2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -445,6 +465,16 @@ proxy-groups:
       - 优质线路（us1）37
       - 优质线路（us2）38
       - 优质线路（jp2）39
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
+      - 🇨🇳_CN_中国
+      - 🇨🇳_CN_中国->🇯🇵_JP_日本
+      - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
+      - 🇺🇸_US_美国
+      - 🇫🇷_FR_法国
+      - 🇨🇳_CN_中国->🇺🇸_US_美国_1
+      - 🇯🇵_JP_日本
+      - 🇮🇷_IR_伊朗->🇳🇱_NL_荷兰
+      - 🇨🇳_CN_中国->🇺🇸_US_美国_2
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
