@@ -150,7 +150,6 @@ proxies:
   - {name: 优质线路（us2）38, server: bjus1glines010.feisujiasu.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b98227c85ab5, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: bjus1glines010.feisujiasu.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 优质线路（jp2）39, server: fn50mxwjpline001.fnline.info, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8777fef1dd40, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn50mxwjpline001.fnline.info, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {"type":"trojan","name":"🇸🇬_SG_新加坡","server":"99tw03.tfzhc.top","port":443,"password":"0668aee8-7a83-4dd0-a399-28c3a34a3d94","udp":true,"skip-cert-verify":true}
-  - {"type":"ss","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1","server":"14.29.124.174","port":11019,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
   - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"165.154.235.186","port":24567,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"120.195.181.72","port":12324,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇱🇺_LU_卢森堡_1","server":"124.71.16.99","port":12336,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","udp":true,"skip-cert-verify":true}
@@ -165,7 +164,6 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_美国_5","server":"129.159.41.233","port":32586,"uuid":"341a9182-c423-499c-c46e-d17838b29037","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"ss","name":"🇷🇺_RU_俄罗斯联邦->🇱🇻_LV_拉脱维亚","server":"mf01.xmss.vip","port":18888,"cipher":"chacha20-ietf-poly1305","password":"35b0f578-8961-4a2b-99a1-db9555e522e4"}
   - {"type":"trojan","name":"🇺🇸_US_美国_6","server":"scus1.ddns-pop.cyou","port":24567,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳_CN_中国","server":"120.195.181.51","port":12355,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_1","server":"120.195.181.51","port":12351,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇳🇱_NL_荷兰","server":"94.177.8.87","port":41443,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","tls":true}
   - {"type":"trojan","name":"🇬🇧_GB_英国_1","server":"3.9.175.102","port":443,"password":"iyinglong","udp":true,"skip-cert-verify":true}
@@ -352,7 +350,6 @@ proxy-groups:
       - 优质线路（us2）38
       - 优质线路（jp2）39
       - 🇸🇬_SG_新加坡
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
       - 🇺🇸_US_美国_1
       - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
       - 🇨🇳_CN_中国->🇱🇺_LU_卢森堡_1
@@ -367,7 +364,6 @@ proxy-groups:
       - 🇺🇸_US_美国_5
       - 🇷🇺_RU_俄罗斯联邦->🇱🇻_LV_拉脱维亚
       - 🇺🇸_US_美国_6
-      - 🇨🇳_CN_中国
       - 🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_1
       - 🇳🇱_NL_荷兰
       - 🇬🇧_GB_英国_1
@@ -552,7 +548,6 @@ proxy-groups:
       - 优质线路（us2）38
       - 优质线路（jp2）39
       - 🇸🇬_SG_新加坡
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港_1
       - 🇺🇸_US_美国_1
       - 🇨🇳_CN_中国->🇭🇰_HK_香港_2
       - 🇨🇳_CN_中国->🇱🇺_LU_卢森堡_1
@@ -567,7 +562,6 @@ proxy-groups:
       - 🇺🇸_US_美国_5
       - 🇷🇺_RU_俄罗斯联邦->🇱🇻_LV_拉脱维亚
       - 🇺🇸_US_美国_6
-      - 🇨🇳_CN_中国
       - 🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_1
       - 🇳🇱_NL_荷兰
       - 🇬🇧_GB_英国_1
