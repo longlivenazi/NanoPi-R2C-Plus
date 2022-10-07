@@ -45,6 +45,90 @@ proxies:
   - {name: 优质线路（us1）37, server: fnbg1glines004.fnline.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 772183321102, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnbg1glines004.fnline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 优质线路（us2）38, server: bjus1glines010.feisujiasu.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b98227c85ab5, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: bjus1glines010.feisujiasu.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
   - {name: 优质线路（jp2）39, server: fn50mxwjpline001.fnline.info, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8777fef1dd40, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn50mxwjpline001.fnline.info, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {"type":"vmess","name":"V1-俄罗斯01中继A|x1.2","ws-opts":{"path":"/","headers":{"host":"mugua-ru01.myn1des.com"}},"server":"in01.my1188.org","port":63071,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-俄罗斯01中继B|x1.2","ws-opts":{"path":"/","headers":{"host":"mugua-ru01.myn1des.com"}},"server":"in02.my1188.org","port":63071,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-俄罗斯01中继C|x1.2","ws-opts":{"path":"/","headers":{"host":"mugua-ru01.myn1des.com"}},"server":"in03.my1188.org","port":63071,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-俄罗斯01中继D|x1.2","ws-opts":{"path":"/","headers":{"host":"mugua-ru01.myn1des.com"}},"server":"in04.my1188.org","port":63071,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-台湾多台负载均衡中继A1.5x","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}},"server":"in01.my1188.org","port":63088,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-台湾多台负载均衡中继B1.5x","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}},"server":"in02.my1188.org","port":63088,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-台湾多台负载均衡中继C1.5x","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}},"server":"in03.my1188.org","port":63088,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-台湾多台负载均衡中继D1.5x","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}},"server":"in04.my1188.org","port":63088,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-台湾多台负载均衡中继F1.5x","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}},"server":"in06.my1188.org","port":63088,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-台湾99Hinet直连速度随缘0.5x","ws-opts":{"path":"/","headers":{"host":"tw99-hinet.myn1des.com"}},"server":"tw99-hinet.myn1des.com","port":2087,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-德国01CDN中继1.5x","ws-opts":{"path":"/","headers":{"host":"de01-cdn.airport-v2.com"}},"server":"in05.my1188.org","port":63084,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V1-新加坡多台负载均衡中继A1.5x","ws-opts":{"path":"/mugua","headers":{"host":"sg-balancer.tencent.best"}},"server":"in01.my1188.org","port":63087,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-新加坡多台负载均衡中继B1.5x","ws-opts":{"path":"/mugua","headers":{"host":"sg-balancer.tencent.best"}},"server":"in02.my1188.org","port":63087,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-新加坡多台负载均衡中继C1.5x","ws-opts":{"path":"/mugua","headers":{"host":"sg-balancer.tencent.best"}},"server":"in03.my1188.org","port":63087,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-新加坡多台负载均衡中继D1.5x","ws-opts":{"path":"/mugua","headers":{"host":"sg-balancer.tencent.best"}},"server":"in04.my1188.org","port":63087,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-新加坡多台负载均衡中继F1.5x","ws-opts":{"path":"/mugua","headers":{"host":"sg-balancer.tencent.best"}},"server":"in06.my1188.org","port":63087,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-日本多台负载均衡中继A1.5x","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"in01.my1188.org","port":63086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-日本多台负载均衡中继B1.5x","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"in02.my1188.org","port":63086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-日本多台负载均衡中继C1.5x","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"in03.my1188.org","port":63086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-日本多台负载均衡中继D1.5x","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"in04.my1188.org","port":63086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-日本多台负载均衡中继F1.5x","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"in06.my1188.org","port":63086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-美国01中继A|1.5x","ws-opts":{"path":"/mg","headers":{"host":"mugua-us01.covid19.rip"}},"server":"in01.my1188.org","port":63014,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-美国01中继B|1.5x","ws-opts":{"path":"/mg","headers":{"host":"mugua-us01.covid19.rip"}},"server":"in02.my1188.org","port":63014,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-美国01中继C|1.5x","ws-opts":{"path":"/mg","headers":{"host":"mugua-us01.covid19.rip"}},"server":"in03.my1188.org","port":63014,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-美国01中继D|1.5x","ws-opts":{"path":"/mg","headers":{"host":"mugua-us01.covid19.rip"}},"server":"in04.my1188.org","port":63014,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-英国01CDN中继1.5x","ws-opts":{"path":"/","headers":{"host":"uk01-cdn.airport-v2.com"}},"server":"in05.my1188.org","port":63021,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V1-韩国01中继A|x1.5","ws-opts":{"path":"/","headers":{"host":"mugua-kr01.covid19.rip"}},"server":"in01.my1188.org","port":63004,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-韩国01中继B|x1.5","ws-opts":{"path":"/","headers":{"host":"mugua-kr01.covid19.rip"}},"server":"in02.my1188.org","port":63004,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-韩国01中继C|x1.5","ws-opts":{"path":"/","headers":{"host":"mugua-kr01.covid19.rip"}},"server":"in03.my1188.org","port":63004,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-韩国01中继D|x1.5","ws-opts":{"path":"/","headers":{"host":"mugua-kr01.covid19.rip"}},"server":"in04.my1188.org","port":63004,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-香港多台负载均衡中继A|1.5x","ws-opts":{"path":"/","headers":{"host":"hk-balancer.airport-v2.com"}},"server":"in01.my1188.org","port":63078,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-香港多台负载均衡中继B|1.5x","ws-opts":{"path":"/","headers":{"host":"hk-balancer.airport-v2.com"}},"server":"in02.my1188.org","port":63078,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-香港多台负载均衡中继C|1.5x","ws-opts":{"path":"/","headers":{"host":"hk-balancer.airport-v2.com"}},"server":"in03.my1188.org","port":63078,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-香港多台负载均衡中继D|1.5x","ws-opts":{"path":"/","headers":{"host":"hk-balancer.airport-v2.com"}},"server":"in04.my1188.org","port":63078,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V1-香港HKT02CDN中继2x","ws-opts":{"path":"/","headers":{"host":"hkt2-cdn.tencent.best"}},"server":"in05.my1188.org","port":63081,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V1-香港HKT03CDN中继2x","ws-opts":{"path":"/","headers":{"host":"hkt3-cdn.tencent.best"}},"server":"in05.my1188.org","port":63082,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V2-PRO德国017x","ws-opts":{"path":"/","headers":{"host":"de01.contabo.nbsd.us"}},"server":"pro01.my1188.org","port":3183,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-PRO澳洲01|7x","ws-opts":{"path":"/","headers":{"host":"au01.iepl.nbsd.us"}},"server":"pro01.my1188.org","port":3213,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-PRO英国01|8x","ws-opts":{"path":"/","headers":{"host":"uk01-iepl.nbsd.us"}},"server":"pro01.my1188.org","port":3153,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-俄罗斯01中继E|x1.2","ws-opts":{"path":"/","headers":{"host":"mugua-ru01.myn1des.com"}},"server":"in05.my1188.org","port":63071,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-印度01中继A|1.5x","ws-opts":{"path":"/hls","headers":{"host":"mugua-in01.airport-v2.com"}},"server":"in01.my1188.org","port":63051,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-印度01中继B|1.5x","ws-opts":{"path":"/hls","headers":{"host":"mugua-in01.airport-v2.com"}},"server":"in02.my1188.org","port":63051,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-印度01中继C|1.5x","ws-opts":{"path":"/hls","headers":{"host":"mugua-in01.airport-v2.com"}},"server":"in03.my1188.org","port":63051,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-印度01中继D|1.5x","ws-opts":{"path":"/hls","headers":{"host":"mugua-in01.airport-v2.com"}},"server":"in04.my1188.org","port":63051,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-印度01中继E|1.5x","ws-opts":{"path":"/hls","headers":{"host":"mugua-in01.airport-v2.com"}},"server":"in05.my1188.org","port":63051,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-台湾多台负载均衡中继E1.5x","ws-opts":{"path":"/mugua","headers":{"host":"tw-load-balancer.myn1des.com"}},"server":"in05.my1188.org","port":63088,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-土耳其01中继A|2x","ws-opts":{"path":"/","headers":{"host":"mugua-tr01.covid19.rip"}},"server":"in01.my1188.org","port":63028,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-土耳其01中继B|2x","ws-opts":{"path":"/","headers":{"host":"mugua-tr01.covid19.rip"}},"server":"in02.my1188.org","port":63028,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-土耳其01中继C|2x","ws-opts":{"path":"/","headers":{"host":"mugua-tr01.covid19.rip"}},"server":"in03.my1188.org","port":63028,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-土耳其01中继D|2x","ws-opts":{"path":"/","headers":{"host":"mugua-tr01.covid19.rip"}},"server":"in04.my1188.org","port":63028,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-土耳其01中继E|2x","ws-opts":{"path":"/","headers":{"host":"mugua-tr01.covid19.rip"}},"server":"in05.my1188.org","port":63028,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-巴西01中继A","ws-opts":{"path":"/mg","headers":{"host":"mugua-br01.covid19.rip"}},"server":"in01.my1188.org","port":63041,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-巴西01中继B","ws-opts":{"path":"/mg","headers":{"host":"mugua-br01.covid19.rip"}},"server":"in02.my1188.org","port":63041,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-巴西01中继C","ws-opts":{"path":"/mg","headers":{"host":"mugua-br01.covid19.rip"}},"server":"in03.my1188.org","port":63041,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-巴西01中继D","ws-opts":{"path":"/mg","headers":{"host":"mugua-br01.covid19.rip"}},"server":"in04.my1188.org","port":63041,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-巴西01中继E","ws-opts":{"path":"/mg","headers":{"host":"mugua-br01.covid19.rip"}},"server":"in05.my1188.org","port":63041,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-日本多台负载均衡中继E1.5x","ws-opts":{"path":"/mugua","headers":{"host":"jp-balancer.myn1des.com"}},"server":"in05.my1188.org","port":63086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-日本03CDN中继1.5x","ws-opts":{"path":"/mg","headers":{"host":"mugua-jp03.myn0des.com"}},"server":"in05.my1188.org","port":63005,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V2-波兰01直连|x1.5","ws-opts":{"path":"/","headers":{"host":"pl01x.myn1des.com"}},"server":"hk-core.pvpgames.net","port":63077,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-美国01中继E|1.5x","ws-opts":{"path":"/mg","headers":{"host":"mugua-us01.covid19.rip"}},"server":"in05.my1188.org","port":63014,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-美国03中继A|1.5x","ws-opts":{"path":"/","headers":{"host":"mugua-us03.covid19.rip"}},"server":"in01.my1188.org","port":63069,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-美国03中继B|1.5x","ws-opts":{"path":"/","headers":{"host":"mugua-us03.covid19.rip"}},"server":"in02.my1188.org","port":63069,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-美国03中继C|1.5x","ws-opts":{"path":"/","headers":{"host":"mugua-us03.covid19.rip"}},"server":"in03.my1188.org","port":63069,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-美国03中继D|1.5x","ws-opts":{"path":"/","headers":{"host":"mugua-us03.covid19.rip"}},"server":"in04.my1188.org","port":63069,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-美国03中继E|1.5x","ws-opts":{"path":"/","headers":{"host":"mugua-us03.covid19.rip"}},"server":"in05.my1188.org","port":63069,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-荷兰01CDN中继|1.3x","ws-opts":{"path":"/","headers":{"host":"nl01-cdn.tencent.best"}},"server":"in05.my1188.org","port":63062,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V2-阿根廷01CDN中继龟速2x","ws-opts":{"path":"/","headers":{"host":"ag01-cdn.myn1des.com"}},"server":"in05.my1188.org","port":63072,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"V2-韩国01中继E|x1.5","ws-opts":{"path":"/","headers":{"host":"mugua-kr01.covid19.rip"}},"server":"in05.my1188.org","port":63004,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V2-香港多台负载均衡中继E|1.5x","ws-opts":{"path":"/","headers":{"host":"hk-balancer.airport-v2.com"}},"server":"in05.my1188.org","port":63078,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO俄罗斯02|8x","ws-opts":{"path":"/","headers":{"host":"ru02.iepl.nbsd.us"}},"server":"pro01.my1188.org","port":3103,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO台湾03Hinet|8x原生IP","ws-opts":{"path":"/","headers":{"host":"tw03.yaofan.in168.net"}},"server":"pro01.my1188.org","port":3073,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO巴基斯坦冷门+限速20m|15x","ws-opts":{"path":"/","headers":{"host":"pk01.nbsd.us"}},"server":"pro01.my1188.org","port":3133,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO新加坡03|8x","ws-opts":{"path":"/","headers":{"host":"sg03.li.nbsd.us"}},"server":"pro01.my1188.org","port":3043,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO新加坡05|8x原生IP","ws-opts":{"path":"/","headers":{"host":"sg05.kirino.nbsd.us"}},"server":"pro01.my1188.org","port":3053,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO日本04|8x","ws-opts":{"path":"/","headers":{"host":"jp04.li.nbsd.us"}},"server":"pro01.my1188.org","port":3013,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO美国02|8x","ws-opts":{"path":"/","headers":{"host":"us02.li.nbsd.us"}},"server":"pro01.my1188.org","port":3033,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO韩国02|8x","ws-opts":{"path":"/","headers":{"host":"kr02.iepl.nbsd.us"}},"server":"pro01.my1188.org","port":3093,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO香港FDC01|7x","ws-opts":{"path":"/","headers":{"host":"hk-fdc1.nbsd.us"}},"server":"pro01.my1188.org","port":3173,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO香港HKBGP01|8x","ws-opts":{"path":"/","headers":{"host":"hkbgp-mg.iepl.nbsd.us"}},"server":"pro01.my1188.org","port":3023,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO香港HKG01|8x原生IP","ws-opts":{"path":"/","headers":{"host":"hkg01.pqs.in168.net"}},"server":"pro01.my1188.org","port":3113,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO香港HKT01|8x原生IP","ws-opts":{"path":"/","headers":{"host":"hkt01.pqs-vds.in168.net"}},"server":"pro01.my1188.org","port":3143,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"V3-PRO香港HKT04|8x原生IP","ws-opts":{"path":"/","headers":{"host":"hkt4-cdn-myip.airport-v2.com"}},"server":"pro01.my1188.org","port":3203,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"日本直连ACDN速度随缘0.3x","ws-opts":{"path":"/mg","headers":{"host":"jp-direct-cdn.node002.xyz"}},"server":"jp-direct-cdn.node002.xyz","port":2086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"韩国直连ACDN速度随缘0.3x","ws-opts":{"path":"/mg","headers":{"host":"kr-direct-cfcdn.node002.xyz"}},"server":"kr-direct-cfcdn.node002.xyz","port":2086,"uuid":"d78c0bf3-b5bb-3948-b5af-83379d8c917f","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇹🇼_TW_台湾_1","server":"913tw.tfzhc.top","port":44318,"password":"3ad5547b-609b-4f59-916b-afebd85aba7d","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇦🇺_AU_澳大利亚_3","server":"dtar1.bitznet.one","port":33015,"password":"502560b1-6cb2-443e-ba50-361c94ddab3a","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇲🇾_MY_马来西亚_4","server":"103.159.132.100","port":51919,"uuid":"35e0c4cb-2caa-4c09-cb85-cb26c2cb06b9","alterId":0,"cipher":"auto","network":"tcp"}
@@ -251,6 +335,90 @@ proxy-groups:
       - 不限速千兆-us827
       - 不限速千兆-us128
       - 不限速千兆-us229
+      - V1-俄罗斯01中继A|x1.2
+      - V1-俄罗斯01中继B|x1.2
+      - V1-俄罗斯01中继C|x1.2
+      - V1-俄罗斯01中继D|x1.2
+      - V1-台湾多台负载均衡中继A1.5x
+      - V1-台湾多台负载均衡中继B1.5x
+      - V1-台湾多台负载均衡中继C1.5x
+      - V1-台湾多台负载均衡中继D1.5x
+      - V1-台湾多台负载均衡中继F1.5x
+      - V1-台湾99Hinet直连速度随缘0.5x
+      - V1-德国01CDN中继1.5x
+      - V1-新加坡多台负载均衡中继A1.5x
+      - V1-新加坡多台负载均衡中继B1.5x
+      - V1-新加坡多台负载均衡中继C1.5x
+      - V1-新加坡多台负载均衡中继D1.5x
+      - V1-新加坡多台负载均衡中继F1.5x
+      - V1-日本多台负载均衡中继A1.5x
+      - V1-日本多台负载均衡中继B1.5x
+      - V1-日本多台负载均衡中继C1.5x
+      - V1-日本多台负载均衡中继D1.5x
+      - V1-日本多台负载均衡中继F1.5x
+      - V1-美国01中继A|1.5x
+      - V1-美国01中继B|1.5x
+      - V1-美国01中继C|1.5x
+      - V1-美国01中继D|1.5x
+      - V1-英国01CDN中继1.5x
+      - V1-韩国01中继A|x1.5
+      - V1-韩国01中继B|x1.5
+      - V1-韩国01中继C|x1.5
+      - V1-韩国01中继D|x1.5
+      - V1-香港多台负载均衡中继A|1.5x
+      - V1-香港多台负载均衡中继B|1.5x
+      - V1-香港多台负载均衡中继C|1.5x
+      - V1-香港多台负载均衡中继D|1.5x
+      - V1-香港HKT02CDN中继2x
+      - V1-香港HKT03CDN中继2x
+      - V2-PRO德国017x
+      - V2-PRO澳洲01|7x
+      - V2-PRO英国01|8x
+      - V2-俄罗斯01中继E|x1.2
+      - V2-印度01中继A|1.5x
+      - V2-印度01中继B|1.5x
+      - V2-印度01中继C|1.5x
+      - V2-印度01中继D|1.5x
+      - V2-印度01中继E|1.5x
+      - V2-台湾多台负载均衡中继E1.5x
+      - V2-土耳其01中继A|2x
+      - V2-土耳其01中继B|2x
+      - V2-土耳其01中继C|2x
+      - V2-土耳其01中继D|2x
+      - V2-土耳其01中继E|2x
+      - V2-巴西01中继A
+      - V2-巴西01中继B
+      - V2-巴西01中继C
+      - V2-巴西01中继D
+      - V2-巴西01中继E
+      - V2-日本多台负载均衡中继E1.5x
+      - V2-日本03CDN中继1.5x
+      - V2-波兰01直连|x1.5
+      - V2-美国01中继E|1.5x
+      - V2-美国03中继A|1.5x
+      - V2-美国03中继B|1.5x
+      - V2-美国03中继C|1.5x
+      - V2-美国03中继D|1.5x
+      - V2-美国03中继E|1.5x
+      - V2-荷兰01CDN中继|1.3x
+      - V2-阿根廷01CDN中继龟速2x
+      - V2-韩国01中继E|x1.5
+      - V2-香港多台负载均衡中继E|1.5x
+      - V3-PRO俄罗斯02|8x
+      - V3-PRO台湾03Hinet|8x原生IP
+      - V3-PRO巴基斯坦冷门+限速20m|15x
+      - V3-PRO新加坡03|8x
+      - V3-PRO新加坡05|8x原生IP
+      - V3-PRO日本04|8x
+      - V3-PRO美国02|8x
+      - V3-PRO韩国02|8x
+      - V3-PRO香港FDC01|7x
+      - V3-PRO香港HKBGP01|8x
+      - V3-PRO香港HKG01|8x原生IP
+      - V3-PRO香港HKT01|8x原生IP
+      - V3-PRO香港HKT04|8x原生IP
+      - 日本直连ACDN速度随缘0.3x
+      - 韩国直连ACDN速度随缘0.3x
       - 🇹🇼_TW_台湾_1
       - 🇦🇺_AU_澳大利亚_3
       - 🇲🇾_MY_马来西亚_4
@@ -457,6 +625,90 @@ proxy-groups:
       - 不限速千兆-us827
       - 不限速千兆-us128
       - 不限速千兆-us229
+      - V1-俄罗斯01中继A|x1.2
+      - V1-俄罗斯01中继B|x1.2
+      - V1-俄罗斯01中继C|x1.2
+      - V1-俄罗斯01中继D|x1.2
+      - V1-台湾多台负载均衡中继A1.5x
+      - V1-台湾多台负载均衡中继B1.5x
+      - V1-台湾多台负载均衡中继C1.5x
+      - V1-台湾多台负载均衡中继D1.5x
+      - V1-台湾多台负载均衡中继F1.5x
+      - V1-台湾99Hinet直连速度随缘0.5x
+      - V1-德国01CDN中继1.5x
+      - V1-新加坡多台负载均衡中继A1.5x
+      - V1-新加坡多台负载均衡中继B1.5x
+      - V1-新加坡多台负载均衡中继C1.5x
+      - V1-新加坡多台负载均衡中继D1.5x
+      - V1-新加坡多台负载均衡中继F1.5x
+      - V1-日本多台负载均衡中继A1.5x
+      - V1-日本多台负载均衡中继B1.5x
+      - V1-日本多台负载均衡中继C1.5x
+      - V1-日本多台负载均衡中继D1.5x
+      - V1-日本多台负载均衡中继F1.5x
+      - V1-美国01中继A|1.5x
+      - V1-美国01中继B|1.5x
+      - V1-美国01中继C|1.5x
+      - V1-美国01中继D|1.5x
+      - V1-英国01CDN中继1.5x
+      - V1-韩国01中继A|x1.5
+      - V1-韩国01中继B|x1.5
+      - V1-韩国01中继C|x1.5
+      - V1-韩国01中继D|x1.5
+      - V1-香港多台负载均衡中继A|1.5x
+      - V1-香港多台负载均衡中继B|1.5x
+      - V1-香港多台负载均衡中继C|1.5x
+      - V1-香港多台负载均衡中继D|1.5x
+      - V1-香港HKT02CDN中继2x
+      - V1-香港HKT03CDN中继2x
+      - V2-PRO德国017x
+      - V2-PRO澳洲01|7x
+      - V2-PRO英国01|8x
+      - V2-俄罗斯01中继E|x1.2
+      - V2-印度01中继A|1.5x
+      - V2-印度01中继B|1.5x
+      - V2-印度01中继C|1.5x
+      - V2-印度01中继D|1.5x
+      - V2-印度01中继E|1.5x
+      - V2-台湾多台负载均衡中继E1.5x
+      - V2-土耳其01中继A|2x
+      - V2-土耳其01中继B|2x
+      - V2-土耳其01中继C|2x
+      - V2-土耳其01中继D|2x
+      - V2-土耳其01中继E|2x
+      - V2-巴西01中继A
+      - V2-巴西01中继B
+      - V2-巴西01中继C
+      - V2-巴西01中继D
+      - V2-巴西01中继E
+      - V2-日本多台负载均衡中继E1.5x
+      - V2-日本03CDN中继1.5x
+      - V2-波兰01直连|x1.5
+      - V2-美国01中继E|1.5x
+      - V2-美国03中继A|1.5x
+      - V2-美国03中继B|1.5x
+      - V2-美国03中继C|1.5x
+      - V2-美国03中继D|1.5x
+      - V2-美国03中继E|1.5x
+      - V2-荷兰01CDN中继|1.3x
+      - V2-阿根廷01CDN中继龟速2x
+      - V2-韩国01中继E|x1.5
+      - V2-香港多台负载均衡中继E|1.5x
+      - V3-PRO俄罗斯02|8x
+      - V3-PRO台湾03Hinet|8x原生IP
+      - V3-PRO巴基斯坦冷门+限速20m|15x
+      - V3-PRO新加坡03|8x
+      - V3-PRO新加坡05|8x原生IP
+      - V3-PRO日本04|8x
+      - V3-PRO美国02|8x
+      - V3-PRO韩国02|8x
+      - V3-PRO香港FDC01|7x
+      - V3-PRO香港HKBGP01|8x
+      - V3-PRO香港HKG01|8x原生IP
+      - V3-PRO香港HKT01|8x原生IP
+      - V3-PRO香港HKT04|8x原生IP
+      - 日本直连ACDN速度随缘0.3x
+      - 韩国直连ACDN速度随缘0.3x
       - 🇹🇼_TW_台湾_1
       - 🇦🇺_AU_澳大利亚_3
       - 🇲🇾_MY_马来西亚_4
