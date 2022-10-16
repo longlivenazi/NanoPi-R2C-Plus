@@ -351,6 +351,25 @@ proxies:
   - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_430","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}},"server":"296cac43-ff90-4fd1-9485-0671c2dc64a4.cnnic.rip","port":80,"uuid":"cf6b89d5-a8a8-4478-a435-bded65b06705","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸_US_1️⃣6️⃣_431","server":"138.2.113.84","port":443,"password":"b291d129-ee55-4801-a9b8-b5316e5c37b7","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_1️⃣6️⃣_432","server":"129.146.190.42","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","udp":true,"skip-cert-verify":true}
+  - {name: 台湾4|tg频道:@ripaojiedian, server: 103.177.32.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8247a4cf6ed4, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: twd1000tw001.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾5|tg频道:@ripaojiedian, server: 103.177.32.202, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 99a98b14cf3a, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wtw1000mline003.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 美国1|tg频道:@ripaojiedian, server: 67.198.210.66, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 3e4a431348b9, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000muslines004.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 欧洲|tg频道:@ripaojiedian, server: 172.107.241.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ccda5c91cfb2, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000Mspainline002.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 美国2|tg频道:@ripaojiedian, server: 67.229.101.66, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: d73446755f5d, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000muslines006.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 美国3|tg频道:@ripaojiedian, server: 174.139.49.26, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: a69428cc1964, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000muslines005.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 美国4|tg频道:@ripaojiedian, server: 67.229.154.34, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b4b2140ea45e, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000muslines007.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 德国|tg频道:@ripaojiedian, server: 89.163.222.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6452617cd30d, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000Mgmline001.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 韩国2|tg频道:@ripaojiedian, server: 27.102.66.214, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4b7c2bae5095, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wmk1000Mkrlines005.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾2|tg频道:@ripaojiedian, server: 61.222.55.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9870ff16ed43, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: tw600mmk002.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾1|tg频道:@ripaojiedian, server: 61.218.59.188, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9f7f0e393da3, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: tw600mmk001.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾3|tg频道:@ripaojiedian, server: 59.125.180.123, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 04a24538d91a, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: tw600mmk003.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 泰国1|tg频道:@ripaojiedian, server: 119.59.127.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 665e01c008a0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1glt001.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 韩国1|tg频道:@ripaojiedian, server: 27.102.106.171, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 40d5089833fc, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1000Mkrline002.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 日本|tg频道:@ripaojiedian, server: 103.177.244.31, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: a1e041734a14, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw100Mjpline002.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 泰国2|tg频道:@ripaojiedian, server: 119.59.127.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 161df779f26d, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: wxw1glt002.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 新加坡|tg频道:@ripaojiedian, server: 27.124.38.41, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8cad99fbe8b9, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nxw50jpline002.fengchiline.live, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 香港1|tg频道:@ripaojiedian, server: 103.233.251.211, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 127ed1400716, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk20jc001.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 香港2|tg频道:@ripaojiedian, server: 154.221.22.201, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: a11a783e60ec, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk5Mysy001.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -695,6 +714,25 @@ proxy-groups:
       - 🇭🇰_HK_1️⃣6️⃣_430
       - 🇺🇸_US_1️⃣6️⃣_431
       - 🇺🇸_US_1️⃣6️⃣_432
+      - 台湾4|tg频道:@ripaojiedian
+      - 台湾5|tg频道:@ripaojiedian
+      - 美国1|tg频道:@ripaojiedian
+      - 欧洲|tg频道:@ripaojiedian
+      - 美国2|tg频道:@ripaojiedian
+      - 美国3|tg频道:@ripaojiedian
+      - 美国4|tg频道:@ripaojiedian
+      - 德国|tg频道:@ripaojiedian
+      - 韩国2|tg频道:@ripaojiedian
+      - 台湾2|tg频道:@ripaojiedian
+      - 台湾1|tg频道:@ripaojiedian
+      - 台湾3|tg频道:@ripaojiedian
+      - 泰国1|tg频道:@ripaojiedian
+      - 韩国1|tg频道:@ripaojiedian
+      - 日本|tg频道:@ripaojiedian
+      - 泰国2|tg频道:@ripaojiedian
+      - 新加坡|tg频道:@ripaojiedian
+      - 香港1|tg频道:@ripaojiedian
+      - 香港2|tg频道:@ripaojiedian
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1039,6 +1077,25 @@ proxy-groups:
       - 🇭🇰_HK_1️⃣6️⃣_430
       - 🇺🇸_US_1️⃣6️⃣_431
       - 🇺🇸_US_1️⃣6️⃣_432
+      - 台湾4|tg频道:@ripaojiedian
+      - 台湾5|tg频道:@ripaojiedian
+      - 美国1|tg频道:@ripaojiedian
+      - 欧洲|tg频道:@ripaojiedian
+      - 美国2|tg频道:@ripaojiedian
+      - 美国3|tg频道:@ripaojiedian
+      - 美国4|tg频道:@ripaojiedian
+      - 德国|tg频道:@ripaojiedian
+      - 韩国2|tg频道:@ripaojiedian
+      - 台湾2|tg频道:@ripaojiedian
+      - 台湾1|tg频道:@ripaojiedian
+      - 台湾3|tg频道:@ripaojiedian
+      - 泰国1|tg频道:@ripaojiedian
+      - 韩国1|tg频道:@ripaojiedian
+      - 日本|tg频道:@ripaojiedian
+      - 泰国2|tg频道:@ripaojiedian
+      - 新加坡|tg频道:@ripaojiedian
+      - 香港1|tg频道:@ripaojiedian
+      - 香港2|tg频道:@ripaojiedian
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -1383,6 +1440,25 @@ proxy-groups:
       - 🇭🇰_HK_1️⃣6️⃣_430
       - 🇺🇸_US_1️⃣6️⃣_431
       - 🇺🇸_US_1️⃣6️⃣_432
+      - 台湾4|tg频道:@ripaojiedian
+      - 台湾5|tg频道:@ripaojiedian
+      - 美国1|tg频道:@ripaojiedian
+      - 欧洲|tg频道:@ripaojiedian
+      - 美国2|tg频道:@ripaojiedian
+      - 美国3|tg频道:@ripaojiedian
+      - 美国4|tg频道:@ripaojiedian
+      - 德国|tg频道:@ripaojiedian
+      - 韩国2|tg频道:@ripaojiedian
+      - 台湾2|tg频道:@ripaojiedian
+      - 台湾1|tg频道:@ripaojiedian
+      - 台湾3|tg频道:@ripaojiedian
+      - 泰国1|tg频道:@ripaojiedian
+      - 韩国1|tg频道:@ripaojiedian
+      - 日本|tg频道:@ripaojiedian
+      - 泰国2|tg频道:@ripaojiedian
+      - 新加坡|tg频道:@ripaojiedian
+      - 香港1|tg频道:@ripaojiedian
+      - 香港2|tg频道:@ripaojiedian
   - name: 📲 电报信息
     type: select
     proxies:
