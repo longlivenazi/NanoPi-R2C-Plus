@@ -334,6 +334,52 @@ proxies:
   - {"type":"trojan","name":"🇫🇷_FR_1️⃣8️⃣_326","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇬🇧_GB_1️⃣8️⃣_327","server":"132.145.51.172","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_1️⃣8️⃣_329","server":"node-do-us-1.gitspeed.cyou","port":443,"password":"pNDxTmWL","udp":true,"skip-cert-verify":true}
+  - {name: 免费线路, server: 45.12.131.252, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.54573461.xyz}}}
+  - {name: 🇺🇸 ★美国加州A★年付专线, server: 104.233.228.186, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.17019348.xyz}}}
+  - {name: 🇺🇸 美国加州C, server: 23.224.135.44, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.57581061.xyz}}}
+  - {name: 🇺🇸 美国加州D, server: 107.167.26.14, port: 443, type: vmess, uuid: b7e0d258-acae-4a1b-8626-49a34706f5bc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.74871982.xyz}}}
+  - {name: 🇺🇸 ★美国E★联通, server: 66.152.191.226, port: 443, type: vmess, uuid: 2494d9dd-2ddc-43cf-a3cc-c76cf645df25, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.91835707.xyz}}}
+  - {name: 🇨🇳 中国台湾, server: 61.216.85.68, port: 443, type: vmess, uuid: 5ba738e7-0abf-4935-b67e-d404a083d6a6, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.88612860.xyz}}}
+  - {name: 🇭🇰 ★中国香港A★年付专线, server: 202.79.169.39, port: 443, type: vmess, uuid: 195ec551-6217-4a30-a188-f21e7281d159, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.99678658.xyz}}}
+  - {name: 🇭🇰 中国香港C, server: 118.107.245.17, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.77933978.xyz}}}
+  - {name: 🇭🇰 中国香港D, server: 172.247.27.206, port: 443, type: vmess, uuid: 4f789114-eeba-480f-ab0a-9db24d5d7d20, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.63832363.xyz}}}
+  - {name: 移动专线A, server: 111.45.22.239, port: 30302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 移动专线B, server: 111.23.252.216, port: 34214, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯A, server: 185.173.94.246, port: 443, type: vmess, uuid: 8d78c2a8-acaa-467d-9234-d2606624506d, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.69296134.xyz}}}
+  - {name: 🇬🇧 英国伦敦B, server: 83.142.225.58, port: 443, type: vmess, uuid: 5267ca71-97e6-44c8-8fb5-9fe4afe0954e, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.74635191.xyz}}}
+  - {name: 🇯🇵 日本大阪B, server: 178.157.94.77, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.99984745.xyz}}}
+  - {name: 🇯🇵 日本东京C, server: 185.160.24.48, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.93820835.xyz}}}
+  - {name: 🇰🇷 ★韩国首尔A★年付专线, server: 180.215.208.124, port: 443, type: vmess, uuid: 78e1c35c-7f45-4998-b45a-578cef59a5cf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.90078486.xyz}}}
+  - {name: 🇰🇷 韩国首尔B, server: 103.199.103.50, port: 443, type: vmess, uuid: 0146245b-0704-489a-91e5-7ae527f82e1a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.38936212.xyz}}}
+  - {name: 🇸🇬 ★新加坡A★年付专线, server: 209.58.174.246, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.83246508.xyz}}}
+  - {name: 瑞典, server: 37.120.209.125, port: 443, type: vmess, uuid: dc0cf22d-e35c-4b77-8924-977f6844909b, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.70125001.xyz}}}
+  - {name: 🇦🇺 澳大利亚悉尼B, server: 139.99.180.112, port: 443, type: vmess, uuid: 6c04a273-7302-4e09-9ced-aedaaa7461af, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.96832799.xyz}}}
+  - {name: 波兰华沙, server: 5.133.12.63, port: 443, type: vmess, uuid: 4d0247e0-d1da-444c-9cda-8cc20e4e4435, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.29048458.xyz}}}
+  - {name: 🇮🇹 意大利米兰, server: 217.138.197.174, port: 443, type: vmess, uuid: 435c978e-2f48-4194-8d04-38cc79a24421, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.92507776.xyz}}}
+  - {name: 🇹🇭 泰国01, server: 119.59.98.41, port: 443, type: vmess, uuid: 4d24fbde-cb0e-4025-98ec-222933847d3d, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.43493693.xyz}}}
+  - {name: 🇫🇮 芬兰, server: 185.112.82.136, port: 443, type: vmess, uuid: 3c9b775f-1ffc-4d71-ab46-49adc0013888, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.26851414.xyz}}}
+  - {name: 卢森堡, server: 23.109.136.75, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.41138140.xyz}}}
+  - {name: 🇹🇷 土耳其, server: 185.40.86.191, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.59847959.xyz}}}
+  - {name: 立陶宛, server: 85.206.165.44, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.57080742.xyz}}}
+  - {name: 🇭🇺 匈牙利, server: 185.128.26.68, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.63838778.xyz}}}
+  - {name: 塞尔维亚, server: 152.89.160.13, port: 443, type: vmess, uuid: 57170ff0-7180-4664-8f61-8debdda345f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.45093147.xyz}}}
+  - {name: 🇩🇰 丹麦哥本哈根, server: 185.236.203.68, port: 443, type: vmess, uuid: 2e967dd5-8d24-4099-a901-412dcb4024fd, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.24400881.xyz}}}
+  - {name: 比利时, server: 37.120.218.235, port: 443, type: vmess, uuid: ed162daa-ee20-44ed-830f-b522c501387a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.11307965.xyz}}}
+  - {name: 🇮🇪 爱尔兰, server: 185.108.128.58, port: 443, type: vmess, uuid: 5aab3936-16d7-4377-8c33-0d77f2d295ee, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.89535471.xyz}}}
+  - {name: 埃及开罗, server: 41.215.242.125, port: 443, type: vmess, uuid: ee442f43-b07a-419d-bd27-2d3456393abc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.26197071.xyz}}}
+  - {name: 🇳🇱 荷兰B, server: 46.182.107.173, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.74608488.xyz}}}
+  - {name: 🇩🇪 德国Dusseldorf, server: 213.202.223.218, port: 443, type: vmess, uuid: b8aedf50-c4f5-4255-b73d-3779db661d70, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.67279397.xyz}}}
+  - {name: 🇨🇦 加拿大温哥华B, server: 71.19.248.160, port: 443, type: vmess, uuid: 3d173f0a-138b-4baf-9ec6-4848243e0a12, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.63657274.xyz}}}
+  - {name: 摩尔多瓦, server: 178.175.135.154, port: 443, type: vmess, uuid: 7e4219ae-8bf1-4f79-902b-4f259c64533d, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.86322982.xyz}}}
+  - {name: 🇳🇴 挪威, server: 46.29.218.85, port: 443, type: vmess, uuid: f7a456da-9886-4dd7-b193-4c59a726219c, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/243535322906, headers: {Host: www.23970080.xyz}}}
+  - {name: 电信一区(广东), server: 42.193.191.50, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 联通一区(山东), server: 47.104.237.32, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 电信二区(四川), server: 139.186.153.84, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 电信三区(江苏), server: 119.45.28.201, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 联通二区(北京), server: 49.232.167.71, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 教育网专区(安徽), server: 112.132.215.13, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 联通四区(上海), server: 49.234.84.132, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 联通一区(北京), server: 39.103.165.178, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -661,6 +707,52 @@ proxy-groups:
       - 🇫🇷_FR_1️⃣8️⃣_326
       - 🇬🇧_GB_1️⃣8️⃣_327
       - 🇺🇸_US_1️⃣8️⃣_329
+      - 免费线路
+      - 🇺🇸 ★美国加州A★年付专线
+      - 🇺🇸 美国加州C
+      - 🇺🇸 美国加州D
+      - 🇺🇸 ★美国E★联通
+      - 🇨🇳 中国台湾
+      - 🇭🇰 ★中国香港A★年付专线
+      - 🇭🇰 中国香港C
+      - 🇭🇰 中国香港D
+      - 移动专线A
+      - 移动专线B
+      - 🇷🇺 俄罗斯A
+      - 🇬🇧 英国伦敦B
+      - 🇯🇵 日本大阪B
+      - 🇯🇵 日本东京C
+      - 🇰🇷 ★韩国首尔A★年付专线
+      - 🇰🇷 韩国首尔B
+      - 🇸🇬 ★新加坡A★年付专线
+      - 瑞典
+      - 🇦🇺 澳大利亚悉尼B
+      - 波兰华沙
+      - 🇮🇹 意大利米兰
+      - 🇹🇭 泰国01
+      - 🇫🇮 芬兰
+      - 卢森堡
+      - 🇹🇷 土耳其
+      - 立陶宛
+      - 🇭🇺 匈牙利
+      - 塞尔维亚
+      - 🇩🇰 丹麦哥本哈根
+      - 比利时
+      - 🇮🇪 爱尔兰
+      - 埃及开罗
+      - 🇳🇱 荷兰B
+      - 🇩🇪 德国Dusseldorf
+      - 🇨🇦 加拿大温哥华B
+      - 摩尔多瓦
+      - 🇳🇴 挪威
+      - 电信一区(广东)
+      - 联通一区(山东)
+      - 电信二区(四川)
+      - 🇨🇳 电信三区(江苏)
+      - 🇨🇳 联通二区(北京)
+      - 教育网专区(安徽)
+      - 🇨🇳 联通四区(上海)
+      - 🇨🇳 联通一区(北京)
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -988,6 +1080,52 @@ proxy-groups:
       - 🇫🇷_FR_1️⃣8️⃣_326
       - 🇬🇧_GB_1️⃣8️⃣_327
       - 🇺🇸_US_1️⃣8️⃣_329
+      - 免费线路
+      - 🇺🇸 ★美国加州A★年付专线
+      - 🇺🇸 美国加州C
+      - 🇺🇸 美国加州D
+      - 🇺🇸 ★美国E★联通
+      - 🇨🇳 中国台湾
+      - 🇭🇰 ★中国香港A★年付专线
+      - 🇭🇰 中国香港C
+      - 🇭🇰 中国香港D
+      - 移动专线A
+      - 移动专线B
+      - 🇷🇺 俄罗斯A
+      - 🇬🇧 英国伦敦B
+      - 🇯🇵 日本大阪B
+      - 🇯🇵 日本东京C
+      - 🇰🇷 ★韩国首尔A★年付专线
+      - 🇰🇷 韩国首尔B
+      - 🇸🇬 ★新加坡A★年付专线
+      - 瑞典
+      - 🇦🇺 澳大利亚悉尼B
+      - 波兰华沙
+      - 🇮🇹 意大利米兰
+      - 🇹🇭 泰国01
+      - 🇫🇮 芬兰
+      - 卢森堡
+      - 🇹🇷 土耳其
+      - 立陶宛
+      - 🇭🇺 匈牙利
+      - 塞尔维亚
+      - 🇩🇰 丹麦哥本哈根
+      - 比利时
+      - 🇮🇪 爱尔兰
+      - 埃及开罗
+      - 🇳🇱 荷兰B
+      - 🇩🇪 德国Dusseldorf
+      - 🇨🇦 加拿大温哥华B
+      - 摩尔多瓦
+      - 🇳🇴 挪威
+      - 电信一区(广东)
+      - 联通一区(山东)
+      - 电信二区(四川)
+      - 🇨🇳 电信三区(江苏)
+      - 🇨🇳 联通二区(北京)
+      - 教育网专区(安徽)
+      - 🇨🇳 联通四区(上海)
+      - 🇨🇳 联通一区(北京)
   - name: 🌍 国外媒体
     type: select
     proxies:
