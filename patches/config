@@ -387,7 +387,6 @@ proxies:
   - {"type":"trojan","name":"🇳🇱_NL_荷兰_1","server":"content-provider24.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_美国_4","server":"138.2.113.248","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇮🇱_IL_以色列","ws-opts":{"path":"/"},"server":"129.159.139.101","port":443,"uuid":"b7519a6f-c1de-4667-e606-b60c65d19078","alterId":0,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇨🇳_CN_中国->🇭🇰_HK_香港","server":"hk01.xniuniu888.xyz","port":30104,"uuid":"2a3b4833-be2e-3bc2-9caa-c35af149de6d","alterId":2,"cipher":"auto","network":"tcp"}
   - {"type":"trojan","name":"🇭🇰_HK_香港->🇯🇵_JP_日本","server":"219.76.13.180","port":443,"password":"F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0","udp":true,"skip-cert-verify":true,"sni":"stutter.freetrade.link"}
   - {"type":"trojan","name":"🇳🇱_NL_荷兰_2","server":"content-provider23.cdn-delivery.akamaicd.com","port":443,"password":"Sp3eDVp","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇭🇰_HK_香港_2","http-opts":{"path":["/"]},"server":"47.243.182.204","port":22082,"uuid":"f46292d1-a5c6-44e3-9539-c45ea9f7ec6a","alterId":0,"cipher":"auto","network":"http"}
@@ -779,7 +778,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
@@ -1171,7 +1169,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
@@ -1563,7 +1560,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
@@ -1954,7 +1950,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
@@ -2345,7 +2340,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
@@ -2736,7 +2730,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
@@ -3144,7 +3137,6 @@ proxy-groups:
       - 🇳🇱_NL_荷兰_1
       - 🇺🇸_US_美国_4
       - 🇮🇱_IL_以色列
-      - 🇨🇳_CN_中国->🇭🇰_HK_香港
       - 🇭🇰_HK_香港->🇯🇵_JP_日本
       - 🇳🇱_NL_荷兰_2
       - 🇭🇰_HK_香港_2
