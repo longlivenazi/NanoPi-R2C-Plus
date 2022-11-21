@@ -197,6 +197,19 @@ proxies:
   - {"type":"trojan","name":"🇯🇵_JP_2️⃣1️⃣_195","server":"168.138.44.176","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸_US_2️⃣1️⃣_196","server":"fhcarm1.gaox.ml","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇫🇷_FR_2️⃣1️⃣_198","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {name: 🇺🇸 美国|2️⃣1️⃣臨時可用, server: fnhk1000snews008.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 3c88ec132b66, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnhk1000snews008.svcline.com, path: "/oqydkriz", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 🇨🇳 台湾|2️⃣1️⃣臨時可用, server: exkkdx600mtwlines008.fnline.me, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: c9022610bd94, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: exkkdx600mtwlines008.fnline.me, path: "/", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 2️⃣1️⃣臨時可用, server: fnhk1000new009.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 47b484a2f3eb, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnhk1000snews009.svcline.com, path: "/daaaizpk", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾01|2️⃣1️⃣臨時可用, server: fn600mlines024.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: a801632d2e2e, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mlines024.svcline.com, path: "/kzrxngogj", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾02|2️⃣1️⃣臨時可用, server: fn600mliness018.svcline.com, port: 1636, type: ss, cipher: aes-256-gcm, password: 7032cfff481c, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness018.svcline.com, path: "/aunmkscstge", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾03|2️⃣1️⃣臨時可用, server: fn600mlines021.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 507364fb791e, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mlines021.svcline.com, path: "/kpnzyxsj", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 🇭🇰 香港01|2️⃣1️⃣臨時可用, server: fn600mliness016.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: b82344b3d531, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness016.svcline.com, path: "/zpziiwsyhkk", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾4|2️⃣1️⃣臨時可用, server: fn600mliness017.svcline.com, port: 1636, type: ss, cipher: aes-256-gcm, password: !<str> 849333910491, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness017.svcline.com, path: "/qcgfjsnwq", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾5|2️⃣1️⃣臨時可用, server: mktw600mline005.kuainiaojs.club, port: 465, type: ss, cipher: chacha20-ietf-poly1305, password: 91b2a9da9867, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: mktw600mline005.kuainiaojs.club, path: "/hsrlfimppmss", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾6|2️⃣1️⃣臨時可用, server: fn600mliness019.svcline.com, port: 1465, type: ss, cipher: aes-256-gcm, password: fa7ccc245d08, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness019.svcline.com, path: "/gwgmtrwl", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾7|2️⃣1️⃣臨時可用, server: mktw1glines002.aodunjiasu.info, port: 995, type: ss, cipher: aes-256-gcm, password: 7f9357a05d52, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: mktw1glines002.aodunjiasu.info, path: "/qxujsrzjeodv", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾8|2️⃣1️⃣臨時可用, server: newtw600mline001.fnline.me, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: d3111300c9a1, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newtw600mline001.fnline.me, path: "/mreyhagokjnk", tls: true, mux: true, skip-cert-verify: false}}
+  - {name: 台湾9|2️⃣1️⃣臨時可用, server: mktw1glines001.fengchiline.xyz, port: 443, type: ss, cipher: aes-256-gcm, password: 784895a5fc0a, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: mktw1glines001.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -387,6 +400,19 @@ proxy-groups:
       - 🇯🇵_JP_2️⃣1️⃣_195
       - 🇺🇸_US_2️⃣1️⃣_196
       - 🇫🇷_FR_2️⃣1️⃣_198
+      - 🇺🇸 美国|2️⃣1️⃣臨時可用
+      - 🇨🇳 台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰 香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -577,6 +603,19 @@ proxy-groups:
       - 🇯🇵_JP_2️⃣1️⃣_195
       - 🇺🇸_US_2️⃣1️⃣_196
       - 🇫🇷_FR_2️⃣1️⃣_198
+      - 🇺🇸 美国|2️⃣1️⃣臨時可用
+      - 🇨🇳 台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰 香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -767,6 +806,19 @@ proxy-groups:
       - 🇯🇵_JP_2️⃣1️⃣_195
       - 🇺🇸_US_2️⃣1️⃣_196
       - 🇫🇷_FR_2️⃣1️⃣_198
+      - 🇺🇸 美国|2️⃣1️⃣臨時可用
+      - 🇨🇳 台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰 香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: 📲 电报信息
     type: select
     proxies:
