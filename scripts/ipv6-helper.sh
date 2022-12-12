@@ -31,9 +31,7 @@ RebootConfirm(){
             *)
             echo -e "You can reboot later manually.\n";;
         esac
-}
 
-CheckInstall(){
     if [ ! -f "/etc/opkg/ipv6-installed" ];then
         echo -e "${Green_font_prefix}\nYou shoud execute 'ipv6-helper install' first.\n${Green_font_prefix}"
     else
