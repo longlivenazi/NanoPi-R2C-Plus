@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
-#  創建者：MCY
-#  創建時間：2022-12-14 10:32:38
-#  模版：默認模版
-#  節點數量：246
+#  创建者：https://v2rayse.com
+#  创建时间：2022-12-14 12:21:57
+#  模版：v2rayse默认模版
+#  节点数量：233
 #-------------------------------------------------------------#
 #
 port: 7890
@@ -96,32 +96,6 @@ proxies:
   - {"type":"vmess","name":"🇧🇿_BZ_1️⃣4️⃣_81","ws-opts":{"path":"/"},"server":"203.30.190.190","port":443,"uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣4️⃣_82","ws-opts":{"path":"/"},"server":"us2.sanfen001.pics","port":2001,"uuid":"09de52a4-b1d3-4716-a589-c9cc7d91317d","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇬🇧_GB_1️⃣4️⃣_83","server":"content-provider4.cdn-delivery.akamaicd.com","port":443,"password":"shefelnak","udp":true,"skip-cert-verify":true,"sni":"content-provider4.cdn-delivery.akamaicd.com"}
-  - {"type":"ss","name":"🇩🇪_DE_1️⃣4️⃣_84","server":"193.108.118.79","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"🇩🇪_DE_1️⃣4️⃣_85","server":"193.108.118.34","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"🇩🇪_DE_1️⃣4️⃣_86","server":"193.108.118.36","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"🇬🇧_GB_1️⃣4️⃣_87","server":"172.99.190.39","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"ss","name":"🇬🇧_GB_1️⃣4️⃣_88","server":"172.99.190.87","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_89","server":"38.75.136.34","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_90","server":"38.114.114.67","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_91","server":"38.91.100.207","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_92","server":"38.107.226.238","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"🇬🇧_GB_1️⃣4️⃣_93","server":"172.99.190.7","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣4️⃣_94","ws-opts":{"path":"/GenshinMinecraft"},"server":"dosg.gmlovebaipiao.tech","port":8443,"uuid":"706596c5-2315-41e9-c97b-5a4d32ffd5e6","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_95","server":"38.68.135.19","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
-  - {"type":"ss","name":"🇨🇦_CA_1️⃣4️⃣_96","server":"134.195.196.231","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_97","server":"38.114.114.67","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"🇨🇦_CA_1️⃣4️⃣_98","server":"134.195.196.231","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_99","server":"38.114.114.67","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_100","server":"38.107.226.146","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"🇫🇷_FR_1️⃣4️⃣_101","server":"145.239.1.100","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_102","server":"38.114.114.67","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
-  - {"type":"ss","name":"🇯🇵_JP_1️⃣4️⃣_103","server":"85.208.108.58","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_104","server":"38.68.135.19","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
-  - {"type":"ss","name":"🇬🇧_GB_1️⃣4️⃣_105","server":"172.99.190.39","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_106","server":"169.197.142.48","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
-  - {"type":"ss","name":"🇫🇷_FR_1️⃣4️⃣_107","server":"145.239.1.100","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_108","server":"38.121.43.204","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
-  - {"type":"ss","name":"🇺🇸_US_1️⃣4️⃣_109","server":"38.68.135.18","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣4️⃣_110","ws-opts":{"path":"/hkaa0","headers":{"host":"hk01.wyhkaa0.cf"}},"server":"hk01.wyhkaa0.cf","port":2095,"uuid":"935d6dca-67ef-4d76-e462-3303625d47d7","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"ss","name":"🇩🇪_DE_1️⃣4️⃣_111","server":"193.108.117.24","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣4️⃣_112","ws-opts":{"path":"/","headers":{"host":"v6nt.gongyiyun.cf"}},"server":"162.159.160.104","port":"8080","uuid":"e3dba91f-b31c-473a-8f17-92e1dedda38f","alterId":"0","cipher":"auto","network":"ws"}
@@ -259,19 +233,19 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_1️⃣4️⃣_247","ws-opts":{"path":"/shirker","headers":{"host":"jp.sharecentre.online"}},"server":"172.67.148.175","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇧🇿_BZ_1️⃣4️⃣_248","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"203.30.189.190","port":"443","uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣4️⃣_249","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"66.235.200.21","port":"443","uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {name: 🇺🇸 美国|2️⃣1️⃣臨時可用, server: fnhk1000snews008.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 3c88ec132b66, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnhk1000snews008.svcline.com, path: "/oqydkriz", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 🇨🇳 台湾|2️⃣1️⃣臨時可用, server: exkkdx600mtwlines008.fnline.me, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: c9022610bd94, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: exkkdx600mtwlines008.fnline.me, path: "/", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 2️⃣1️⃣臨時可用, server: fnhk1000new009.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 47b484a2f3eb, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fnhk1000snews009.svcline.com, path: "/daaaizpk", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾01|2️⃣1️⃣臨時可用, server: fn600mlines024.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: a801632d2e2e, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mlines024.svcline.com, path: "/kzrxngogj", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾02|2️⃣1️⃣臨時可用, server: fn600mliness018.svcline.com, port: 1636, type: ss, cipher: aes-256-gcm, password: 7032cfff481c, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness018.svcline.com, path: "/aunmkscstge", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾03|2️⃣1️⃣臨時可用, server: fn600mlines021.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: 507364fb791e, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mlines021.svcline.com, path: "/kpnzyxsj", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 🇭🇰 香港01|2️⃣1️⃣臨時可用, server: fn600mliness016.svcline.com, port: 995, type: ss, cipher: aes-256-gcm, password: b82344b3d531, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness016.svcline.com, path: "/zpziiwsyhkk", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾4|2️⃣1️⃣臨時可用, server: fn600mliness017.svcline.com, port: 1636, type: ss, cipher: aes-256-gcm, password: !<str> 849333910491, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness017.svcline.com, path: "/qcgfjsnwq", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾5|2️⃣1️⃣臨時可用, server: mktw600mline005.kuainiaojs.club, port: 465, type: ss, cipher: chacha20-ietf-poly1305, password: 91b2a9da9867, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: mktw600mline005.kuainiaojs.club, path: "/hsrlfimppmss", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾6|2️⃣1️⃣臨時可用, server: fn600mliness019.svcline.com, port: 1465, type: ss, cipher: aes-256-gcm, password: fa7ccc245d08, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness019.svcline.com, path: "/gwgmtrwl", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾7|2️⃣1️⃣臨時可用, server: mktw1glines002.aodunjiasu.info, port: 995, type: ss, cipher: aes-256-gcm, password: 7f9357a05d52, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: mktw1glines002.aodunjiasu.info, path: "/qxujsrzjeodv", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾8|2️⃣1️⃣臨時可用, server: newtw600mline001.fnline.me, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: d3111300c9a1, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newtw600mline001.fnline.me, path: "/mreyhagokjnk", tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 台湾9|2️⃣1️⃣臨時可用, server: mktw1glines001.fengchiline.xyz, port: 443, type: ss, cipher: aes-256-gcm, password: 784895a5fc0a, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: mktw1glines001.fengchiline.xyz, path: "", tls: true, mux: true, skip-cert-verify: false}}
+  - {"type":"ss","name":"🇺🇸美国|2️⃣1️⃣臨時可用","server":"fnhk1000snews008.svcline.com","port":995,"cipher":"aes-256-gcm","password":"3c88ec132b66","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnhk1000snews008.svcline.com"}}
+  - {"type":"ss","name":"🇨🇳台湾|2️⃣1️⃣臨時可用","server":"exkkdx600mtwlines008.fnline.me","port":443,"cipher":"chacha20-ietf-poly1305","password":"c9022610bd94","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"exkkdx600mtwlines008.fnline.me"}}
+  - {"type":"ss","name":"2️⃣1️⃣臨時可用","server":"fnhk1000new009.svcline.com","port":995,"cipher":"aes-256-gcm","password":"47b484a2f3eb","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnhk1000snews009.svcline.com"}}
+  - {"type":"ss","name":"台湾01|2️⃣1️⃣臨時可用","server":"fn600mlines024.svcline.com","port":995,"cipher":"aes-256-gcm","password":"a801632d2e2e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines024.svcline.com"}}
+  - {"type":"ss","name":"台湾02|2️⃣1️⃣臨時可用","server":"fn600mliness018.svcline.com","port":1636,"cipher":"aes-256-gcm","password":"7032cfff481c","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mliness018.svcline.com"}}
+  - {"type":"ss","name":"台湾03|2️⃣1️⃣臨時可用","server":"fn600mlines021.svcline.com","port":995,"cipher":"aes-256-gcm","password":"507364fb791e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines021.svcline.com"}}
+  - {"type":"ss","name":"🇭🇰香港01|2️⃣1️⃣臨時可用","server":"fn600mliness016.svcline.com","port":995,"cipher":"aes-256-gcm","password":"b82344b3d531","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mliness016.svcline.com"}}
+  - {"type":"ss","name":"台湾4|2️⃣1️⃣臨時可用","server":"fn600mliness017.svcline.com","port":1636,"cipher":"aes-256-gcm","password":"849333910491","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mliness017.svcline.com"}}
+  - {"type":"ss","name":"台湾5|2️⃣1️⃣臨時可用","server":"mktw600mline005.kuainiaojs.club","port":465,"cipher":"chacha20-ietf-poly1305","password":"91b2a9da9867","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mktw600mline005.kuainiaojs.club"}}
+  - {"type":"ss","name":"台湾6|2️⃣1️⃣臨時可用","server":"fn600mliness019.svcline.com","port":1465,"cipher":"aes-256-gcm","password":"fa7ccc245d08","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mliness019.svcline.com"}}
+  - {"type":"ss","name":"台湾7|2️⃣1️⃣臨時可用","server":"mktw1glines002.aodunjiasu.info","port":995,"cipher":"aes-256-gcm","password":"7f9357a05d52","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mktw1glines002.aodunjiasu.info"}}
+  - {"type":"ss","name":"台湾8|2️⃣1️⃣臨時可用","server":"newtw600mline001.fnline.me","port":443,"cipher":"chacha20-ietf-poly1305","password":"d3111300c9a1","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"newtw600mline001.fnline.me"}}
+  - {"type":"ss","name":"台湾9|2️⃣1️⃣臨時可用","server":"mktw1glines001.fengchiline.xyz","port":443,"cipher":"aes-256-gcm","password":"784895a5fc0a","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mktw1glines001.fengchiline.xyz"}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -361,32 +335,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -524,13 +472,13 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
-      - 🇺🇸 美国|2️⃣1️⃣臨時可用
-      - 🇨🇳 台湾|2️⃣1️⃣臨時可用
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
       - 2️⃣1️⃣臨時可用
       - 台湾01|2️⃣1️⃣臨時可用
       - 台湾02|2️⃣1️⃣臨時可用
       - 台湾03|2️⃣1️⃣臨時可用
-      - 🇭🇰 香港01|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
       - 台湾4|2️⃣1️⃣臨時可用
       - 台湾5|2️⃣1️⃣臨時可用
       - 台湾6|2️⃣1️⃣臨時可用
@@ -626,32 +574,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -789,13 +711,13 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
-      - 🇺🇸 美国|2️⃣1️⃣臨時可用
-      - 🇨🇳 台湾|2️⃣1️⃣臨時可用
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
       - 2️⃣1️⃣臨時可用
       - 台湾01|2️⃣1️⃣臨時可用
       - 台湾02|2️⃣1️⃣臨時可用
       - 台湾03|2️⃣1️⃣臨時可用
-      - 🇭🇰 香港01|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
       - 台湾4|2️⃣1️⃣臨時可用
       - 台湾5|2️⃣1️⃣臨時可用
       - 台湾6|2️⃣1️⃣臨時可用
@@ -891,32 +813,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -1054,6 +950,19 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: 📲 电报信息
     type: select
     proxies:
@@ -1142,32 +1051,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -1305,6 +1188,19 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -1393,32 +1289,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -1556,6 +1426,19 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1644,32 +1527,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -1807,6 +1664,19 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1912,32 +1782,6 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣4️⃣_81
       - 🇺🇸_US_1️⃣4️⃣_82
       - 🇬🇧_GB_1️⃣4️⃣_83
-      - 🇩🇪_DE_1️⃣4️⃣_84
-      - 🇩🇪_DE_1️⃣4️⃣_85
-      - 🇩🇪_DE_1️⃣4️⃣_86
-      - 🇬🇧_GB_1️⃣4️⃣_87
-      - 🇬🇧_GB_1️⃣4️⃣_88
-      - 🇺🇸_US_1️⃣4️⃣_89
-      - 🇺🇸_US_1️⃣4️⃣_90
-      - 🇺🇸_US_1️⃣4️⃣_91
-      - 🇺🇸_US_1️⃣4️⃣_92
-      - 🇬🇧_GB_1️⃣4️⃣_93
-      - 🇺🇸_US_1️⃣4️⃣_94
-      - 🇺🇸_US_1️⃣4️⃣_95
-      - 🇨🇦_CA_1️⃣4️⃣_96
-      - 🇺🇸_US_1️⃣4️⃣_97
-      - 🇨🇦_CA_1️⃣4️⃣_98
-      - 🇺🇸_US_1️⃣4️⃣_99
-      - 🇺🇸_US_1️⃣4️⃣_100
-      - 🇫🇷_FR_1️⃣4️⃣_101
-      - 🇺🇸_US_1️⃣4️⃣_102
-      - 🇯🇵_JP_1️⃣4️⃣_103
-      - 🇺🇸_US_1️⃣4️⃣_104
-      - 🇬🇧_GB_1️⃣4️⃣_105
-      - 🇺🇸_US_1️⃣4️⃣_106
-      - 🇫🇷_FR_1️⃣4️⃣_107
-      - 🇺🇸_US_1️⃣4️⃣_108
-      - 🇺🇸_US_1️⃣4️⃣_109
       - 🇺🇸_US_1️⃣4️⃣_110
       - 🇩🇪_DE_1️⃣4️⃣_111
       - 🇺🇸_US_1️⃣4️⃣_112
@@ -2075,6 +1919,19 @@ proxy-groups:
       - 🇺🇸_US_1️⃣4️⃣_247
       - 🇧🇿_BZ_1️⃣4️⃣_248
       - 🇺🇸_US_1️⃣4️⃣_249
+      - 🇺🇸美国|2️⃣1️⃣臨時可用
+      - 🇨🇳台湾|2️⃣1️⃣臨時可用
+      - 2️⃣1️⃣臨時可用
+      - 台湾01|2️⃣1️⃣臨時可用
+      - 台湾02|2️⃣1️⃣臨時可用
+      - 台湾03|2️⃣1️⃣臨時可用
+      - 🇭🇰香港01|2️⃣1️⃣臨時可用
+      - 台湾4|2️⃣1️⃣臨時可用
+      - 台湾5|2️⃣1️⃣臨時可用
+      - 台湾6|2️⃣1️⃣臨時可用
+      - 台湾7|2️⃣1️⃣臨時可用
+      - 台湾8|2️⃣1️⃣臨時可用
+      - 台湾9|2️⃣1️⃣臨時可用
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
