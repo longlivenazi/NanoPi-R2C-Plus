@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
 #  创建者：MCY
-#  创建时间：2023-01-11 11:56:38
+#  创建时间：2023-01-11 12:33:13
 #  模版：默认模版
-#  节点数量：377
+#  节点数量：483
 #-------------------------------------------------------------#
 #
 port: 7890
@@ -390,6 +390,112 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_1️⃣1️⃣_496","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.trump2023.org"}},"server":"198.41.203.6","port":"443","uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣1️⃣_497","ws-opts":{"path":"/","headers":{"host":"ca2.v2rayserv.com"}},"server":"141.193.213.21","port":"443","uuid":"e3eba3ac-5bea-409f-ac5c-6c964e04d0c4","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇳🇱_NL_1️⃣1️⃣_498","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"188.114.99.11","port":"443","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ssr","name":"标准-美国GIA01-广东中转-解锁","server":"jp.j.v4.2.kiki789.com","port":10100,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-美国GIA01-广东中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"jp.j.v4.2.kiki789.com","port":23144,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-美国GIA02-上海中转-解锁","server":"jp.j.v4.2.kiki789.com","port":10102,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-美国GIA02-上海中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"jp.j.v4.2.kiki789.com","port":23145,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-美国GIA01-真IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10104,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-美国GIA01-真IPLC中转|v2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23146,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡linode01-湖南中转","server":"ovhsg.v4.kiki789.com","port":18231,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"ssr","name":"入门-新加坡linode02-湖南中转","server":"ovhsg.v4.kiki789.com","port":19233,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡linode02-湖南中转|v2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":29020,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡linode01-湖南中转","server":"ovhsg.v4.kiki789.com","port":10235,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"ssr","name":"标准-新加坡linode02-广东中转","server":"ovhsg.v4.kiki789.com","port":19237,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡linode02-广东中转|v2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23022,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡linode01-湖南中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10239,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡linode01-湖南中转|v2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23023,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡linode02-IPLC中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10241,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡linode02-IPLC中转|v2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23024,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡解锁01-广东中转","server":"ovhsg.v4.kiki789.com","port":10291,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡解锁01-广东|v2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23912,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡解锁02-广东中转","server":"ovhsg.v4.kiki789.com","port":10253,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡解锁02-广东中转|v2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23013,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡解锁01-广东中转","server":"ovhsg.v4.kiki789.com","port":18255,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡解锁01-广东中转|v2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23014,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡解锁02-湖南中转","server":"ovhsg.v4.kiki789.com","port":10257,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡解锁02-湖南中转|v2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":29015,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡解锁01-上海高级中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10259,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡解锁01-上海高级中转|v2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23016,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡解锁02-真IPLC中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10261,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡解锁02-真IPLC中转|v2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23017,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-台湾hinet01-广州中转","server":"g.j.v4.1.kiki789.com","port":10401,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-台湾hinet01-广州中转|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"g.j.v4.1.kiki789.com","port":23038,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-台湾hinet01-广州中转","server":"g.j.v4.1.kiki789.com","port":10403,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-台湾hinet01-广州中转|V2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"g.j.v4.1.kiki789.com","port":23939,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-台湾hinet01-IPLC中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10407,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-台湾hinet01-IPLC中转|V2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23040,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-台湾hinet02-广州中转","server":"g.j.v4.1.kiki789.com","port":10411,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-台湾hinet02-广州中转|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"g.j.v4.1.kiki789.com","port":23156,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-台湾hinet02-广州中转","server":"g.j.v4.1.kiki789.com","port":10413,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-台湾hinet02-广州中转|V2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"g.j.v4.1.kiki789.com","port":23157,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-台湾hinet02-IPLC中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10417,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-台湾hinet02-IPLC中转|V2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23158,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡linode03-广州中转-解锁","server":"ovhsg.v4.kiki789.com","port":10421,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡linode03-湖南中转|V2ray-解锁","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":29041,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡linode04-广州中转-解锁","server":"ovhsg.v4.kiki789.com","port":10423,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡linode04-广州中转|V2ray-解锁","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":28042,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡linode03-广州中转-解锁","server":"ovhsg.v4.kiki789.com","port":10425,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡linode03-广州中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23043,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡linode04-广州中转-解锁","server":"ovhsg.v4.kiki789.com","port":10427,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡linode04-广州中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23044,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡linode03-IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10429,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡linode03-IPLC中转|V2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23045,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡linode04-IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10431,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡linode04-IPLC中转|V2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23046,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡OVH01-广州中转","server":"ovhsg.v4.kiki789.com","port":10441,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡OVH01-广州中转|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":10442,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡OVH01-广州中转","server":"ovhsg.v4.kiki789.com","port":10443,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡OVH01-广州中转|V2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":10444,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡OVH01-IPLC中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10445,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡OVH01-IPLC中转|V2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":10446,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-日本SAKURA01-IPLC中转-解锁","server":"jp.3.x.v4.2.kiki789.com","port":10500,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-日本SAKURA01-IPLC中转|V2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"jp.3.x.v4.2.kiki789.com","port":23047,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-日本SAKURA01-江门中转-解锁","server":"jp.x.v4.2.kiki789.com","port":10502,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-日本SAKURA01-江门中转|V2ray-解锁","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"jp.x.v4.2.kiki789.com","port":23048,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-日本SAKURA01-江门中转-解锁","server":"jp.x.v4.2.kiki789.com","port":19504,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-日本SAKURA01-江门中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"jp.x.v4.2.kiki789.com","port":23049,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-香港联通01","server":"x.v4.1.kiki789.com","port":10550,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-香港联通01|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"x.v4.1.kiki789.com","port":23032,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-香港BGP01-IPLC中转","server":"4e36nodev1.jcdn1.kiki789.com","port":10552,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-香港BGP01-IPLC中转|V2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23033,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-香港BGP01-广州中转","server":"x.v3.1.kiki789.com","port":10554,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-香港BGP01-广州中转|V2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"x.v3.1.kiki789.com","port":23034,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-香港联通02","server":"x.v4.2.kiki789.com","port":10600,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-香港联通02|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"x.v4.2.kiki789.com","port":23035,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-香港HGC01-江门中转-解锁","server":"x.v3.1.kiki789.com","port":10602,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-香港HGC01-江门中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"x.v3.1.kiki789.com","port":23036,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-香港HGC01-IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10604,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-香港HGC01-IPLC中转|V2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23037,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-香港联通01","server":"x.v4.2.kiki789.com","port":10606,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-香港联通01|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"x.v4.2.kiki789.com","port":23138,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-香港HGC02-广州中转-解锁","server":"x.v3.2.kiki789.com","port":10608,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-香港HGC02-广州中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"x.v3.2.kiki789.com","port":23139,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-香港HGC02-IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10610,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-香港HGC02-IPLC中转|V2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23140,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-香港联通02","server":"x.v4.1.kiki789.com","port":10612,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-香港联通02|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"x.v4.1.kiki789.com","port":23141,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-香港HGC03-广州中转-解锁","server":"x.v3.2.kiki789.com","port":10614,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-香港HGC03-广州中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"x.v3.2.kiki789.com","port":23142,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-香港HGC03-IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10616,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-香港HGC03-IPLC中转|V2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23143,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-俄罗斯01-广州中转","server":"ovhsg.v4.kiki789.com","port":10700,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-俄罗斯01-广州中转|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23147,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-俄罗斯01-广州中转","server":"ovhsg.v4.kiki789.com","port":10702,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-俄罗斯01-广州中转|V2ray","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"\tovhsg.v4.kiki789.com","port":23148,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-俄罗斯01-IPLC中转","server":"ovhsg.v4.kiki789.com","port":10704,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-俄罗斯01-IPLC中转|V2ray","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23149,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-香港联通01","server":"x.v4.2.kiki789.com","port":10800,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-香港联通01|V2ray","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"x.v4.2.kiki789.com","port":23150,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-德国GIA02-广州中转-解锁","server":"x.v3.2.kiki789.com","port":10802,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-德国GIA02-广州中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"x.v3.2.kiki789.com","port":23151,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-德国GIA01-真IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10804,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-德国GIA01-真IPLC中转|v2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23152,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"入门-新加坡GIA01-上海中转-解锁","server":"ovhsg.v4.kiki789.com","port":10990,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"入门-新加坡GIA01-上海中转|V2ray-解锁","ws-opts":{"path":"/81bddc1d8-8404-44b1-9c76-25029f9bf429.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23153,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"标准-新加坡GIA02-广州中转-解锁","server":"ovhsg.v4.kiki789.com","port":10992,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"标准-新加坡GIA02-广州中转|V2ray-解锁","ws-opts":{"path":"/736e65e6-b0ee-4f84-8285-9e3df85fff5c.live238.m3u8"},"server":"ovhsg.v4.kiki789.com","port":23154,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ssr","name":"旗舰-新加坡GIA01-真IPLC中转-解锁","server":"4e36nodev1.jcdn1.kiki789.com","port":10904,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"wz5jrlp7j2l","protocol-param":"498049:mrd8z2"}
+  - {"type":"vmess","name":"旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁","ws-opts":{"path":"/87751ff2-222a-477b-8bec-60a13527f24c.live238.m3u8"},"server":"4e36nodev1.jcdn1.kiki789.com","port":23155,"uuid":"07da79a2-75ff-349c-8ded-0af6a9735ab0","alterId":0,"cipher":"auto","network":"ws"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -773,6 +879,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1156,6 +1368,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -1539,6 +1857,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
   - name: 📲 电报信息
     type: select
     proxies:
@@ -1921,6 +2345,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -2303,6 +2833,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -2685,6 +3321,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -3084,6 +3826,112 @@ proxy-groups:
       - 🇺🇸_US_1️⃣1️⃣_496
       - 🇺🇸_US_1️⃣1️⃣_497
       - 🇳🇱_NL_1️⃣1️⃣_498
+      - 标准-美国GIA01-广东中转-解锁
+      - 标准-美国GIA01-广东中转|V2ray-解锁
+      - 标准-美国GIA02-上海中转-解锁
+      - 标准-美国GIA02-上海中转|V2ray-解锁
+      - 旗舰-美国GIA01-真IPLC中转-解锁
+      - 旗舰-美国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡linode01-湖南中转
+      - 入门-新加坡linode02-湖南中转
+      - 入门-新加坡linode02-湖南中转|v2ray
+      - 标准-新加坡linode01-湖南中转
+      - 标准-新加坡linode02-广东中转
+      - 标准-新加坡linode02-广东中转|v2ray
+      - 旗舰-新加坡linode01-湖南中转
+      - 旗舰-新加坡linode01-湖南中转|v2ray
+      - 旗舰-新加坡linode02-IPLC中转
+      - 旗舰-新加坡linode02-IPLC中转|v2ray
+      - 入门-新加坡解锁01-广东中转
+      - 入门-新加坡解锁01-广东|v2ray
+      - 入门-新加坡解锁02-广东中转
+      - 入门-新加坡解锁02-广东中转|v2ray
+      - 标准-新加坡解锁01-广东中转
+      - 标准-新加坡解锁01-广东中转|v2ray
+      - 标准-新加坡解锁02-湖南中转
+      - 标准-新加坡解锁02-湖南中转|v2ray
+      - 旗舰-新加坡解锁01-上海高级中转
+      - 旗舰-新加坡解锁01-上海高级中转|v2ray
+      - 旗舰-新加坡解锁02-真IPLC中转
+      - 旗舰-新加坡解锁02-真IPLC中转|v2ray
+      - 入门-台湾hinet01-广州中转
+      - 入门-台湾hinet01-广州中转|V2ray
+      - 标准-台湾hinet01-广州中转
+      - 标准-台湾hinet01-广州中转|V2ray
+      - 旗舰-台湾hinet01-IPLC中转
+      - 旗舰-台湾hinet01-IPLC中转|V2ray
+      - 入门-台湾hinet02-广州中转
+      - 入门-台湾hinet02-广州中转|V2ray
+      - 标准-台湾hinet02-广州中转
+      - 标准-台湾hinet02-广州中转|V2ray
+      - 旗舰-台湾hinet02-IPLC中转
+      - 旗舰-台湾hinet02-IPLC中转|V2ray
+      - 入门-新加坡linode03-广州中转-解锁
+      - 入门-新加坡linode03-湖南中转|V2ray-解锁
+      - 入门-新加坡linode04-广州中转-解锁
+      - 入门-新加坡linode04-广州中转|V2ray-解锁
+      - 标准-新加坡linode03-广州中转-解锁
+      - 标准-新加坡linode03-广州中转|V2ray-解锁
+      - 标准-新加坡linode04-广州中转-解锁
+      - 标准-新加坡linode04-广州中转|V2ray-解锁
+      - 旗舰-新加坡linode03-IPLC中转-解锁
+      - 旗舰-新加坡linode03-IPLC中转|V2ray-解锁
+      - 旗舰-新加坡linode04-IPLC中转-解锁
+      - 旗舰-新加坡linode04-IPLC中转|V2ray-解锁
+      - 入门-新加坡OVH01-广州中转
+      - 入门-新加坡OVH01-广州中转|V2ray
+      - 标准-新加坡OVH01-广州中转
+      - 标准-新加坡OVH01-广州中转|V2ray
+      - 旗舰-新加坡OVH01-IPLC中转
+      - 旗舰-新加坡OVH01-IPLC中转|V2ray
+      - 旗舰-日本SAKURA01-IPLC中转-解锁
+      - 旗舰-日本SAKURA01-IPLC中转|V2ray-解锁
+      - 入门-日本SAKURA01-江门中转-解锁
+      - 入门-日本SAKURA01-江门中转|V2ray-解锁
+      - 标准-日本SAKURA01-江门中转-解锁
+      - 标准-日本SAKURA01-江门中转|V2ray-解锁
+      - 入门-香港联通01
+      - 入门-香港联通01|V2ray
+      - 旗舰-香港BGP01-IPLC中转
+      - 旗舰-香港BGP01-IPLC中转|V2ray
+      - 标准-香港BGP01-广州中转
+      - 标准-香港BGP01-广州中转|V2ray
+      - 入门-香港联通02
+      - 入门-香港联通02|V2ray
+      - 标准-香港HGC01-江门中转-解锁
+      - 标准-香港HGC01-江门中转|V2ray-解锁
+      - 旗舰-香港HGC01-IPLC中转-解锁
+      - 旗舰-香港HGC01-IPLC中转|V2ray-解锁
+      - 标准-香港联通01
+      - 标准-香港联通01|V2ray
+      - 标准-香港HGC02-广州中转-解锁
+      - 标准-香港HGC02-广州中转|V2ray-解锁
+      - 旗舰-香港HGC02-IPLC中转-解锁
+      - 旗舰-香港HGC02-IPLC中转|V2ray-解锁
+      - 标准-香港联通02
+      - 标准-香港联通02|V2ray
+      - 标准-香港HGC03-广州中转-解锁
+      - 标准-香港HGC03-广州中转|V2ray-解锁
+      - 旗舰-香港HGC03-IPLC中转-解锁
+      - 旗舰-香港HGC03-IPLC中转|V2ray-解锁
+      - 入门-俄罗斯01-广州中转
+      - 入门-俄罗斯01-广州中转|V2ray
+      - 标准-俄罗斯01-广州中转
+      - 标准-俄罗斯01-广州中转|V2ray
+      - 旗舰-俄罗斯01-IPLC中转
+      - 旗舰-俄罗斯01-IPLC中转|V2ray
+      - 旗舰-香港联通01
+      - 旗舰-香港联通01|V2ray
+      - 标准-德国GIA02-广州中转-解锁
+      - 标准-德国GIA02-广州中转|V2ray-解锁
+      - 旗舰-德国GIA01-真IPLC中转-解锁
+      - 旗舰-德国GIA01-真IPLC中转|v2ray-解锁
+      - 入门-新加坡GIA01-上海中转-解锁
+      - 入门-新加坡GIA01-上海中转|V2ray-解锁
+      - 标准-新加坡GIA02-广州中转-解锁
+      - 标准-新加坡GIA02-广州中转|V2ray-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转-解锁
+      - 旗舰-新加坡GIA01-真IPLC中转|v2ray-解锁
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
