@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
 #  创建者：MCY
-#  创建时间：2023-01-16 10:35:14
+#  创建时间：2023-01-16 10:46:07
 #  模版：默认模版
-#  节点数量：507
+#  节点数量：485
 #-------------------------------------------------------------#
 #
 port: 7890
@@ -147,26 +147,6 @@ proxies:
   - {"type":"trojan","name":"🇯🇵_JP_1️⃣6️⃣_132","server":"lidnaivos2nbsg.559xp5.cn","port":443,"password":"b163c841-5acb-4bd5-838a-3c745685e3b2","udp":true,"skip-cert-verify":true,"sni":"lidnaivos2nbsg.559xp5.cn"}
   - {"type":"trojan","name":"🇭🇰_HK_1️⃣6️⃣_133","server":"li1sg2ffhbvjjwtu.559xp5.cn","port":443,"password":"b163c841-5acb-4bd5-838a-3c745685e3b2","udp":true,"skip-cert-verify":true,"sni":"li1sg2ffhbvjjwtu.559xp5.cn"}
   - {"type":"trojan","name":"🇯🇵_JP_1️⃣6️⃣_134","server":"li1us-fddfv2bgdha.559xp5.cn","port":443,"password":"b163c841-5acb-4bd5-838a-3c745685e3b2","udp":true,"skip-cert-verify":true,"sni":"li1us-fddfv2bgdha.559xp5.cn"}
-  - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_135","server":"43.206.209.17","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
-  - {"type":"vmess","name":"undefined_1️⃣6️⃣_136","ws-opts":{"path":"/Falling42gcorehknode","headers":{"host":"gcorehk.sylu.cyou"}},"server":"twdns.sylu.cyou","port":443,"uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_137","ws-opts":{"path":"/myblog","headers":{"host":"51fly99.win"}},"server":"51fly99.win","port":443,"uuid":"fefe2ff7-153c-41a8-aa04-e8d2e641505c","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_138","ws-opts":{"path":"/myblog"},"server":"vfly6.xyz","port":443,"uuid":"6a69acd2-ffe1-44eb-c51c-1afc049c7541","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇵🇦_PA_1️⃣6️⃣_139","ws-opts":{"path":"/6e9EtZ2dL","headers":{"host":"dengxin.one"}},"server":"185.143.220.25","port":"443","uuid":"f28e354e-c2d1-4983-9b07-5acaf1b3b3e5","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_140","ws-opts":{"path":"/","headers":{"host":"236ba16f-7989-71de-e510-1cad33923355.cnnic.rip"}},"server":"236ba16f-7989-71de-e510-1cad33923355.cnnic.rip","port":"80","uuid":"6da8a425-15c7-4c37-ad98-4ef4a75840a2","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_141","http-opts":{"path":["/"]},"server":"47.242.146.123","port":"26237","uuid":"c8f5a5fd-0a69-4cf6-8fa6-2ea02171d6a3","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"undefined_1️⃣6️⃣_142","ws-opts":{"path":"/shirker","headers":{"host":"us-dp.sharecentre.online"}},"server":"cm.sylu.cyou","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"undefined_1️⃣6️⃣_143","ws-opts":{"path":"/cctv13/hd.m3u8","headers":{"host":"fsm.htvviru.top"}},"server":"fsm.htvviru.top","port":"609","uuid":"3d81e6fb-c7f0-4791-af2e-82c93d149483","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"undefined_1️⃣6️⃣_144","ws-opts":{"path":"/vmess","headers":{"host":"sg.putravpn.my.id"}},"server":"sg.putravpn.my.id","port":"80","uuid":"4e676ac1-2571-420d-bf8a-aaf1043cbd20","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_145","ws-opts":{"path":"/","headers":{"host":"vn-01.legeth.tk"}},"server":"vn-01.legeth.tk","port":"80","uuid":"664be14f-1729-463b-855b-801943630c8d","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_146","http-opts":{"path":["/"]},"server":"47.242.85.127","port":"47460","uuid":"8655a473-6c7f-41b2-b102-5edc30970e3a","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇯🇵_JP_1️⃣6️⃣_147","server":"js.ps.usdeth.top","port":12129,"password":"45c147de-81db-47d1-87d3-5eb129164c0d","udp":true,"skip-cert-verify":true,"sni":"js.ps.usdeth.top"}
-  - {"type":"vmess","name":"🇯🇵_JP_1️⃣6️⃣_148","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"jp02-vm0.entry.srthdw.art"}},"server":"jp02-vm0.entry.srthdw.art","port":"448","uuid":"6879c7cf-ee80-3f8a-be4a-0cf0f8032897","alterId":"1","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇯🇵_JP_1️⃣6️⃣_149","ws-opts":{"path":"/zh-cn","headers":{"host":"jp1.sanfen001.pics"}},"server":"jp1.sanfen001.pics","port":443,"uuid":"6a1e943a-fb50-4b97-8389-e60795297d4d","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_150","server":"43.206.241.153","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
-  - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_151","server":"43.207.66.188","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
-  - {"type":"ss","name":"🇳🇱_NL_1️⃣6️⃣_152","server":"172.99.188.99","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
-  - {"type":"vmess","name":"🇳🇱_NL_1️⃣6️⃣_153","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"188.114.99.10","port":443,"uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_154","ws-opts":{"path":"/aries","headers":{"host":"sfodo.cloudflare.quest"}},"server":"Get.TECH","port":2086,"uuid":"f9ac8978-be94-40a7-eabd-b07d77037429","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_155","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.trump2023.org"}},"server":"141.101.114.111","port":443,"uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_156","http-opts":{"path":["/"]},"server":"8.210.96.225","port":"29596","uuid":"a8a20fa9-636e-4e4c-9739-4187beb0bb86","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"vmess","name":"🇹🇼_TW_1️⃣6️⃣_157","server":"hinet1261.gfwisbest.xyz","port":"224","uuid":"2285133e-b9ba-3fb5-a246-9c7ddcc2cd7a","alterId":"0","cipher":"auto","network":"tcp"}
@@ -176,18 +156,6 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_161","ws-opts":{"path":"/","headers":{"host":"ca-cdn.emoooo.cloud"}},"server":"gtm-cn-j67317hnw0k.gtm-a5b5.com","port":"443","uuid":"97239aa5-913f-44b6-bad1-1d88e9a605b9","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇨🇷_CR_1️⃣6️⃣_162","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}},"server":"190.93.246.3","port":"443","uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇨🇷_CR_1️⃣6️⃣_163","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"190.93.246.4","port":"443","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇰🇷_KR_1️⃣6️⃣_164","ws-opts":{"path":"/","headers":{"host":"kr01.170203.xyz"}},"server":"kr01.170203.xyz","port":"45453","uuid":"9c8bca86-db6b-4916-b6b2-65c946b8b24b","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇰🇷_KR_1️⃣6️⃣_165","ws-opts":{"path":"/","headers":{"host":"kr002.170203.xyz"}},"server":"kr002.170203.xyz","port":"23245","uuid":"9c8bca86-db6b-4916-b6b2-65c946b8b24b","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"undefined_1️⃣6️⃣_166","server":"andromedae.weltknoten.cloud","port":"30021","uuid":"220906e2-c75f-3ff7-a76d-a390c4a28fc8","alterId":"2","cipher":"auto","network":"tcp","tls":true}
-  - {"type":"ss","name":"🇨🇦_CA_1️⃣6️⃣_167","server":"jgwjnddldarm.haolll.tech","port":158,"cipher":"chacha20-ietf-poly1305","password":"65f81ad3-dd40-4ffb-9529-90e54cfdfe67"}
-  - {"type":"vmess","name":"🇰🇷_KR_1️⃣6️⃣_168","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}},"server":"kr.gaowosiquanjia.top","port":"80","uuid":"38785ba8-5372-4c7b-b790-1da788e93ab1","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_169","ws-opts":{"path":"/zh-cn/","headers":{"host":"www.baidu.com"}},"server":"hk80-2.sanfen001.pics","port":"80","uuid":"8543e573-88d6-4d54-9159-4f2aeb3fef9b","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"undefined_1️⃣6️⃣_170","server":"azgy001.xibai6.top","port":20784,"password":"f23a8308-7cf3-3e69-976a-de7246b02a2d","udp":true,"skip-cert-verify":true,"sni":"ssl.ssl12.xyz"}
-  - {"type":"ss","name":"🇨🇦_CA_1️⃣6️⃣_171","server":"72.140.224.195","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_172","ws-opts":{"path":"/chaog","headers":{"host":"srtweb.samrt.website"}},"server":"143.198.229.234","port":"443","uuid":"ddee9ffe-51c1-366d-87ce-ceba8a790d4b","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_173","ws-opts":{"path":"/chcara","headers":{"host":"v2fly.samrt.website"}},"server":"172.67.153.33","port":"443","uuid":"ddee9ffe-51c1-366d-87ce-ceba8a790d4b","alterId":"1","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_174","ws-opts":{"path":"/chcara","headers":{"host":"v2fly.samrt.website"}},"server":"172.67.136.30","port":"443","uuid":"ddee9ffe-51c1-366d-87ce-ceba8a790d4b","alterId":"1","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_175","ws-opts":{"path":"/chcara","headers":{"host":"v2fly.samrt.website"}},"server":"104.25.200.212","port":"443","uuid":"ddee9ffe-51c1-366d-87ce-ceba8a790d4b","alterId":"1","cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇸🇬_SG_1️⃣6️⃣_176","server":"103.172.116.121","port":3389,"password":"0c6a3341e8d5ab17","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_177","ws-opts":{"path":"/huhu","headers":{"host":"hucloud.tk"}},"server":"hucloud.tk","port":"443","uuid":"2df3ed4a-4313-45f9-b742-2f02ce593a6e","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_178","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.trump2023.org"}},"server":"103.21.244.246","port":"443","uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":"0","cipher":"auto","network":"ws","tls":true}
@@ -323,24 +291,6 @@ proxies:
   - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_308","server":"jp-01.wallthefool.org","port":"15601","uuid":"c8a3954e-32ad-4c90-b08d-e82f25e02464","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_309","server":"iepl01.xjh001.top","port":65006,"cipher":"aes-128-gcm","password":"37b23942-ebfe-4e4b-8b41-5286fff8a10f"}
   - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_310","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"data-hk-v2.shwjfkw.cn"}},"server":"data-hk-v2.shwjfkw.cn","port":"50205","uuid":"b1478e24-4916-3abe-8f17-15931012ecbe","alterId":"1","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_311","server":"tw-detour-19.wallthefool.org","port":"15219","uuid":"c8a3954e-32ad-4c90-b08d-e82f25e02464","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_312","server":"jp-05.wallthefool.org","port":"15605","uuid":"c8a3954e-32ad-4c90-b08d-e82f25e02464","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_313","server":"uk-detour-06.wallthefool.org","port":"15716","uuid":"c8a3954e-32ad-4c90-b08d-e82f25e02464","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_314","server":"iplc2.hxnode.me","port":"41001","uuid":"82b76f83-0233-4dd1-83c6-d8e090d916a6","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇨🇳_CN_1️⃣6️⃣_315","server":"wisg4.fastsss.xyz","port":21001,"password":"93ede70a-e656-4403-95c1-08efc2627f46","udp":true,"skip-cert-verify":true,"sni":"beesg4.fastsss.xyz"}
-  - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_316","server":"t1.xjh001.top","port":65007,"cipher":"aes-128-gcm","password":"37b23942-ebfe-4e4b-8b41-5286fff8a10f"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_317","server":"iplc2.hxnode.me","port":"41004","uuid":"82b76f83-0233-4dd1-83c6-d8e090d916a6","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_318","server":"iepl01.xjh001.top","port":65009,"cipher":"aes-128-gcm","password":"37b23942-ebfe-4e4b-8b41-5286fff8a10f"}
-  - {"type":"vmess","name":"🇻🇳_VN_1️⃣6️⃣_319","ws-opts":{"path":"/tandung288.click","headers":{"host":"dl.kgvn.garenanow.com"}},"server":"103.166.183.226","port":"80","uuid":"ef919c67-6638-4416-91af-9a13ffe5b9ca","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_320","server":"183.2.194.20","port":16212,"cipher":"aes-128-gcm","password":"9124aa77a1"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_321","server":"5.jp.zz.xxxxx.x-t-fuckword.network","port":"48752","uuid":"000f47ab-2900-3ae8-b2c8-fa8d062be3c5","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_322","server":"1.5.1.fuckppppp.today","port":"50810","uuid":"000f47ab-2900-3ae8-b2c8-fa8d062be3c5","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇨🇳_CN_1️⃣6️⃣_323","server":"wijp1.fastsss.xyz","port":30051,"password":"93ede70a-e656-4403-95c1-08efc2627f46","udp":true,"skip-cert-verify":true,"sni":"beejp1.fastsss.xyz"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_324","server":"word.2.fuckword.club","port":"50189","uuid":"000f47ab-2900-3ae8-b2c8-fa8d062be3c5","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"trojan","name":"🇨🇳_CN_1️⃣6️⃣_325","server":"wide1.fastsss.xyz","port":20011,"password":"93ede70a-e656-4403-95c1-08efc2627f46","udp":true,"skip-cert-verify":true,"sni":"beede1.fastsss.xyz"}
-  - {"type":"trojan","name":"🇨🇳_CN_1️⃣6️⃣_326","server":"wikr2.fastsss.xyz","port":40021,"password":"93ede70a-e656-4403-95c1-08efc2627f46","udp":true,"skip-cert-verify":true,"sni":"beekr2.fastsss.xyz"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_327","server":"1.hk.zz.xxxxx.x-t-fuckword.network","port":"36672","uuid":"000f47ab-2900-3ae8-b2c8-fa8d062be3c5","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_328","server":"85.208.108.60","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
   - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_329","http-opts":{"path":["/"]},"server":"8.210.206.163","port":"45719","uuid":"a220dad2-a34e-4460-b0f7-eaba9c46e639","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_330","http-opts":{"path":["/"]},"server":"8.210.253.93","port":31083,"uuid":"d2070b97-6d7c-44dc-9c7c-84a9c891815e","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_331","ws-opts":{"path":"/vmess"},"server":"15.204.31.63","port":80,"uuid":"ab4a729f-e4d4-4a78-8c24-3107c5e4faee","alterId":"0","cipher":"auto","network":"ws"}
@@ -414,7 +364,7 @@ proxies:
   - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_399","server":"14.29.124.168","port":25207,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
   - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_400","server":"14.29.124.168","port":25279,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
   - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_401","server":"106.55.234.95","port":31372,"uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_402","server":"47.104.237.32","port":50002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto"}
+  - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_402","server":"47.104.237.32","port":50002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
   - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_403","server":"14.29.124.168","port":25271,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
   - {"type":"ss","name":"🇨🇳_CN_1️⃣6️⃣_404","server":"14.29.124.168","port":25267,"cipher":"aes-128-cfb","password":"QazEdcTgb159@$*"}
   - {"type":"vmess","name":"🇨🇳_CN_1️⃣6️⃣_405","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"gy.xhowtogetit.xyz","port":21897,"uuid":"73dcc1f6-3b4d-36fe-932f-500f32793b3a","alterId":"2","cipher":"auto","network":"ws","tls":true}
@@ -427,16 +377,16 @@ proxies:
   - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_412","server":"43.207.3.68","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_413","server":"85.208.108.60","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
   - {"type":"ss","name":"🇯🇵_JP_1️⃣6️⃣_414","server":"43.206.253.119","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
-  - {"type":"trojan","name":"🇯🇵_JP_1️⃣6️⃣_415","server":"zzjp01.fuqiangren.com","port":20220,"password":"b09eef68-e9a0-4e26-86b7-aead2c2f982a","udp":true,"skip-cert-verify":true,"sni":"zzjp01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵_JP_1️⃣6️⃣_415","server":"zzjp01.fuqiangren.com","port":20220,"password":"b09eef68-e9a0-4e26-86b7-aead2c2f982a","udp":true,"skip-cert-verify":true,"sni":"zzjp01.fuqiangren.com"}
   - {"type":"ss","name":"🇰🇷_KR_1️⃣6️⃣_416","server":"43.201.103.37","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"ss","name":"🇰🇷_KR_1️⃣6️⃣_417","server":"43.200.2.173","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"ss","name":"🇰🇷_KR_1️⃣6️⃣_418","server":"43.201.69.62","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"ss","name":"🇰🇷_KR_1️⃣6️⃣_419","server":"43.201.59.236","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
-  - {"type":"trojan","name":"🇲🇴_MO_1️⃣6️⃣_420","server":"45.64.22.56","port":443,"password":"123456","udp":true,"skip-cert-verify":true,"sni":"trojan-ctb-sg01.globalssh.xyz","network":"tcp"}
+  - {"type":"trojan","name":"🇲🇴_MO_1️⃣6️⃣_420","server":"45.64.22.56","port":443,"password":"123456","udp":true,"skip-cert-verify":true,"sni":"trojan-ctb-sg01.globalssh.xyz"}
   - {"type":"vmess","name":"🇳🇱_NL_1️⃣6️⃣_421","ws-opts":{"path":"/ECTCJ0DF","headers":{"host":"lg1.trump2023.us"}},"server":"188.114.99.9","port":443,"uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇸🇬_SG_1️⃣6️⃣_422","server":"00000000000000000000000000000000000000000000000000000000000005a.node-for-bigairport.win","port":80,"uuid":"2100274e-55ae-4686-a380-a66ae8b0ef1b","alterId":"0","cipher":"auto"}
+  - {"type":"vmess","name":"🇸🇬_SG_1️⃣6️⃣_422","server":"00000000000000000000000000000000000000000000000000000000000005a.node-for-bigairport.win","port":80,"uuid":"2100274e-55ae-4686-a380-a66ae8b0ef1b","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇸🇬_SG_1️⃣6️⃣_423","ws-opts":{"path":"/chat"},"server":"vsg1.0bad.com","port":443,"uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇸🇬_SG_1️⃣6️⃣_424","server":"f5465c4.pg.gladns.com","port":3389,"password":"0c6a3341e8d5ab17","udp":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"trojan","name":"🇸🇬_SG_1️⃣6️⃣_424","server":"f5465c4.pg.gladns.com","port":3389,"password":"0c6a3341e8d5ab17","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇹🇷_TR_1️⃣6️⃣_425","http-opts":{"path":["/"]},"server":"80.253.246.179","port":8080,"uuid":"4e2b4472-7e98-449d-954a-3edcb3485543","alterId":"0","cipher":"auto","network":"http"}
   - {"type":"ss","name":"🇺🇸_US_1️⃣6️⃣_426","server":"167.88.63.79","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
   - {"type":"ss","name":"🇺🇸_US_1️⃣6️⃣_427","server":"38.91.102.123","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
@@ -520,34 +470,34 @@ proxies:
   - {"type":"vmess","name":"🇧🇿_BZ_1️⃣6️⃣_505","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"lg10.cfcdn1.xyz"}},"server":"203.30.191.193","port":"443","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇭🇰_HK_1️⃣6️⃣_506","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash6.ssr-free.xyz"}},"server":"219.76.13.180","port":"443","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇺🇸_US_1️⃣6️⃣_507","ws-opts":{"path":"/","headers":{"host":"uk2.v2rayserv.com"}},"server":"news.microsoft.com","port":"443","uuid":"0764a598-82c4-4b41-ba10-551a625beed5","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"name":"上海CN2丨俄罗斯丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":32012,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨俄罗斯丨解锁流媒体丨A2","type":"ssr","server":"ddns.defucloud.me","port":32013,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨台湾丨解锁流媒体线路","type":"ssr","server":"ddns.defucloud.me","port":30918,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨日本EC2丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":32026,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨日本丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":33982,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨美国北加州丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":30985,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨美国新泽西州丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":32217,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨美国新泽西州丨解锁流媒体丨A2","type":"ssr","server":"ddns.defucloud.me","port":32218,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨英国伦敦丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":32124,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨韩国首尔丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":32019,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨香港EC2丨解锁流媒体丨A1","type":"ssr","server":"ddns.defucloud.me","port":33120,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨香港EC2丨解锁流媒体丨A2","type":"ssr","server":"ddns.defucloud.me","port":33015,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨香港丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":32983,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"上海CN2丨香港丨解锁流媒体丨A2","type":"ssr","server":"adns.defucloud.shop","port":32982,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨台湾丨解锁流媒体线路","type":"ssr","server":"adns.defucloud.shop","port":30917,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨新加坡丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":30891,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨日本EC2丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":31904,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨日本丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":32986,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨美国北加州丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":30987,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨美国北加州丨解锁流媒体丨A2","type":"ssr","server":"adns.defucloud.shop","port":30988,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨美国新泽西州丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":33112,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨美国新泽西州丨解锁流媒体丨A2","type":"ssr","server":"adns.defucloud.shop","port":33113,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨英国伦敦丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":32992,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨韩国丨解锁流媒体丨A1","type":"ssr","server":"adns.defucloud.shop","port":33115,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨香港EC2丨解锁流媒体丨A1","type":"ssr","server":"cdns.defucloud.shop","port":30899,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨香港EC2丨解锁流媒体丨A2","type":"ssr","server":"cdns.defucloud.shop","port":30901,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"广州丨香港EC2丨解锁流媒体丨A3","type":"ssr","server":"cdns.defucloud.shop","port":33117,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
-  - {"name":"紧急线路 站点故障时优先恢复","type":"ssr","server":"zxl.defucloud.shop","port":23018,"cipher":"chacha20-ietf","password":"zztw9jk7gu","protocol":"auth_aes128_sha1","protocol-param":"4021:yWHABv","obfs":"http_simple","obfs-param":"b9be14021.microsoft.com"}
+  - {"type":"ssr","name":"上海CN2丨俄罗斯丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":32012,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨俄罗斯丨解锁流媒体丨A2","server":"ddns.defucloud.me","port":32013,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨台湾丨解锁流媒体线路","server":"ddns.defucloud.me","port":30918,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨日本EC2丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":32026,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨日本丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":33982,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨美国北加州丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":30985,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨美国新泽西州丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":32217,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨美国新泽西州丨解锁流媒体丨A2","server":"ddns.defucloud.me","port":32218,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨英国伦敦丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":32124,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨韩国首尔丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":32019,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨香港EC2丨解锁流媒体丨A1","server":"ddns.defucloud.me","port":33120,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨香港EC2丨解锁流媒体丨A2","server":"ddns.defucloud.me","port":33015,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨香港丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":32983,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"上海CN2丨香港丨解锁流媒体丨A2","server":"adns.defucloud.shop","port":32982,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨台湾丨解锁流媒体线路","server":"adns.defucloud.shop","port":30917,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨新加坡丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":30891,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨日本EC2丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":31904,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨日本丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":32986,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨美国北加州丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":30987,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨美国北加州丨解锁流媒体丨A2","server":"adns.defucloud.shop","port":30988,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨美国新泽西州丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":33112,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨美国新泽西州丨解锁流媒体丨A2","server":"adns.defucloud.shop","port":33113,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨英国伦敦丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":32992,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨韩国丨解锁流媒体丨A1","server":"adns.defucloud.shop","port":33115,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨香港EC2丨解锁流媒体丨A1","server":"cdns.defucloud.shop","port":30899,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨香港EC2丨解锁流媒体丨A2","server":"cdns.defucloud.shop","port":30901,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"广州丨香港EC2丨解锁流媒体丨A3","server":"cdns.defucloud.shop","port":33117,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
+  - {"type":"ssr","name":"紧急线路站点故障时优先恢复","server":"zxl.defucloud.shop","port":23018,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"zztw9jk7gu","obfs-param":"b9be14021.microsoft.com","protocol-param":"4021:yWHABv"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -688,26 +638,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -717,18 +647,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -864,24 +782,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -1061,6 +961,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1201,26 +1129,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -1230,18 +1138,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -1377,24 +1273,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -1574,6 +1452,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -1714,26 +1620,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -1743,18 +1629,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -1890,24 +1764,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -2087,6 +1943,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
   - name: 📲 电报信息
     type: select
     proxies:
@@ -2226,26 +2110,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -2255,18 +2119,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -2402,24 +2254,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -2599,6 +2433,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -2738,26 +2600,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -2767,18 +2609,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -2914,24 +2744,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -3111,6 +2923,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -3250,26 +3090,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -3279,18 +3099,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -3426,24 +3234,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -3623,6 +3413,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -3779,26 +3597,6 @@ proxy-groups:
       - 🇯🇵_JP_1️⃣6️⃣_132
       - 🇭🇰_HK_1️⃣6️⃣_133
       - 🇯🇵_JP_1️⃣6️⃣_134
-      - 🇯🇵_JP_1️⃣6️⃣_135
-      - undefined_1️⃣6️⃣_136
-      - 🇺🇸_US_1️⃣6️⃣_137
-      - 🇺🇸_US_1️⃣6️⃣_138
-      - 🇵🇦_PA_1️⃣6️⃣_139
-      - 🇭🇰_HK_1️⃣6️⃣_140
-      - 🇭🇰_HK_1️⃣6️⃣_141
-      - undefined_1️⃣6️⃣_142
-      - undefined_1️⃣6️⃣_143
-      - undefined_1️⃣6️⃣_144
-      - 🇺🇸_US_1️⃣6️⃣_145
-      - 🇭🇰_HK_1️⃣6️⃣_146
-      - 🇯🇵_JP_1️⃣6️⃣_147
-      - 🇯🇵_JP_1️⃣6️⃣_148
-      - 🇯🇵_JP_1️⃣6️⃣_149
-      - 🇯🇵_JP_1️⃣6️⃣_150
-      - 🇯🇵_JP_1️⃣6️⃣_151
-      - 🇳🇱_NL_1️⃣6️⃣_152
-      - 🇳🇱_NL_1️⃣6️⃣_153
-      - 🇺🇸_US_1️⃣6️⃣_154
       - 🇺🇸_US_1️⃣6️⃣_155
       - 🇭🇰_HK_1️⃣6️⃣_156
       - 🇹🇼_TW_1️⃣6️⃣_157
@@ -3808,18 +3606,6 @@ proxy-groups:
       - 🇺🇸_US_1️⃣6️⃣_161
       - 🇨🇷_CR_1️⃣6️⃣_162
       - 🇨🇷_CR_1️⃣6️⃣_163
-      - 🇰🇷_KR_1️⃣6️⃣_164
-      - 🇰🇷_KR_1️⃣6️⃣_165
-      - undefined_1️⃣6️⃣_166
-      - 🇨🇦_CA_1️⃣6️⃣_167
-      - 🇰🇷_KR_1️⃣6️⃣_168
-      - 🇭🇰_HK_1️⃣6️⃣_169
-      - undefined_1️⃣6️⃣_170
-      - 🇨🇦_CA_1️⃣6️⃣_171
-      - 🇺🇸_US_1️⃣6️⃣_172
-      - 🇺🇸_US_1️⃣6️⃣_173
-      - 🇺🇸_US_1️⃣6️⃣_174
-      - 🇺🇸_US_1️⃣6️⃣_175
       - 🇸🇬_SG_1️⃣6️⃣_176
       - 🇺🇸_US_1️⃣6️⃣_177
       - 🇺🇸_US_1️⃣6️⃣_178
@@ -3955,24 +3741,6 @@ proxy-groups:
       - 🇨🇳_CN_1️⃣6️⃣_308
       - 🇨🇳_CN_1️⃣6️⃣_309
       - 🇨🇳_CN_1️⃣6️⃣_310
-      - 🇨🇳_CN_1️⃣6️⃣_311
-      - 🇨🇳_CN_1️⃣6️⃣_312
-      - 🇨🇳_CN_1️⃣6️⃣_313
-      - 🇨🇳_CN_1️⃣6️⃣_314
-      - 🇨🇳_CN_1️⃣6️⃣_315
-      - 🇨🇳_CN_1️⃣6️⃣_316
-      - 🇨🇳_CN_1️⃣6️⃣_317
-      - 🇨🇳_CN_1️⃣6️⃣_318
-      - 🇻🇳_VN_1️⃣6️⃣_319
-      - 🇨🇳_CN_1️⃣6️⃣_320
-      - 🇨🇳_CN_1️⃣6️⃣_321
-      - 🇨🇳_CN_1️⃣6️⃣_322
-      - 🇨🇳_CN_1️⃣6️⃣_323
-      - 🇨🇳_CN_1️⃣6️⃣_324
-      - 🇨🇳_CN_1️⃣6️⃣_325
-      - 🇨🇳_CN_1️⃣6️⃣_326
-      - 🇨🇳_CN_1️⃣6️⃣_327
-      - 🇯🇵_JP_1️⃣6️⃣_328
       - 🇭🇰_HK_1️⃣6️⃣_329
       - 🇭🇰_HK_1️⃣6️⃣_330
       - 🇺🇸_US_1️⃣6️⃣_331
@@ -4152,6 +3920,34 @@ proxy-groups:
       - 🇧🇿_BZ_1️⃣6️⃣_505
       - 🇭🇰_HK_1️⃣6️⃣_506
       - 🇺🇸_US_1️⃣6️⃣_507
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A1
+      - 上海CN2丨俄罗斯丨解锁流媒体丨A2
+      - 上海CN2丨台湾丨解锁流媒体线路
+      - 上海CN2丨日本EC2丨解锁流媒体丨A1
+      - 上海CN2丨日本丨解锁流媒体丨A1
+      - 上海CN2丨美国北加州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A1
+      - 上海CN2丨美国新泽西州丨解锁流媒体丨A2
+      - 上海CN2丨英国伦敦丨解锁流媒体丨A1
+      - 上海CN2丨韩国首尔丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A1
+      - 上海CN2丨香港EC2丨解锁流媒体丨A2
+      - 上海CN2丨香港丨解锁流媒体丨A1
+      - 上海CN2丨香港丨解锁流媒体丨A2
+      - 广州丨台湾丨解锁流媒体线路
+      - 广州丨新加坡丨解锁流媒体丨A1
+      - 广州丨日本EC2丨解锁流媒体丨A1
+      - 广州丨日本丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A1
+      - 广州丨美国北加州丨解锁流媒体丨A2
+      - 广州丨美国新泽西州丨解锁流媒体丨A1
+      - 广州丨美国新泽西州丨解锁流媒体丨A2
+      - 广州丨英国伦敦丨解锁流媒体丨A1
+      - 广州丨韩国丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A1
+      - 广州丨香港EC2丨解锁流媒体丨A2
+      - 广州丨香港EC2丨解锁流媒体丨A3
+      - 紧急线路站点故障时优先恢复
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
