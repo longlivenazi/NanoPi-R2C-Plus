@@ -1,8 +1,8 @@
 #
 #-------------------------------------------------------------#
-#  创建者：https://v2rayse.com
+#  创建者：MCY
 #  创建时间：2023-02-01 12:12:43
-#  模版：v2rayse默认模版
+#  模版：默认模版
 #  节点数量：857
 #-------------------------------------------------------------#
 #
@@ -870,47 +870,6 @@ proxies:
   - {"type":"vmess","name":"🇨🇳_CN_0️⃣1️⃣_855","ws-opts":{"path":"/","headers":{"host":"cu.kapoknode.com"}},"server":"cu.kapoknode.com","port":"25902","uuid":"e91f1db0-7440-4eee-b1d2-ca12ab4de40d","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸_US_0️⃣1️⃣_856","ws-opts":{"path":"/cctv13/hd.m3u8","headers":{"host":"mg1.htvviru.top"}},"server":"mg1.htvviru.top","port":"131","uuid":"3d81e6fb-c7f0-4791-af2e-82c93d149483","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸_US_0️⃣1️⃣_857","server":"trny.ballistics.top","port":443,"password":"0c355515-b1e5-4c0a-b843-e1defbe7c0fa","udp":true,"skip-cert-verify":true,"sni":"trny.ballistics.top"}
-  - {"name":"v2ray-Hong Kong 01","type":"vmess","server":"aquaril.verdens.me","port":25021,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Hong Kong 02","type":"vmess","server":"centauri.verdens.me","port":25025,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Hong Kong 03","type":"vmess","server":"leonis.verdens.me","port":25022,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Hong Kong 04","type":"vmess","server":"ophiuchi.verdens.me","port":25026,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Hong Kong 05","type":"vmess","server":"piscium.verdens.me","port":25023,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Japan 01","type":"vmess","server":"aquaril.verdens.me","port":25027,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Japan 02","type":"vmess","server":"centauri.verdens.me","port":25024,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Singapore 01","type":"vmess","server":"leonis.verdens.me","port":25012,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Singapore 02","type":"vmess","server":"ophiuchi.verdens.me","port":25013,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Taiwan 01","type":"vmess","server":"piscium.verdens.me","port":25014,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Taiwan 02","type":"vmess","server":"piscium.verdens.me","port":25015,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-United States 01","type":"vmess","server":"aquaril.verdens.me","port":25006,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-United States 02","type":"vmess","server":"centauri.verdens.me","port":25007,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-United States 03","type":"vmess","server":"leonis.verdens.me","port":25008,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-United States 04","type":"vmess","server":"ophiuchi.verdens.me","port":25009,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Z-Canada","type":"vmess","server":"piscium.verdens.me","port":25016,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Z-England","type":"vmess","server":"aquaril.verdens.me","port":25019,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Z-Germany","type":"vmess","server":"centauri.verdens.me","port":25017,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"v2ray-Z-India","type":"vmess","server":"leonis.verdens.me","port":25018,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 01","type":"vmess","server":"andromedae.weltknoten.cloud","port":30001,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 02","type":"vmess","server":"monocerotis.weltknoten.cloud","port":30002,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 03","type":"vmess","server":"orionis.weltknoten.cloud","port":30003,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 04","type":"vmess","server":"phoenicis.weltknoten.cloud","port":30004,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 05","type":"vmess","server":"scorpii.weltknoten.cloud","port":30020,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 06","type":"vmess","server":"andromedae.weltknoten.cloud","port":30021,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 07","type":"vmess","server":"monocerotis.weltknoten.cloud","port":30022,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Hong Kong 08","type":"vmess","server":"orionis.weltknoten.cloud","port":30023,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Japan 01","type":"vmess","server":"phoenicis.weltknoten.cloud","port":30005,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Japan 02","type":"vmess","server":"scorpii.weltknoten.cloud","port":30006,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Singapore 01","type":"vmess","server":"andromedae.weltknoten.cloud","port":30007,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Singapore 02","type":"vmess","server":"monocerotis.weltknoten.cloud","port":30008,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Taiwan 01","type":"vmess","server":"orionis.weltknoten.cloud","port":30009,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Taiwan 02","type":"vmess","server":"orionis.weltknoten.cloud","port":30010,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-United States 01","type":"vmess","server":"phoenicis.weltknoten.cloud","port":30011,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-United States 02","type":"vmess","server":"scorpii.weltknoten.cloud","port":30012,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-United States 03","type":"vmess","server":"andromedae.weltknoten.cloud","port":30013,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-United States 04","type":"vmess","server":"monocerotis.weltknoten.cloud","port":30014,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Z-Canada","type":"vmess","server":"orionis.weltknoten.cloud","port":30018,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Z-England","type":"vmess","server":"phoenicis.weltknoten.cloud","port":30015,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Z-Germany","type":"vmess","server":"scorpii.weltknoten.cloud","port":30017,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
-  - {"name":"VIP-v2ray-Z-India","type":"vmess","server":"andromedae.weltknoten.cloud","port":30016,"uuid":"ffd275a1-59a9-3911-bd58-e2c12a44a7b5","alterId":2,"cipher":"auto","udp":true,"tls":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
