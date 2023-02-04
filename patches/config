@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
 #  创建者：MCY
-#  创建时间：2023-02-04 10:49:01
+#  创建时间：2023-02-04 10:52:22
 #  模版：默认模版
-#  节点数量：886
+#  节点数量：952
 #-------------------------------------------------------------#
 #
 port: 7890
@@ -125,7 +125,6 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_0️⃣3️⃣_114-110","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash6.ssr-free.xyz"}},"server":"34.145.145.76","port":443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","name":"🇰🇷_KR_0️⃣3️⃣_115-111","server":"43.201.24.164","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
   - {"type":"vmess","name":"🇺🇸_US_0️⃣3️⃣_116-112","ws-opts":{"path":"/6546","headers":{"host":"jp15.cctvvip.ml"}},"server":"jp15.cctvvip.ml","port":"80","uuid":"04852071-6116-41ed-8455-2b04543f3c8a","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇨🇳_CN_0️⃣3️⃣_117-113","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30025","uuid":"199e1cde-cbc9-4754-93ea-4aae2af2e6ca","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸_US_0️⃣3️⃣_118-114","server":"us2.trojanvh.xyz","port":80,"password":"011eb011-c68e-4f92-80eb-f9bbef707bef","udp":true,"skip-cert-verify":true,"sni":"us2.trojanvh.xyz"}
   - {"type":"vmess","name":"🇰🇷_KR_0️⃣3️⃣_119-115","server":"34.64.63.210","port":"35024","uuid":"505b643f-cd16-49f7-8a2e-82278eac59d5","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"ssr","name":"🇨🇳_CN_0️⃣3️⃣_120-116","server":"120.198.71.151","port":560,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","obfs-param":"t.me/vpnhat","protocol-param":"63110:ai1456415"}
@@ -234,9 +233,6 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_0️⃣3️⃣_228-219","ws-opts":{"path":"/gb811","headers":{"host":"uk.181227.xyz"}},"server":"uk.181227.xyz","port":"80","uuid":"775594bf-5a6f-4a61-fa16-b6f72d2217b9","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸_US_0️⃣3️⃣_229-220","server":"174.137.48.94","port":"6337","uuid":"1398b8fe-9a6e-4a3e-8abc-fea50a6c19fe","alterId":"0","cipher":"auto","network":"tcp"}
   - {"type":"trojan","name":"🇨🇳_CN_0️⃣3️⃣_230-221","server":"iplc.xiaohouzi.club","port":20015,"password":"a3278882-3614-39cf-a3d6-faefa8c910ab","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳_CN_0️⃣3️⃣_231-222","server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30049,"password":"9191772c-cac0-40ee-b2fb-93ad0bc46546","udp":true,"skip-cert-verify":true,"sni":"v2sg02.fuqiangren.com"}
-  - {"type":"trojan","name":"🇨🇳_CN_0️⃣3️⃣_232-223","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20221,"password":"9191772c-cac0-40ee-b2fb-93ad0bc46546","udp":true,"skip-cert-verify":true,"sni":"v2jp01.fuqiangren.com"}
-  - {"type":"trojan","name":"🇨🇳_CN_0️⃣3️⃣_233-224","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20220,"password":"9191772c-cac0-40ee-b2fb-93ad0bc46546","udp":true,"skip-cert-verify":true,"sni":"v2jp01.fuqiangren.com"}
   - {"type":"vmess","name":"🇺🇸_US_0️⃣3️⃣_234-225","ws-opts":{"path":"/dwujvws","headers":{"host":"guil.tk"}},"server":"198.41.200.200","port":"8443","uuid":"bed5ab43-e8ba-4818-aab8-a047a6660b39","alterId":"0","cipher":"auto","network":"ws","tls":true}
   - {"type":"vmess","name":"🇰🇷_KR_0️⃣3️⃣_235-226","ws-opts":{"path":"/"},"server":"129.154.59.116","port":"35212","uuid":"5ab3f1a4-0793-4f2a-f14a-d427105aa99a","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇸🇬_SG_0️⃣3️⃣_236-227","server":"167.99.31.176","port":"48771","uuid":"d58f81a7-083a-4ff2-e50a-7078c58bbccf","alterId":"0","cipher":"auto","network":"tcp"}
@@ -899,6 +895,76 @@ proxies:
   - {"type":"vmess","name":"@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"ssrsub.v10.asuka.buzz"}},"server":"cf-lt.sharecentre.online","port":"8080","uuid":"35b50ae8-93ba-4f1e-96d8-fa682cc385d8","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"ssrsub.v10.asuka.buzz"}},"server":"no.aries.ovh","port":"8080","uuid":"35b50ae8-93ba-4f1e-96d8-fa682cc385d8","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054","ws-opts":{"path":"/aries?ed=2048","headers":{"host":"linode-in.cloudflare.quest"}},"server":"no.aries.ovh","port":"2052","uuid":"12c3b55f-f225-4daa-adf3-39f8cf3969ed","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20","server":"hw3.lianpi.xyz","port":23127,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇻🇦VA梵蒂冈没有人就像你从来不喷水","server":"hw.lianpi.xyz","port":23128,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密","server":"hw3.lianpi.xyz","port":23126,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇮🇸冰岛里没有冰就像你的心里没有爱","server":"hw3.lianpi.xyz","port":19198,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇹🇷TR火鸡","server":"hw3.lianpi.xyz","port":11451,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇯🇵海外内网IPLC数据传输","server":"hw2.lianpi.xyz","port":19198,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇸🇬海外内网IEPL数据传输","server":"hw.lianpi.xyz","port":11451,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇷🇺RU莫斯科莫斯科半夜起来安地板","server":"hw.lianpi.xyz","port":19198,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷","server":"hw2.lianpi.xyz","port":11451,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇩🇪DE1二战希特勒专属天堂优化","server":"de1.lianpi.xyz","port":55389,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇩🇪DE2奥恰洛夫","server":"de2.lianpi.xyz","port":45278,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"de2.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇭🇰HK1喵内","server":"hk1.lianpi.xyz","port":34180,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧","server":"hk2.lianpi.xyz","port":28069,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"hk2.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇭🇰HK3蛇总长达10分钟的漫步者开箱视频","server":"hk3.lianpi.xyz","port":44899,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇭🇰HK4index一单又一单的Apple","server":"hk4.lianpi.xyz","port":33514,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"hk4.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸US1胡桃的小穴","server":"fuck.lianpi.xyz","port":34167,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇺🇸US2优菈的屁股","server":"fuck2.lianpi.xyz","port":45198,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"fuck2.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸US3绫华的胖次","server":"fuck3.lianpi.xyz","port":47291,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇺🇸US4宵宫的奶子","server":"fuck4.lianpi.xyz","port":13498,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"fuck4.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸US5钟离的寄吧","server":"fuck5.lianpi.xyz","port":59019,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇺🇸US6纳西妲的脚","server":"fuck6.lianpi.xyz","port":48057,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"fuck6.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸US7龙娘的屁眼","server":"fuck7.lianpi.xyz","port":37829,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇰🇷KR1甘雨的连体袜","server":"ko1.lianpi.xyz","port":51256,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"ko1.lianpi.xyz","network":"tcp"}
+  - {"type":"trojan","name":"🇰🇷KR2可莉的小脸蛋","server":"ko2.lianpi.xyz","port":64123,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"ko2.lianpi.xyz","network":"tcp"}
+  - {"type":"trojan","name":"🇨🇳TW水原千鹤","server":"sldron.kctr2038.icu","port":11189,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"sldron.kctr2038.icu","network":"tcp"}
+  - {"type":"ss","name":"🇨🇳TW2夏洛特","server":"sldron.kctr2038.icu","port":56568,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇯🇵JP1帆的无毛粉色白虎大批","server":"jp1.lianpi.xyz","port":52422,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡","server":"jp2.lianpi.xyz","port":45127,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"jp2.lianpi.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇯🇵JP3双叶理央","server":"jp3.lianpi.xyz","port":34234,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"trojan","name":"🇯🇵JP4土间埋","server":"jp4.lianpi.xyz","port":54234,"password":"e934cda3-8f19-4c78-8260-b42ca857f77d","udp":true,"skip-cert-verify":true,"sni":"jp4.lianpi.xyz","network":"tcp"}
+  - {"type":"vmess","name":"🇯🇵JP5良民のFakeIPLC","ws-opts":{"path":"/lianpiwebsocket"},"server":"jp5.lianpi.xyz","port":"45123","uuid":"e934cda3-8f19-4c78-8260-b42ca857f77d","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"🇯🇵JP6伊里户结女","server":"jp6.lianpi.xyz","port":23234,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"ss","name":"🇯🇵JP8购物车的108种操逼姿势","server":"jp8.lianpi.xyz","port":49635,"cipher":"chacha20-ietf-poly1305","password":"e934cda3-8f19-4c78-8260-b42ca857f77d"}
+  - {"type":"vmess","name":"🚇[联通]日本·F1|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30009","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[联通]日本·F1|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30044","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[联通]日本·F1|03","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30021","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[联通]日本·F1|04","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30045","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"💎[T1]日本|01","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20220,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2jp01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]日本|02","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20221,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2jp01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[v1]日本|05","server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30054,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v1jp01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[v1]日本|06","server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30055,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v1jp02.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"🚇[移动]香港·E1|01","server":"sinagz01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30017,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2hgc01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"🚇[移动]香港·E1|02","server":"sinagz01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30005,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2hgc01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"🚇[移动]香港·E1|03","server":"sinagz01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30006,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2hgc02.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"[直连]日本·U1|01","server":"zzjp01.fuqiangren.com","port":20220,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"zzjp01.fuqiangren.com","network":"tcp"}
+  - {"type":"vmess","name":"🚇[联通]香港·F1|01","ws-opts":{"path":"/aceamedv","headers":{"host":"gz.fastcloud.club"}},"server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30015","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[联通]香港·F1|02","ws-opts":{"path":"/aceamedv","headers":{"host":"gz.fastcloud.club"}},"server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30023","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[联通]香港·F1|03","ws-opts":{"path":"/aceamedv","headers":{"host":"gz.fastcloud.club"}},"server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30024","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]新加坡|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30035","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🚇[联通]韩国·E1|01","server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30056,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v1kr01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"🚇[联通]韩国·E1|02","server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30057,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v1kr02.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[v1]新加坡|02","server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30050,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg02.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[v1]新加坡|03","server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30049,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg02.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]新加坡|01","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20222,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]新加坡|02","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20223,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg01.fuqiangren.com","network":"tcp"}
+  - {"type":"vmess","name":"(TG频道@kxswa)_1","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30007","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]香港原生|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30008","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🚇[v1]台湾原生|01","server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30002,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2tw01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]美国|01","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20224,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2usa01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]美国|02","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20225,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2usa01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]英国|01","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20226,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2uk01.fuqiangren.com","network":"tcp"}
+  - {"type":"trojan","name":"💎[T1]英国|02","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20227,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2uk01.fuqiangren.com","network":"tcp"}
+  - {"type":"vmess","name":"🚇[v1]美国|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30048","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]美国|03","ws-opts":{"path":"/aceamedv","headers":{"host":"gz.fastcloud.club"}},"server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30000","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]英国|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30016","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]英国|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30025","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]英国原生|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30040","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]英国原生|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30041","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🚇[v1]印度|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30027","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"(TG频道@kxswa)_2","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30028","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -1017,7 +1083,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -1126,9 +1191,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -1791,6 +1853,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1909,7 +2041,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -2018,9 +2149,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -2683,6 +2811,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -2801,7 +2999,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -2910,9 +3107,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -3575,6 +3769,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -3692,7 +3956,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -3801,9 +4064,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -4466,6 +4726,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -4583,7 +4913,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -4692,9 +5021,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -5357,6 +5683,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -5474,7 +5870,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -5583,9 +5978,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -6248,6 +6640,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -6382,7 +6844,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_114-110
       - 🇰🇷_KR_0️⃣3️⃣_115-111
       - 🇺🇸_US_0️⃣3️⃣_116-112
-      - 🇨🇳_CN_0️⃣3️⃣_117-113
       - 🇺🇸_US_0️⃣3️⃣_118-114
       - 🇰🇷_KR_0️⃣3️⃣_119-115
       - 🇨🇳_CN_0️⃣3️⃣_120-116
@@ -6491,9 +6952,6 @@ proxy-groups:
       - 🇺🇸_US_0️⃣3️⃣_228-219
       - 🇺🇸_US_0️⃣3️⃣_229-220
       - 🇨🇳_CN_0️⃣3️⃣_230-221
-      - 🇨🇳_CN_0️⃣3️⃣_231-222
-      - 🇨🇳_CN_0️⃣3️⃣_232-223
-      - 🇨🇳_CN_0️⃣3️⃣_233-224
       - 🇺🇸_US_0️⃣3️⃣_234-225
       - 🇰🇷_KR_0️⃣3️⃣_235-226
       - 🇸🇬_SG_0️⃣3️⃣_236-227
@@ -7156,6 +7614,76 @@ proxy-groups:
       - '@SSRSUB-V36-付费推荐:suo.yt/ssrsub-1052'
       - '@SSRSUB-V37-付费推荐:suo.yt/ssrsub-1053'
       - '@SSRSUB-V53-付费推荐:suo.yt/ssrsub-1054'
+      - 🇦🇷AR阿根廷没有C罗就像你的对象没有批20X20
+      - 🇻🇦VA梵蒂冈没有人就像你从来不喷水
+      - 🇬🇧UK大不列颠和北爱尔兰不怎么联合就像我们从不亲密
+      - 🇮🇸冰岛里没有冰就像你的心里没有爱
+      - 🇹🇷TR火鸡
+      - 🇯🇵海外内网IPLC数据传输
+      - 🇸🇬海外内网IEPL数据传输
+      - 🇷🇺RU莫斯科莫斯科半夜起来安地板
+      - 🇮🇱IL中国不能失去山东就像西方不能失去耶路撒冷
+      - 🇩🇪DE1二战希特勒专属天堂优化
+      - 🇩🇪DE2奥恰洛夫
+      - 🇭🇰HK1喵内
+      - 🇭🇰HK2E宝长达18CM直径8CM的深渊粉头寄吧
+      - 🇭🇰HK3蛇总长达10分钟的漫步者开箱视频
+      - 🇭🇰HK4index一单又一单的Apple
+      - 🇺🇸US1胡桃的小穴
+      - 🇺🇸US2优菈的屁股
+      - 🇺🇸US3绫华的胖次
+      - 🇺🇸US4宵宫的奶子
+      - 🇺🇸US5钟离的寄吧
+      - 🇺🇸US6纳西妲的脚
+      - 🇺🇸US7龙娘的屁眼
+      - 🇰🇷KR1甘雨的连体袜
+      - 🇰🇷KR2可莉的小脸蛋
+      - 🇨🇳TW水原千鹤
+      - 🇨🇳TW2夏洛特
+      - 🇯🇵JP1帆的无毛粉色白虎大批
+      - 🇯🇵JP2牛肉面的螺旋陀螺快准狠粉鸡鸡
+      - 🇯🇵JP3双叶理央
+      - 🇯🇵JP4土间埋
+      - 🇯🇵JP5良民のFakeIPLC
+      - 🇯🇵JP6伊里户结女
+      - 🇯🇵JP8购物车的108种操逼姿势
+      - 🚇[联通]日本·F1|01
+      - 🚇[联通]日本·F1|02
+      - 🚇[联通]日本·F1|03
+      - 🚇[联通]日本·F1|04
+      - 💎[T1]日本|01
+      - 💎[T1]日本|02
+      - 💎[v1]日本|05
+      - 💎[v1]日本|06
+      - 🚇[移动]香港·E1|01
+      - 🚇[移动]香港·E1|02
+      - 🚇[移动]香港·E1|03
+      - '[直连]日本·U1|01'
+      - 🚇[联通]香港·F1|01
+      - 🚇[联通]香港·F1|02
+      - 🚇[联通]香港·F1|03
+      - 🚇[v1]新加坡|01
+      - 🚇[联通]韩国·E1|01
+      - 🚇[联通]韩国·E1|02
+      - 💎[v1]新加坡|02
+      - 💎[v1]新加坡|03
+      - 💎[T1]新加坡|01
+      - 💎[T1]新加坡|02
+      - (TG频道@kxswa)_1
+      - 🚇[v1]香港原生|02
+      - 🚇[v1]台湾原生|01
+      - 💎[T1]美国|01
+      - 💎[T1]美国|02
+      - 💎[T1]英国|01
+      - 💎[T1]英国|02
+      - 🚇[v1]美国|02
+      - 🚇[v1]美国|03
+      - 🚇[v1]英国|01
+      - 🚇[v1]英国|02
+      - 🚇[v1]英国原生|01
+      - 🚇[v1]英国原生|02
+      - 🚇[v1]印度|01
+      - (TG频道@kxswa)_2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
