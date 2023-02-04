@@ -863,7 +863,7 @@ proxies:
   - {"type":"trojan","name":"💎[v1]新加坡|03","server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30049,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg02.fuqiangren.com"}
   - {"type":"trojan","name":"💎[T1]新加坡|01","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20222,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg01.fuqiangren.com"}
   - {"type":"trojan","name":"💎[T1]新加坡|02","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20223,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2sg01.fuqiangren.com"}
-  - {"type":"vmess","name":"(TG频道@kxswa)_1","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30007","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"()_1","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30007","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🚇[v1]香港原生|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh02.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30008","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🚇[v1]台湾原生|01","server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":30002,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2tw01.fuqiangren.com"}
   - {"type":"trojan","name":"💎[T1]美国|01","server":"sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":20224,"password":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","udp":true,"skip-cert-verify":true,"sni":"v2usa01.fuqiangren.com"}
@@ -877,7 +877,7 @@ proxies:
   - {"type":"vmess","name":"🚇[v1]英国原生|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30040","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🚇[v1]英国原生|02","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30041","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🚇[v1]印度|01","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30027","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"(TG频道@kxswa)_2","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30028","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"()_2","ws-opts":{"path":"/aceamedv","headers":{"host":"sh01.fastcloud.club"}},"server":"sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com","port":"30028","uuid":"4fee4b1b-9137-44e6-9f70-6ef80b3e0708","alterId":"0","cipher":"auto","network":"ws"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -1734,7 +1734,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -1748,7 +1748,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -2605,7 +2605,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -2619,7 +2619,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -3476,7 +3476,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -3490,7 +3490,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -4346,7 +4346,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -4360,7 +4360,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -5216,7 +5216,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -5230,7 +5230,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -6086,7 +6086,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -6100,7 +6100,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -6973,7 +6973,7 @@ proxy-groups:
       - 💎[v1]新加坡|03
       - 💎[T1]新加坡|01
       - 💎[T1]新加坡|02
-      - (TG频道@kxswa)_1
+      - ()_1
       - 🚇[v1]香港原生|02
       - 🚇[v1]台湾原生|01
       - 💎[T1]美国|01
@@ -6987,7 +6987,7 @@ proxy-groups:
       - 🚇[v1]英国原生|01
       - 🚇[v1]英国原生|02
       - 🚇[v1]印度|01
-      - (TG频道@kxswa)_2
+      - ()_2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
