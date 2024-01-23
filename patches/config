@@ -1,9 +1,9 @@
 ####################################
 # 创建者：
 # 客户端：Clash
-# 创建时间：2024-01-23 10:24:52
+# 创建时间：2024-01-23 10:26:05
 # 使用模版：V2RaySE 默认模版
-# 节点数量：278
+# 节点数量：277
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -203,7 +203,6 @@ proxies:
   - {"name":"🇺🇸US0️⃣1️⃣2️⃣3️⃣119","type":"vmess","server":"tgju.org","port":443,"cipher":"auto","uuid":"562ae412-d7b5-4f1e-dd0d-82e073193b21","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/fa","headers":{"host":"cdn.pokerad.fun"}}}
   - {"name":"🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120","type":"ss","server":"180.149.44.120","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
   - {"name":"🇬🇧GB0️⃣1️⃣2️⃣3️⃣121","type":"ss","server":"13.41.99.59","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧GB0️⃣1️⃣2️⃣3️⃣122","type":"ss","server":"series-a1.samanehha.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬SG0️⃣1️⃣2️⃣3️⃣123","type":"ssr","server":"103.172.116.79","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb","obfs":"plain","protocol":"origin","group":"SSRProvider"}
   - {"name":"🇸🇬SG0️⃣1️⃣2️⃣3️⃣124","type":"ssr","server":"103.172.116.79","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb","obfs":"plain","protocol":"origin","group":"SSRProvider"}
   - {"name":"🇸🇬SG0️⃣1️⃣2️⃣3️⃣125","type":"ssr","server":"103.172.116.79","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb","obfs":"plain","protocol":"origin","group":"SSRProvider"}
@@ -487,7 +486,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
@@ -771,7 +769,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
@@ -1055,7 +1052,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
@@ -1338,7 +1334,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
@@ -1621,7 +1616,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
@@ -1904,7 +1898,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
@@ -2204,7 +2197,6 @@ proxy-groups:
       - 🇺🇸US0️⃣1️⃣2️⃣3️⃣119
       - 🇦🇿AZ0️⃣1️⃣2️⃣3️⃣120
       - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣121
-      - 🇬🇧GB0️⃣1️⃣2️⃣3️⃣122
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣123
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣124
       - 🇸🇬SG0️⃣1️⃣2️⃣3️⃣125
