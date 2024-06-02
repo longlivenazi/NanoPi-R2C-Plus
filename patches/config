@@ -1,6 +1,6 @@
 #
 #-------------------------------------------------------------#
-#  创建者：
+#  创建者：https://v2rayse.com
 #  创建时间：2024-06-02 22:35:20
 #  模版：v2rayse默认模版
 #  节点数量：395
@@ -212,10 +212,8 @@ proxies:
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣197","ws-opts":{"path":"/?ed=2048&Telegram🇨🇳","headers":{"host":"a.prapt1.ir"}},"server":"104.21.227.35","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣198","ws-opts":{"path":"/","headers":{"host":"s1c.v2.v001sss.xyz"}},"server":"104.21.8.157","port":2082,"uuid":"112ac36f-3f53-4e26-8371-d25c028e1b9a","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣199","ws-opts":{"path":"/?ed=2048&Telegram🇨🇳
-    @WangCai08","headers":{"host":"a.prapt1.ir"}},"server":"104.21.220.178","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣200","ws-opts":{"path":"/","headers":{"host":"a.prapt1.ir"}},"server":"104.21.224.40","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣201","ws-opts":{"path":"/?ed=2048&Telegram🇨🇳
-    @WangCai_8","headers":{"host":"a.prapt4.ir"}},"server":"104.21.239.97","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣202","ws-opts":{"path":"/?ed=2048&Telegram🇨🇳","headers":{"host":"a.prapt1.ir"}},"server":"104.21.231.56","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣203","server":"65.75.192.30","port":19075,"uuid":"b86bf03e-14d9-4442-ea65-241a0ad042c0","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"vmess","name":"🇫🇷FR0️⃣6️⃣0️⃣2️⃣204","server":"213.32.63.176","port":3586,"uuid":"bae4c70d-ed9d-46b8-af33-74ea1e1319dd","alterId":0,"cipher":"auto","network":"tcp"}
@@ -226,7 +224,6 @@ proxies:
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣209","ws-opts":{"path":"/","headers":{"host":"cdn.vds-server.ir"}},"server":"cdn.vds-server.ir","port":8880,"uuid":"0d1bf26a-ce97-4707-a270-7f4d2ae37334","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣210","ws-opts":{"path":"/?ed=2048","headers":{"host":"VKJi7.cnbete.life"}},"server":"104.21.236.54","port":80,"uuid":"1973e770-e615-11ee-b238-205c6d5f5d78","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣211","ws-opts":{"path":"/?ed=2048&Telegram🇨🇳
-    @WangCai08","headers":{"host":"a.prapt1.ir"}},"server":"104.21.230.34","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣212","ws-opts":{"path":"/?ed=2048","headers":{"host":"hDIgP.cnbete.life"}},"server":"104.21.237.91","port":80,"uuid":"d31c39e0-e614-11ee-b333-205c6d5f5d78","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣213","ws-opts":{"path":"/","headers":{"host":"a.prapt4.ir"}},"server":"104.21.231.59","port":80,"uuid":"7022982f-da4c-48c9-c660-b2315abdcf7e","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸US0️⃣6️⃣0️⃣2️⃣214","server":"104.26.8.202","port":443,"password":"559c3b5f-3dd1-47e4-94ad-017cb392a7ba","udp":true,"skip-cert-verify":true,"sni":"de1.trojanvpn.de","network":"ws","ws-opts":{"path":"/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config","headers":{"host":"de1.trojanvpn.dE"}}}
