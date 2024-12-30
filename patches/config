@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2024-12-30 10:03:37
+# 创建时间：2024-12-30 10:06:47
 # 使用模版：V2RaySE 默认模版
-# 节点数量：65
+# 节点数量：49
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -133,22 +133,6 @@ proxies:
   - {"name":"🇺🇸US1️⃣2️⃣1️⃣9️⃣64","type":"trojan","server":"3.19.25.7","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.ukhttp/1.1","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇧🇬BG1️⃣2️⃣1️⃣9️⃣65","type":"ss","server":"149.34.244.82","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"🇷🇺RU1️⃣2️⃣1️⃣9️⃣76","type":"ss","server":"217.30.10.18","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
-  - {"name":"🇺🇸US1️⃣2️⃣1️⃣9️⃣78","type":"ss","server":"173.244.56.6","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-  - {"name":"🇫🇷FR1️⃣2️⃣1️⃣9️⃣80","type":"trojan","server":"15.236.137.181","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇬🇧GB1️⃣2️⃣1️⃣9️⃣82","type":"ss","server":"77.72.5.150","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
-  - {"name":"🇺🇸US1️⃣2️⃣1️⃣9️⃣85","type":"trojan","server":"3.74.194.150","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇩🇪DE1️⃣2️⃣1️⃣9️⃣87","type":"ss","server":"46.183.184.62","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
-  - {"name":"🇩🇪DE1️⃣2️⃣1️⃣9️⃣88","type":"ss","server":"84.19.31.63","port":50841,"password":"2EtPqn6HYjUNcHohLfUpFQwnfjCCQ5mh1mJdEMCBucuWZ9P1udkRKHnVxuo55k1KXz2Fo6jrgt18W66opty1e4bm1jzfCfBb","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇸🇪SE1️⃣2️⃣1️⃣9️⃣90","type":"ss","server":"192.36.27.94","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
-  - {"name":"🇫🇷FR1️⃣2️⃣1️⃣9️⃣92","type":"ss","server":"soonhk.soon.guru","port":40000,"password":"F585FCDB-6351-48D4-82C1-599B5447A589","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇺🇸US1️⃣2️⃣1️⃣9️⃣93","type":"ss","server":"series-a2-mec.varzesh360.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇬🇧GB1️⃣2️⃣1️⃣9️⃣103","type":"ss","server":"series-a1.samanehha.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇦🇺AU1️⃣2️⃣1️⃣9️⃣104","type":"ss","server":"43.203.122.162","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"🇦🇺AU1️⃣2️⃣1️⃣9️⃣105","type":"ss","server":"43.202.65.32","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"🇺🇸US1️⃣2️⃣1️⃣9️⃣106","type":"ss","server":"3.36.126.174","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
-  - {"name":"🇺🇸US1️⃣2️⃣1️⃣9️⃣107","type":"trojan","server":"16.170.73.235","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🏳️unKnow1️⃣2️⃣1️⃣9️⃣108","type":"vmess","server":"149.7.16.174","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkvws"}}
-  - {"name":"🇦🇺AU1️⃣2️⃣1️⃣9️⃣109","type":"ss","server":"43.203.243.93","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇷🇺RU1️⃣2️⃣1️⃣9️⃣119","type":"ss","server":"217.30.10.18","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
 proxy-groups:
   - name: 🚀 节点选择
@@ -204,22 +188,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
   - name: ♻️ 自动选择
     type: url-test
@@ -275,22 +243,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
   - name: 🌍 国外媒体
     type: select
@@ -346,22 +298,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
   - name: 📲 电报信息
     type: select
@@ -416,22 +352,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
   - name: Ⓜ️ 微软服务
     type: select
@@ -486,22 +406,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
   - name: 🍎 苹果服务
     type: select
@@ -556,22 +460,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
   - name: 🎯 全球直连
     type: select
@@ -643,22 +531,6 @@ proxy-groups:
       - 🇺🇸US1️⃣2️⃣1️⃣9️⃣64
       - 🇧🇬BG1️⃣2️⃣1️⃣9️⃣65
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣76
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣78
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣80
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣82
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣85
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣87
-      - 🇩🇪DE1️⃣2️⃣1️⃣9️⃣88
-      - 🇸🇪SE1️⃣2️⃣1️⃣9️⃣90
-      - 🇫🇷FR1️⃣2️⃣1️⃣9️⃣92
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣93
-      - 🇬🇧GB1️⃣2️⃣1️⃣9️⃣103
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣104
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣105
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣106
-      - 🇺🇸US1️⃣2️⃣1️⃣9️⃣107
-      - 🏳️unKnow1️⃣2️⃣1️⃣9️⃣108
-      - 🇦🇺AU1️⃣2️⃣1️⃣9️⃣109
       - 🇷🇺RU1️⃣2️⃣1️⃣9️⃣119
 
 rules:
