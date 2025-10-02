@@ -32,7 +32,6 @@ dns:
     - time7.*.com
     - ntp.*.com
     - ntp.*.com
-    - ntp1.*.com
     - ntp2.*.com
     - ntp3.*.com
     - ntp4.*.com
