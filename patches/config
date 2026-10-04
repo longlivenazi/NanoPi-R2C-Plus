@@ -2132,16 +2132,6 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: 🇹🇼_TW_台湾_208
-  type: hysteria
-  server: tw-25.497489.xyz
-  port: 10099
-  auth_str: github.com/Alvin9999-newpac/fanqiang
-  sni: tw-25.497489.xyz
-  skip-cert-verify: true
-  alpn:
-  - h3
-  udp: true
 - name: 🇨🇳_CN_中国_209
   type: vless
   server: jp.sofast.live
@@ -2431,7 +2421,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
@@ -2649,7 +2638,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
@@ -2876,7 +2864,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
@@ -3096,7 +3083,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
@@ -3316,7 +3302,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
@@ -3536,7 +3521,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
@@ -3773,7 +3757,6 @@ proxy-groups:
   - 🇯🇵_JP_日本_205
   - 🇯🇵_JP_日本_206
   - 🇸🇬_SG_新加坡_207
-  - 🇹🇼_TW_台湾_208
   - 🇨🇳_CN_中国_209
   - 🇺🇸_US_美国_210
   - 🇨🇳_CN_中国_211
