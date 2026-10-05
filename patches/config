@@ -13,28 +13,6 @@ proxies:
   udp: true
   sni: br-house.9999231.xyz
   skip-cert-verify: true
-- name: '>🇨🇦CA|Ls|1004|TG@FProxies|'
-  server: v35.hdacd.com
-  port: 30835
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  alterId: 2
-  cipher: none
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇨🇦CA|Ls|1004|TG@FProxies| 2'
-  server: 65.21.252.66
-  port: 10801
-  type: socks5
-  skip-cert-verify: true
-  udp: true
-- name: '>🇩🇪DE|Ls|1004|TG@FProxies|'
-  server: 91.107.179.68
-  port: 10809
-  type: socks5
-  skip-cert-verify: true
-  udp: true
 - name: '>🇩🇪DE|Ms|1004|TG@FProxies|'
   server: fan.973511.xyz
   port: 443
@@ -176,13 +154,6 @@ proxies:
   type: socks5
   skip-cert-verify: true
   udp: true
-- name: '>🇮🇳IN|Ls|1004|TG@FProxies|'
-  server: 3.110.20.129
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
 - name: '>🇮🇳IN|Ms|1004|TG@FProxies|'
   server: 144.24.109.215
   port: 51000
@@ -204,53 +175,6 @@ proxies:
   port: 443
   type: http
   tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇯🇵JP|Ls|1004|TG@FProxies|'
-  server: silversbgfgov.vip31.wogbcnmnagfwgov.com
-  port: 11231
-  type: vmess
-  uuid: 605956ee-544d-308e-8b90-51e67c6ea8da
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇯🇵JP|Ls|1004|TG@FProxies| 2'
-  server: 129.211.188.184
-  port: 8443
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  tls: true
-  tfo: false
-  skip-cert-verify: true
-  servername: jp3.yohototo.top
-  network: ws
-  ws-opts:
-    path: /tyxyws
-    headers:
-      Host: jp3.yohototo.top
-  udp: true
-- name: '>🇯🇵JP|Ls|1004|TG@FProxies| 3'
-  server: z3np6rg2.4ya21vwd0lw6ngzk.awstrack.vip
-  port: 16499
-  type: ss
-  cipher: 2022-blake3-aes-128-gcm
-  password: MTgzN2VjYzVmZDliNmY3Mw==:MjA3ZmY5MWEtOWE3MC00Mg==
-  udp: true
-- name: '>🇯🇵JP|Ls|1004|TG@FProxies| 4'
-  server: 8.209.236.192
-  port: 1080
-  type: socks5
-  username: 123456
-  password: 123456
-  skip-cert-verify: true
-  udp: true
-- name: '>🇯🇵JP|Ls|1004|TG@FProxies| 5'
-  server: 115.190.234.160
-  port: 7890
-  type: http
-  tls: false
   skip-cert-verify: true
   udp: true
 - name: '>🇯🇵JP|Ms|1004|TG@FProxies|'
@@ -357,14 +281,6 @@ proxies:
   udp: true
   sni: tw01.9999231.xyz
   skip-cert-verify: true
-- name: '>🇰🇷KR|Ls|1004|TG@FProxies|'
-  server: kind-stork.rooster465.autos
-  port: 443
-  type: trojan
-  password: UX82473651
-  sni: kind-stork.rooster465.autos
-  skip-cert-verify: true
-  udp: true
 - name: '>🇰🇷KR|Ms|1004|TG@FProxies|'
   server: 221.153.174.230
   port: 65003
@@ -385,19 +301,6 @@ proxies:
   port: 443
   type: http
   tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇳🇱NL|Ls|1004|TG@FProxies|'
-  server: 51.158.243.91
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇳🇱NL|Ls|1004|TG@FProxies| 2'
-  server: 157.90.113.23
-  port: 9052
-  type: socks5
   skip-cert-verify: true
   udp: true
 - name: '>🇳🇱NL|Ms|1004|TG@FProxies|'
@@ -564,53 +467,6 @@ proxies:
   sni: www.bing.com
   skip-cert-verify: true
   udp: true
-- name: '>🇸🇬SG|Ls|1004|TG@FProxies|'
-  server: 154.26.138.186
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇸🇬SG|Ls|1004|TG@FProxies| 2'
-  server: d39d6b46-ta1og0-tbnk1n-ueq.sg.oshuawei.com
-  port: 443
-  type: http
-  username: 91df5a86-fcdd-11ef-94aa-f23c913c8d2b
-  password: 91df5a86-fcdd-11ef-94aa-f23c913c8d2b
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇸🇬SG|Ls|1004|TG@FProxies| 3'
-  server: 13.mgjiasuyunnet.26621689.xyz
-  port: 23613
-  type: vmess
-  uuid: 197f388e-e6fb-3edb-9198-fa3ac97b7114
-  alterId: 2
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇸🇬SG|Ls|1004|TG@FProxies| 4'
-  server: sg-2.tr202512.com
-  port: 443
-  type: trojan
-  password: Z9b8ZOzCbmyCwI6Gbz
-  skip-cert-verify: true
-  udp: true
-- name: '>🇸🇬SG|Ls|1004|TG@FProxies| 5'
-  server: 82.102.25.50
-  port: 9443
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇸🇬SG|Ls|1004|TG@FProxies| 6'
-  server: 146.190.80.158
-  port: 9090
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
 - name: '>🇸🇬SG|Ms|1004|TG@FProxies|'
   server: sg01-hy.poke-mon.xyz
   port: 24224
@@ -728,13 +584,6 @@ proxies:
   alpn:
   - h3
   udp: true
-- name: '>🇹🇼TW|Ls|1004|TG@FProxies|'
-  server: 164.52.11.194
-  port: 18080
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
 - name: '>🇹🇼TW|Ms|1004|TG@FProxies|'
   server: twmoon1-cdn-route.couldflare-cdn.com
   port: 1443
@@ -820,107 +669,6 @@ proxies:
   type: http
   tls: true
   skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies|'
-  server: 74.80.181.146
-  port: 9443
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 2'
-  server: jp.sofast.live
-  port: 52683
-  type: vless
-  uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
-  tls: false
-  tfo: false
-  skip-cert-verify: true
-  network: tcp
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 3'
-  server: 139.129.19.184
-  port: 7890
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 4'
-  server: goedkoopgeluid.icu
-  port: 443
-  type: http
-  username: bnVsbDpudWxs
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 5'
-  server: 205.178.186.3
-  port: 8447
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 6'
-  server: 156.229.160.253
-  port: 55000
-  type: hysteria2
-  password: f9e76796-72ba-4af1-9435-a556bd81c140
-  auth: f9e76796-72ba-4af1-9435-a556bd81c140
-  sni: www.bing.com
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 7'
-  server: 43.173.120.13
-  port: 8899
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 8'
-  server: fan.571589.xyz
-  port: 443
-  type: http
-  username: bnVsbDpudWxs
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 9'
-  server: 165.154.162.73
-  port: 8888
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 10'
-  server: 138.199.35.201
-  port: 9002
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 11'
-  server: 162.191.139.40
-  port: 8443
-  type: http
-  tls: true
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 12'
-  server: 85.209.156.148
-  port: 1080
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: '>🇺🇸US|Ls|1004|TG@FProxies| 13'
-  server: jp.sofast.live
-  port: 52683
-  type: vless
-  uuid: 399b6b23-cc40-4831-a494-61948e2df133
-  tls: false
-  tfo: false
-  skip-cert-verify: true
-  network: tcp
   udp: true
 - name: '>🇺🇸US|Ms|1004|TG@FProxies|'
   server: fan.587475.xyz
