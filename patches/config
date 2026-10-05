@@ -206,13 +206,6 @@ proxies:
   tls: true
   skip-cert-verify: true
   udp: true
-- name: '>🇯🇵JP|Hs|1004|TG@FProxies|'
-  server: 47.110.226.74
-  port: 19991
-  type: http
-  tls: false
-  skip-cert-verify: true
-  udp: true
 - name: '>🇯🇵JP|Ls|1004|TG@FProxies|'
   server: silversbgfgov.vip31.wogbcnmnagfwgov.com
   port: 11231
